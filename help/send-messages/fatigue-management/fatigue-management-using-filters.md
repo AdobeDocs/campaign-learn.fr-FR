@@ -1,5 +1,5 @@
 ---
-title: Gestion de la fatigue marketing avec les règles de pression
+title: Gestion de la fatigue à l’aide de filtres prédéfinis
 description: Découvrez comment implémenter la gestion de la fatigue dans Adobe Campaign à l’aide de filtres.
 feature: Gestion de la fatigue
 kt: 7958
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Business Practitioner, Developer, Administrator
 level: Experienced
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 38%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
 
-# Configuration de la gestion de la fatigue à l&#39;aide de filtres prédéfinis
+# Gestion de la fatigue à l’aide de filtres prédéfinis
 
 La gestion de la fatigue contrôle la fréquence et le nombre des messages afin d&#39;éviter une sollicitation excessive des destinataires.
 Découvrez comment implémenter la gestion de la fatigue dans Adobe Campaign à l’aide de filtres.
