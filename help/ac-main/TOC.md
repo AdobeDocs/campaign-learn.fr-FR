@@ -5,10 +5,10 @@ user-guide-title: Tutorials Adobe Campaign
 user-guide-description: Adobe Campaign permet aux marketeurs de concevoir des expériences client à l’échelle de tous les canaux et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et l’exécution cross-canal.
 breadcrumb-title: Tutoriels
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 626b5430b0214926e7134a178dbe4d10d832e5a7
+source-git-commit: 2ceb224ad9caea6b2c74e1e813f2b513cd41673f
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 42%
+source-wordcount: '300'
+ht-degree: 43%
 
 ---
 
@@ -59,8 +59,8 @@ ht-degree: 42%
       + [Définition des propriétés du modèle de diffusion](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Déploiement d’un modèle de diffusion email ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
    + Gestion de la fatigue{#fatigue-management}
-      + [Utiliser des règles de typologie](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
-      + [Utilisation de filtres prédéfinis](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
+      + [Règles de typologie](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
+      + [Filtres prédéfinis](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configuration et gestion des services d’abonnement](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gestion des processus et automatisation{#process-management}
    + [Création d’un workflow](/help/process-management/create-a-workflow.md)
