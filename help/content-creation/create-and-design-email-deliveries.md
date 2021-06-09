@@ -1,5 +1,5 @@
 ---
-title: Concevoir et créer des diffusions email
+title: Création et conception de diffusions email
 description: Découvrez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.
 feature: Email, conception d’email, personnalisation
 kt: 7847
@@ -9,15 +9,15 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
-source-git-commit: 30e16faef1a85a0854b7e4d8fe0177833c631565
+source-git-commit: 23c441d426ed7fe40403efa2f29b2b70b379bbe0
 workflow-type: tm+mt
 source-wordcount: '48'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 
-# Concevoir et créer des diffusions email
+# Création et conception de diffusions email
 
 Découvrez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.
 
