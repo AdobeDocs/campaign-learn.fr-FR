@@ -1,5 +1,5 @@
 ---
-title: Configuration et gestion des services d’abonnement
+title: Configuration et gestion des services d'abonnement
 description: Découvrez comment configurer et gérer les abonnements et cibler les abonnés.
 feature: 'Abonnements     '
 kt: 7790
@@ -10,14 +10,14 @@ team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Experienced
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 
-# Configuration et gestion des services d’abonnement
+# Configuration et gestion des services d&#39;abonnement
 
 Découvrez comment configurer et gérer les abonnements et cibler les abonnés.
 
