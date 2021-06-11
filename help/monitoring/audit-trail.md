@@ -1,7 +1,7 @@
 ---
-title: Journal d’audit
-description: 'Découvrez comment accéder aux journaux du journal d’audit et quels paramètres peuvent être configurés. '
-feature: Journal d’audit
+title: Journal d'audit
+description: 'Découvrez comment accéder aux logs des journaux d''audit et quels paramètres peuvent être configurés. '
+feature: Journal d'audit
 kt: 7969
 doc-type: feature video
 activity: understand
@@ -9,23 +9,23 @@ team: PM
 role: Administrator
 level: Beginner
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 21%
+ht-degree: 100%
 
 ---
 
 
-# Journal d’audit
+# Journal d&#39;audit
 
-[!UICONTROL Le ] journal d’audit capture, en temps réel, une liste complète d’actions et d’événements se produisant dans Adobe Campaign.[!UICONTROL Le ] journal d’audit comprend un moyen en libre-service d’accéder à un historique de données afin de vous aider à répondre à des questions telles que :
+Le [!UICONTROL journal d&#39;audit] capture, en temps réel, une liste complète d&#39;actions et d&#39;événements se produisant dans Adobe Campaign.Le [!UICONTROL journal d&#39;audit] comprend un accès en libre-service à un historique de données permettant de répondre à des questions, notamment :
 
-* Qu’est-il advenu d’un objet ?
-* Qui l’a modifié en dernier et quand ?
-* Quel était l’état précédent ?
+* Qu&#39;est-il advenu d&#39;un objet ?
+* Qui l&#39;a modifié en dernier et quand ?
+* Quel était l&#39;état précédent ?
 
-Découvrez comment accéder aux journaux du journal d’audit et quels paramètres peuvent être configurés.
+Découvrez comment accéder aux logs des journaux d&#39;audit et quels paramètres peuvent être configurés.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Vous trouverez plus d’informations dans la [documentation du journal d’audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+Pour plus d&#39;informations, consultez la [documentation relative au journal d&#39;audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr).
