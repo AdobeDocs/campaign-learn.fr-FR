@@ -12,15 +12,15 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # Création de campagnes cross-canal
 
-Dans une campagne cross-canal, une communication marketing unique utilise plusieurs canaux pour atteindre une audience cible plus large en fonction du canal de destinataire préféré.
+Dans une campagne cross-canal, une communication marketing unique utilise plusieurs canaux pour atteindre une audience cible plus large basée sur le canal destinataire préféré.
 
-Découvrez comment créer une campagne cross-canal à l’aide de diffusions email, SMS et courrier.
+Découvrez comment créer une campagne cross-canal à l&#39;aide de diffusions e-mails, SMS et courrier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
