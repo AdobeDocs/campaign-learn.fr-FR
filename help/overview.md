@@ -1,25 +1,25 @@
 ---
-title: Tutorials Adobe Campaign V8 - Présentation
-description: Adobe Campaign offre une plateforme pour la conception d’expériences client cross-canal et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
-sub-product: Campagne V8
-feature: Vue d’ensemble
+title: Tutoriels Adobe Campaign V8 - Vue d'ensemble
+description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide de l'utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
+sub-product: Campaign V8
+feature: Vue d'ensemble
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 495e99456b53adb650d6a3aac230510e64567fdc
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 18%
+ht-degree: 71%
 
 ---
 
-# Tutorials Adobe Campaign V8 - Présentation
+# Tutoriels Adobe Campaign V8 - Vue d&#39;ensemble
 
-Adobe Campaign offre une plateforme pour la conception d’expériences client cross-canal et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign V8.
+Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign V8.
 
 >[!NOTE]
-> Actuellement, Campaign v8 n’est disponible qu’en tant que Cloud Service géré et ne peut pas être déployé dans des environnements on-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
->Pour plus d’informations sur les différences entre les deux versions, consultez la [documentation du produit Classic v7 vers V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html) . Voir aussi la section [Tutoriels Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) pour savoir comment visionner les vidéos.
+> Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
+>Pour plus d&#39;informations sur les différences entre les deux versions, consultez la [documentation du produit Classic v7 à V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Voir aussi la section [Tutoriels Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) pour des vidéos pratiques.
 
 ## Nouveautés
 
@@ -48,7 +48,7 @@ Adobe Campaign offre une plateforme pour la conception d’expériences client c
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>Création et conception de diffusions email</strong>
+    <strong>Création et conception de diffusions e-mail</strong>
     </a>
     </div> 
     <p>
@@ -74,11 +74,11 @@ Adobe Campaign offre une plateforme pour la conception d’expériences client c
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="Générer un rapport d'analyse descriptive" src="./assets/333994.jpg" />
+      <img alt="Génération d'un rapport d'analyse descriptive" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>Générer un rapport d'analyse descriptive</strong>
+    <strong>Génération d'un rapport d'analyse descriptive</strong>
     </a>
     </div>
     <p>
