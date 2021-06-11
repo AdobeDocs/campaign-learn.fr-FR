@@ -11,14 +11,14 @@ role: Business Practitioner
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # Création de diffusions courrier
 
-Découvrez le fonctionnement de [!UICONTROL courrier] dans [!UICONTROL Adobe Campaign] et découvrez comment créer, formater et exécuter une diffusion [!UICONTROL courrier ].
+Découvrez le fonctionnement du [!UICONTROL courrier] dans [!UICONTROL Adobe Campaign] et comment créer, formater et exécuter une diffusion [!UICONTROL courrier].
 
 >[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12)
