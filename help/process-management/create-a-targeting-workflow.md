@@ -1,7 +1,7 @@
 ---
-title: Création d’un workflow de ciblage
+title: Création d'un workflow de ciblage
 description: Découvrez comment définir plusieurs cibles de diffusion à l'aide d'un workflow de ciblage.
-feature: Workflows, activité de ciblage, éditeur de requêtes
+feature: Workflows, Activité de ciblage, Requêteur
 kt: 7980
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: DOC
 role: Business Practitioner
 level: Beginner
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-# Création d’un workflow de ciblage
+# Création d&#39;un workflow de ciblage
 
-Adobe Campaign utilise des workflows pour réaliser des campagnes de ciblage, créer des campagnes ou exécuter des processus techniques Adobe Campaign.
+Adobe Campaign utilise des workflows pour réaliser des campagnes de ciblage, créer des campagnes ou exécuter des processus techniques Adobe Campaign.
 
 Découvrez comment définir plusieurs cibles de diffusion à l&#39;aide d&#39;un workflow de ciblage.
 
