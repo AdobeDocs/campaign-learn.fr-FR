@@ -1,7 +1,7 @@
 ---
-title: Exécuter une opération
-description: Découvrez comment exécuter une campagne, passer en revue une diffusion email et les propriétés de diffusion.
-feature: Campagnes, Courrier électronique
+title: Exécution d'une campagne
+description: Découvrez comment exécuter une campagne, passer en revue une diffusion e-mail et les propriétés de diffusion.
+feature: Campagnes, E-mail
 kt: 7786
 thumbnail: 329647.jpg
 doc-type: feature video
@@ -14,14 +14,14 @@ hidefromtoc: true
 source-git-commit: 9e794c686fc776dca5b554d4861810a802c5be72
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 19%
+ht-degree: 100%
 
 ---
 
 
-# Exécuter une opération
+# Exécution d&#39;une campagne
 
-Découvrez comment exécuter une campagne, passer en revue une diffusion email et les propriétés de diffusion.
+Découvrez comment exécuter une campagne, passer en revue une diffusion e-mail et les propriétés de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329647?quality=12)
 
