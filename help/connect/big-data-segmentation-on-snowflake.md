@@ -1,6 +1,6 @@
 ---
 title: Gestion des big data sur Snowflake
-description: Découvrez comment tirer parti du connecteur de Snowflake dans Adobe Campaign V8
+description: Découvrez comment tirer profit du connecteur Snowflake dans Adobe Campaign V8
 feature: Federated Data Access
 kt: 7780
 doc-type: feature video
@@ -11,15 +11,15 @@ level: Experienced
 hide: true
 hidefromtoc: true
 source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # Gestion des big data sur Snowflake
 
-Ce tutoriel explique comment tirer parti du connecteur [!DNL Snowflake] dans Adobe Campaign V8.
+Ce tutoriel explique comment tirer profit du connecteur [!DNL Snowflake] dans Adobe Campaign V8.
 Vous apprendrez comment
 
 * Vous connecter à Snowflake
