@@ -6,15 +6,15 @@ kt: 7982
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: 7609aa35dba225a05c8f5e3d3f75f4b6023772a0
+exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
 ---
-
 
 # Configuration de campagnes e-mail récurrentes et au fil de l&#39;eau
 
@@ -34,13 +34,13 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
 ![Diffusion récurrente](/help/assets/delivery_recurring.jpg)
 
-## Configuration d&#39;une diffusion récurrente {#how-to-set-up-a-recurring-delivery}
+## Configuration d’une diffusion récurrente {#how-to-set-up-a-recurring-delivery}
 
 La vidéo explique comment configurer une diffusion récurrente et une activité Planificateur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Comment configurer une diffusion au fil de l&#39;eau{#how-to-set-up-a-continuous-delivery}
+## Comment configurer une diffusion (au fil de l’eau) {#how-to-set-up-a-continuous-delivery}
 
 Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
 
