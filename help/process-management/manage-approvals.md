@@ -1,21 +1,21 @@
 ---
 title: Gestion des validations dans une campagne
 description: Découvrez comment configurer les validations et une campagne et comment différencier les validations de diffusion et de workflow.
-feature: 'Workflows, Validations '
+feature: Workflows, Validations
 kt: 7787
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
-source-git-commit: f6bb16306773a4b6ff7aa390a514e9b31fe047d6
+exl-id: 5526b384-b270-4794-8ce3-7cfd8ddbe16b
+source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
 
 ---
-
 
 # Gestion des validations dans une campagne
 
