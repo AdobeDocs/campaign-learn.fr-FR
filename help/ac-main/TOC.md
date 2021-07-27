@@ -5,10 +5,10 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 2ab58641e8805dd14b045ca497896f94e3b81647
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 96%
+source-wordcount: '296'
+ht-degree: 92%
 
 ---
 
@@ -17,12 +17,12 @@ ht-degree: 96%
 
 + [Vue d&#39;ensemble](/help/overview.md)
 + Prise en main {#getting-started}
-   + [Présentation d&#39;Adobe Campaign ](/help/getting-started/introduction-to-adobe-campaign.md)
-   + [Installation et configuration du client Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-   + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/getting-started/explore-the-adobe-campaign-user-interface.md)
-   + [Gestion des campagnes marketing](/help/getting-started/manage-marketing-campaigns.md)
-   + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/getting-started/create-a-marketing-plan-programs-and-campaigns.md)
-   + [Création de campagnes déclenchées par un événement](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Installation et configuration du client Adobe Campaign](/help/get-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
+   + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
+   + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
+   + [Création de campagnes déclenchées par un événement](/help/get-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
    + [Ciblage de profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
@@ -65,12 +65,12 @@ ht-degree: 96%
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + [Création d&#39;un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
-   + [Utilisation de l&#39;activité de mise à jour de liste pour créer une liste avec un workflow](/help/process-management/use-the-update-list-activity.md)
+   + [Créer des workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
    + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Création de workflows de validation](/help/process-management/create-validation-workflows.md)
    + [Gestion des validations](/help/process-management/manage-approvals.md)
+   + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
 + Data Management {#data-management}
    + [Import de profils](/help/data-management/import-profiles.md)
