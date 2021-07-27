@@ -2,15 +2,14 @@
 title: Utilisation de l'activité de mise à jour de liste pour créer une liste avec un workflow
 description: Découvrez le concept des listes dans Adobe Campaign et apprenez comment créer une liste à l'aide de l'activité de mise à jour de liste dans un workflow.
 feature: Workflows, Activité de ciblage, Requêteur
-kt: 7988
-thumbnail: 35620.jpg
+kt: 7840
+thumbnail: 334909.jpg
 doc-type: feature video
 activity: use
-team: WWFRE
+team: TM
 role: User
 level: Beginner
-exl-id: a8cc7fed-0818-4dcb-8360-fda9dc79dae7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: ae66723c1d9cd54b5d378354bd780febadbb73ae
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 100%
@@ -21,7 +20,7 @@ ht-degree: 100%
 
 Découvrez le concept des listes dans Adobe Campaign et apprenez comment créer une liste à l&#39;aide de l&#39;activité de mise à jour de liste dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12)
 
 ## Ressources supplémentaires
 
