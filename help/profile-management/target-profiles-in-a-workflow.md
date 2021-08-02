@@ -1,7 +1,6 @@
 ---
 title: Ciblage de profils dans un workflow
-description: Maîtrisez l'utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l'aide de conditions de filtrage.
-feature: Workflows
+description: Découvrez l'utilisation des workflows de campagne et comment créer un workflow et utiliser les conditions de filtrage pour cibler des profils dans un workflow.
 kt: 7842
 thumbnail: 334300.jpg
 doc-type: feature video
@@ -9,16 +8,16 @@ activity: use
 team: WWFRE
 role: User
 level: Beginner
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 08e46479272cd319377fdf27f8585acc47deea06
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 45%
 
 ---
 
 # Ciblage de profils dans un workflow
 
-Maîtrisez l&#39;utilisation des workflows de campagne et découvrez comment créer un workflow et cibler des profils dans un workflow à l&#39;aide de conditions de filtrage.
+Découvrez l&#39;utilisation des workflows de campagne et comment créer un workflow et utiliser les conditions de filtrage pour cibler des profils dans un workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334300?quality=12)
 
