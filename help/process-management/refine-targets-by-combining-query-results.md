@@ -1,6 +1,6 @@
 ---
 title: Affinage des cibles en combinant les résultats des requêtes
-description: Découvrez comment affiner votre cible en combinant les résultats des requêtes dans un workflow à l'aide des activités d'intersection ou d'union.
+description: Découvrez comment affiner votre cible à l’aide d’activités d’intersection ou d’union pour combiner les résultats des requêtes dans un workflow.
 feature: Workflows, Activité de ciblage, Requêteur
 kt: 7844
 thumbnail: 334304.jpg
@@ -10,16 +10,16 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
+source-git-commit: 54bfc29ea7ad14325b13f8ca488c4ff207c2f3a8
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 52%
 
 ---
 
 # Affinage des cibles en combinant les résultats des requêtes
 
-Découvrez comment affiner votre cible en combinant les résultats des requêtes dans un workflow à l&#39;aide des activités d&#39;**[!UICONTROL intersection]** ou d&#39;**[!UICONTROL union]**.
+Découvrez comment affiner votre cible à l’aide d’activités d’intersection ou d’union pour combiner les résultats des requêtes dans un workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12)
 
