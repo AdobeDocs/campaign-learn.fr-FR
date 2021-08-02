@@ -1,6 +1,6 @@
 ---
 title: Affinage des cibles en excluant les résultats des requêtes
-description: Découvrez comment affiner votre cible en appliquant une exclusion standard à un workflow, comment créer des filtres prédéfinis et comment tirer le meilleur parti de votre workflow.
+description: Découvrez comment affiner votre cible en appliquant une  exclusion standard à un workflow. Découvrez comment créer des filtres prédéfinis et résoudre les problèmes liés à votre workflow.
 feature: Workflows, Activité de ciblage, Requêteur
 kt: 7845
 thumbnail: 335609.jpg
@@ -10,16 +10,16 @@ team: TM
 role: User
 level: Beginner
 exl-id: b10ac23b-8625-42e2-92ce-3c1dfbac4127
-source-git-commit: 3ea823cd6d68b646e8d1e2b7d6ea672dc0bf2bf0
+source-git-commit: 5a965ea73bfe3b04d388c1db1c16c25c2aaae44e
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 46%
+source-wordcount: '96'
+ht-degree: 47%
 
 ---
 
 # Affinage des cibles en excluant les résultats des requêtes
 
-Découvrez comment affiner votre cible en appliquant une **[!UICONTROL exclusion standard]** à un workflow, comment créer des filtres prédéfinis et comment tirer parti de votre workflow.
+Découvrez comment affiner votre cible en appliquant une  exclusion standard à un workflow. Découvrez comment créer des filtres prédéfinis et résoudre les problèmes liés à votre workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12)
 
