@@ -5,7 +5,7 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
-source-git-commit: 685d9d1c417cf26af3e518ca5e0b1a363831d66d
+source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 92%
@@ -23,7 +23,7 @@ ht-degree: 92%
    + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Création de campagnes déclenchées par un événement](/help/get-started/create-event-triggered-campaigns.md)
-+ Gestion des profils {#profile-management}
++ Gérer les profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
    + [Ciblage de profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orchestration des campagnes {#campaign-orchestration}
@@ -58,7 +58,7 @@ ht-degree: 92%
       + [Création d&#39;un modèle de diffusion](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Définition des propriétés du modèle de diffusion](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Gestion de la lassitude{#fatigue-management}
+   + Gestion de la fatigue{#fatigue-management}
       + [Règles de typologie](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtres prédéfinis](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configuration et gestion des services d&#39;abonnement](/help/send-messages/configure-and-manage-subscription-services.md)
@@ -72,7 +72,7 @@ ht-degree: 92%
    + [Gestion des validations](/help/process-management/manage-approvals.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
-+ Data Management {#data-management}
++ Gestion des données {#data-management}
    + [Import de profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
 + Connexion à d&#39;autres solutions {#connect}
