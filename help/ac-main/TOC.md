@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign permet aux spécialistes du marketing de 
 breadcrumb-title: Tutoriels
 breadcrumb-url: /docs/campaign-learn/tutorials/overview.html
 source-git-commit: b992915fa4eae36296ea23f8b073458418014cf4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 92%
    + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Création de campagnes déclenchées par un événement](/help/get-started/create-event-triggered-campaigns.md)
-+ Gérer les profils {#profile-management}
++ Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
    + [Ciblage de profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orchestration des campagnes {#campaign-orchestration}
@@ -48,7 +48,7 @@ ht-degree: 92%
       + [Conception d&#39;e-mails pour la délivrabilité](/help/send-messages/email/design-emails-for-deliverability.md)
       + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
    + SMS {#sms}
-      + [Créer une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installation du canal applications mobiles (Mobile App Channel)](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
@@ -58,14 +58,14 @@ ht-degree: 92%
       + [Création d&#39;un modèle de diffusion](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Définition des propriétés du modèle de diffusion](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Gestion de la fatigue{#fatigue-management}
+   + Gestion de la lassitude{#fatigue-management}
       + [Règles de typologie](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtres prédéfinis](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configuration et gestion des services d&#39;abonnement](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + [Créer des workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
+   + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
    + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
    + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
    + [Création de workflows de validation](/help/process-management/create-validation-workflows.md)
@@ -81,7 +81,7 @@ ht-degree: 92%
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Contrôle              {#monitoring}
++ Contrôle  {#monitoring}
    + [Carte thermique des workflows](/help/monitoring/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring/audit-trail.md)
 
