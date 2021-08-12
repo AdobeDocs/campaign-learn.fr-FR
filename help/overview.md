@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: b2f45f3ac832b0fca913a74d2df2baa6303e5a43
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 >[!NOTE]
 > Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
->Pour plus d&#39;informations sur les différences entre les deux versions, consultez la [documentation du produit Classic v7 à V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html). Voir aussi la section [Tutoriels Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) pour des vidéos pratiques.
+>Pour plus d&#39;informations sur les différences entre les deux versions, consultez la [documentation du produit Classic v7 à V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=fr). Voir aussi la section [Tutoriels Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) pour des vidéos pratiques.
 
 ## Nouveautés
 
-[Fonctionnalités principales](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html)
+[Fonctionnalités principales](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 
 ## Suggestions du personnel
 
@@ -31,20 +31,20 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 <tr>
   <td>
     <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-      <img alt="Créer un plan marketing, un programme et des campagnes (vidéo)" src="./assets/333810.jpg"/>
+      <img alt="Création d’un plan marketing, de programmes et de campagnes (vidéo)" src="./assets/333810.jpg"/>
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Créer un plan marketing</strong>
+    <strong>Création d’un plan marketing</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment créer un plan, un programme et une campagne marketing.</em>
+    <em>Découvrez comment créer un plan marketing, un programme et une campagne.</em>
     <p>
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Créer et concevoir des diffusions email (vidéo)" src="./assets/333476.jpg" />
+      <img alt="Création et conception de diffusions e-mail (vidéo)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
@@ -52,21 +52,21 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     </a>
     </div> 
     <p>
-    <em>Maîtrisez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.
+    <em>Maîtrisez le processus de création d’une diffusion e-mail et apprenez à concevoir et à personnaliser du contenu d’e-mail.
 </em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="Gestion de la fatigue à l’aide de règles de typologie (vidéo)" src="./assets/333787.jpg" />
+      <img alt="Gestion de la lassitude à l’aide de règles de typologie (vidéo)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Gestion de la fatigue à l’aide de règles de typologie</strong>
+    <strong>Gestion de la lassitude à l’aide de règles de typologie</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment implémenter la gestion de la fatigue dans Adobe Campaign à l’aide de règles de typologie.  </em>
+    <em>Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l'aide de règles de typologie. </em>
     <p>
   </td>
 </tr>
@@ -82,7 +82,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     </a>
     </div>
     <p>
-    <em>Découvrez comment générer un [!UICONTROL rapport d’analyse descriptive] à partir d’un workflow.</em>
+    <em>Découvrez comment générer un rapport d'analyse descriptive à partir d'un workflow.</em>
     <p>
   </td>
 
@@ -90,4 +90,4 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Ressources supplémentaires
 
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html)
+* [Documentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr)
