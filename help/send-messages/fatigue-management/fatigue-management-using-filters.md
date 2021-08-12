@@ -1,5 +1,5 @@
 ---
-title: Gestion de la fatigue à l’aide de filtres prédéfinis
+title: Gestion de la lassitude à l’aide de filtres prédéfinis
 description: Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l'aide de filtres.
 feature: Gestion de la lassitude
 kt: 7958
@@ -11,13 +11,13 @@ role: User, Developer, Admin
 level: Experienced
 exl-id: 925727d6-0e4e-4433-8830-001d91e6cf9c
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Gestion de la fatigue à l’aide de filtres prédéfinis
+# Gestion de la lassitude à l’aide de filtres prédéfinis
 
 La gestion de la lassitude contrôle la fréquence et le nombre des messages afin d&#39;éviter une sollicitation excessive des destinataires.
 Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l&#39;aide de filtres.
