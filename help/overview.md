@@ -6,10 +6,10 @@ feature: Vue d'ensemble
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 813c9af51ac9605455d97e7a07c58d02520b62b1
+source-git-commit: 047d3143f879e3d916505cbb26c88c0549ac5ccb
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 86%
+source-wordcount: '346'
+ht-degree: 84%
 
 ---
 
@@ -26,7 +26,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-[Fonctionnalités principales](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
+Présentation des [Fonctionnalités clés](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)d’Adobe Campaign v8.
 
 ## Suggestions du personnel
 
