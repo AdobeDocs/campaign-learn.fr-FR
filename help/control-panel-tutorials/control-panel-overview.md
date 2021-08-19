@@ -1,23 +1,23 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Le Panneau de Contrôle Adobe Campaign permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer les clés GPG ou les sous-domaines et les certificats.
-landing-page-description: Le panneau de contrôle permet aux administrateurs Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer des clés GPG ou des sous-domaines et des certificats.
+description: Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
+landing-page-description: Le Panneau de Contrôle Adobe Campaign permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
 feature: Panneau de contrôle
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 64%
+source-wordcount: '216'
+ht-degree: 51%
 
 ---
 
 # Panneau de contrôle - Présentation
 
-Le Panneau de Contrôle Adobe Campaign permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, gérer les clés GPG ou les sous-domaines et les certificats.
+Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
 
 ## Suggestions du personnel
 
