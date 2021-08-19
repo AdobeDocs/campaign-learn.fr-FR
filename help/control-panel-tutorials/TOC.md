@@ -7,10 +7,10 @@ index: true
 feature: Panneau de contrôle
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
+source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 46%
+source-wordcount: '89'
+ht-degree: 49%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 46%
 + [Prise en main du Panneau de Contrôle](/help/control-panel-tutorials/get-started.md)
 + Gestion SFTP {#sftp-management}
    + [Surveillance de la capacité du serveur](/help/control-panel-tutorials/sftp-management/monitor-server-capacity.md)
-   + [Ajout d’une plage d’adresses IP à la liste autorisée](/help/control-panel-tutorials/sftp-management/add-ip-range-to-allowlist.md)
+   + [Plages IP de liste autorisée](/help/control-panel-tutorials/sftp-management/allowlist-ip-range.md)
    + [Génération d’une clé SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Connexion à un serveur SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Paramètres des instances {#instance-settings}
-   + [Ajout d’adresses IP aux listes autorisées](/help/control-panel-tutorials/instance-settings/ip-allow-listing.md)
+   + [Adresses IP de liste autorisée](/help/control-panel-tutorials/instance-settings/allowlist-ip-address.md)
    + [Ajout d’autorisations d’URL](/help/control-panel-tutorials/instance-settings/add-url-permissions.md)
    + Gestion des clés GPG {#gpg-key-management}
       + [Vue d&#39;ensemble](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
