@@ -5,7 +5,7 @@ feature: Panneau de contrôle
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 31%
@@ -18,7 +18,7 @@ GPG (GnuPG) crypte les messages en utilisant des paires de clés individuelles a
 
 Découvrez comment générer et installer une paire de clés publique/privée sur une instance [!DNL Campaign] spécifiée.
 
-1. [Génération et installation de clés GPG pour le cryptage des données](./generate-and-install-gpg-keys-for-data-encryption.md)
+1. [Génération et installation de clés GPG pour le cryptage des données](./generate-and-install-gpg-keys.md)
 2. [Utilisation d’une clé GPG pour crypter des données](./use-a-gpg-key-to-encrypt-data.md)
 3. [Décrypter des données](./decrypt-data.md)
 
