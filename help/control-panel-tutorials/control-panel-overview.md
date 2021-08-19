@@ -8,9 +8,9 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: e64bbfc8f0afd2e4a6b3bd98b261e0554ff51a78
+source-git-commit: 04659ac7587f21644110bdb4c2c2bf65bc5a49c6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '211'
 ht-degree: 64%
 
 ---
@@ -24,11 +24,11 @@ Le Panneau de Contrôle Adobe Campaign permet aux administrateurs d’Adobe Camp
 <table>
 <tr>
 <td>
-    <a href="./getting-started-with-the-control-panel.md">
+    <a href="./get-started.md">
       <img alt="Se connecter à un serveur SFTP" src="./assets/kt-6385.jpg" />
     </a>
     <div>
-      <a href="./getting-started-with-the-control-panel.md">
+      <a href="./get-started.md">
     <strong>Prise en main du Panneau de Contrôle</strong>
     </a>
     </div>
