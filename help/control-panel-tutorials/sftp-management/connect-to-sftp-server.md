@@ -9,10 +9,10 @@ activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
+source-git-commit: 1febbcfc007f231ef797ef203830df9c0ef1a14e
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 72%
+ht-degree: 67%
 
 ---
 
@@ -25,7 +25,7 @@ Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur�
 * [Accueil Experience Cloud](https://experience.adobe.com/#/home) > Sélecteur de solution : **[!DNL Campaign]** > Vignette **Panneau de contrôle** > Vignette **SFTP**
 
    ou
-* Directement à partir de l’URL : [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
+* Directement à partir de l’URL : [https://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
 ## Comment se connecter à un serveur SFTP
 
