@@ -1,7 +1,7 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
-landing-page-description: Le Panneau de Contrôle Adobe Campaign permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
+description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
+landing-page-description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
 feature: Panneau de contrôle
 doc-type: feature video
 activity: use
@@ -9,15 +9,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 # Panneau de contrôle - Présentation
 
-Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller les ressources clés et d’effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.
+Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
 
 ## Suggestions du personnel
 
@@ -29,7 +29,7 @@ Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller
     </a>
     <div>
       <a href="./get-started.md">
-    <strong>Prise en main du Panneau de Contrôle</strong>
+    <strong>Prise en main du panneau de contrôle</strong>
     </a>
     </div>
     <p>
@@ -42,7 +42,7 @@ Panneau de Contrôle permet aux administrateurs d’Adobe Campaign de surveiller
     </a>
     <div>
       <a href="./instance-settings/gpg-key-management/generate-and-install-gpg-keys.md">
-    <strong>Génération et installation de clés GPG pour le cryptage des données</strong>
+    <strong>Génération et installation de clés GPG pour le chiffrement des données</strong>
     </a>
     </div>
     <p>
