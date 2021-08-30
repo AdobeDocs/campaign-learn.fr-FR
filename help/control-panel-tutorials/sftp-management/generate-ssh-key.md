@@ -1,6 +1,6 @@
 ---
 title: Génération d’une clé SSH
-description: Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le Panneau de Contrôle.
+description: Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le panneau de contrôle.
 feature: Panneau de contrôle
 kt: 8512
 thumbnail: 27259.jpg
@@ -10,15 +10,15 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
-ht-degree: 31%
+ht-degree: 100%
 
 ---
 
 # Génération d’une clé SSH
 
-Générez une clé SSH, puis ajoutez la version publique au Panneau de Contrôle.
+Générez une clé SSH, puis ajoutez la version publique au panneau de contrôle.
 
 ## Accès à la gestion SFTP dans le panneau de contrôle
 
@@ -32,8 +32,8 @@ Pour accéder à la gestion SFTP dans le panneau de contrôle, rendez-vous sur�
 
 ## Génération d’une clé SSH
 
-Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le Panneau de Contrôle.
+Découvrez comment générer une clé SSH à l’aide d’un terminal et comment stocker la version publique de la clé dans le panneau de contrôle.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 
-*Comment créer une clé SSH (2:16 min)*
+*Création d’une clé SSH (2:16 min)*
