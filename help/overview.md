@@ -7,9 +7,9 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 90b7567de183292b359d2e606e8c2f296d702fa7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 78%
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign V8.
 
 >[!INFO]
-> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger vos idées avec vos pairs ? Ou avez-vous des commentaires sur le contenu d’apprentissage pour l’équipe d’Adobe ? Rejoignez la conversation dans le [fil de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) !
+> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l’équipe d’Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) !
 
 >[!NOTE]
 > Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
@@ -26,7 +26,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html)**
+* **[Panneau de contrôle](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/control-panel-overview.html?lang=fr)**
 
    *Découvrez comment surveiller les ressources clés et effectuer des tâches administratives, comme gérer l’espace de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer des clés GPG.*
 
