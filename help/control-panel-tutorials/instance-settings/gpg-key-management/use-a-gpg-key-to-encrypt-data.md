@@ -1,5 +1,5 @@
 ---
-title: 'Utilisation d’une clé GPG pour crypter des données '
+title: 'Utilisation d''une clé GPG pour chiffrer des données '
 description: Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle.
 feature: Panneau de contrôle
 kt: 8518
@@ -10,13 +10,13 @@ team: PM
 role: Admin
 level: Experienced
 source-git-commit: f8ed9264e592f4adf070a517049e3d36fc3112d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Utilisation d’une clé GPG pour crypter des données
+# Utilisation d&#39;une clé GPG pour chiffrer des données
 
 Découvrez comment exporter des données à l’aide d’une clé GPG installée sur le panneau de contrôle.
 
