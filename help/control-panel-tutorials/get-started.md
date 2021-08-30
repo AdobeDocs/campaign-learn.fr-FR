@@ -1,5 +1,5 @@
 ---
-title: Prise en main du Panneau de Contrôle
+title: Prise en main du panneau de contrôle
 description: Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser.
 feature: Panneau de contrôle
 kt: 8509
@@ -10,13 +10,13 @@ team: TM
 role: Admin
 level: Experienced
 source-git-commit: 80d3fab30d8b440d82b3641cd86eca312e44de1a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Prise en main du [!UICONTROL Panneau de Contrôle] {#control-panel}
+# Prise en main du [!UICONTROL panneau de contrôle] {#control-panel}
 
 Le [!UICONTROL panneau de contrôle] permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage [!DNL SFTP] par instance, gérer des clés [!DNL GPG] ou des [!UICONTROL sous-domaines] et des [!UICONTROL certificats].
 
@@ -26,7 +26,7 @@ Cet article explique comment accéder au panneau de contrôle et présente les c
 
 Le panneau de contrôle est accessible à tous les utilisateurs administrateurs. Les étapes permettant d’octroyer un accès administrateur à un utilisateur sont présentées dans la [documentation du produit](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=fr#discover-control-panel).
 
-Pour accéder au Panneau de Contrôle, accédez à la page d’accueil de l’Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
+Pour accéder au panneau de contrôle, rendez-vous sur la page d’accueil Experience Cloud : [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) :
 
 * **[!UICONTROL Accueil Experience Cloud]** > **[!UICONTROL Accès rapide]**
 
@@ -43,7 +43,7 @@ Avant de commencer, remplissez les conditions préalables suivantes :
 
 ### Confirmer [!DNL IMS Org ID]
 
-La vidéo suivante explique où vous pouvez rechercher la [!DNL IMS org ID] de votre instance.
+La vidéo ci-dessous montre où vous pouvez trouver l’[!DNL IMS org ID] de votre instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
