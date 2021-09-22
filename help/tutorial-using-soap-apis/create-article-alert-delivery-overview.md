@@ -1,5 +1,5 @@
 ---
-title: Créer une diffusion email "alerte nouvel article" pour les abonnés - Aperçu
+title: Création d’une diffusion d’alerte d’article - Aperçu
 description: Découvrez comment créer un workflow qui avertit les destinataires de tout nouvel article auquel ils se sont abonnés via une diffusion email.
 feature: Workflows, Targeting Activity, Query Editor
 doc-type: feature video
@@ -7,14 +7,14 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
+source-git-commit: cd82b3ba087ed7d724798b1604588834475a3f5c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# Créer une diffusion email &quot;alerte nouvel article&quot; pour les abonnés - Aperçu
+# Création d’une diffusion d’alerte d’article - Aperçu
 
 Découvrez comment créer un workflow qui avertit les destinataires de tout nouvel article auquel ils se sont abonnés via une diffusion email.
 
