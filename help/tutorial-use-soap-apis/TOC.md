@@ -3,7 +3,7 @@ user-guide-title: Utilisation des API SOAP de Campaign
 user-guide-description: Découvrez comment utiliser les API Adobe Campaign Soap et créer un workflow de diffusion avancé.
 breadcrumb-title: Utilisation des API SOAP de Campaign
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: 947b484ba08f8d552566d706e2e72a29a3bb6c2d
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,4 +20,4 @@ ht-degree: 0%
 + Étape 4 - Création d’une diffusion d’alerte d’article{#article-alert-email}
    + [Création d’une diffusion d’alerte d’article](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
    + [Partie 1 - Requête sur les articles et les valeurs d&#39;abonnement des destinataires](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Partie 2 - Joindre les colonnes et envoyer la diffusion email](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
+   + [Partie 2 - Envoyer une diffusion aux destinataires abonnés](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

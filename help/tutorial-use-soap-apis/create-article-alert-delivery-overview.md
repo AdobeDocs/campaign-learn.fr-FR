@@ -7,9 +7,9 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 20dc3aa4b30d8b6ee1d87b10607fb24afc09292a
+source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,5 @@ Découvrez comment créer un workflow qui avertit les destinataires de tout nouv
 
 *Interrogation des données à l’aide de différentes dimensions de ciblage et de filtrage, et association des sorties à l’aide d’une intersection.*
 
-**Etape 2 :** [Rejoindre des colonnes et envoyer la diffusion email](/help/tutorial-use-soap-apis/join-columns-and-send-automated-email-delivery.md)
-
-*Découvrez comment joindre deux segments et ajouter une diffusion email personnalisée, avec les informations d’article reçues via une API, au workflow d’abonnement à la newsletter créé à l’étape précédente.*
+**Étape 2 :** [Envoyer une diffusion aux ](/help/tutorial-use-soap-apis/send-delivery-to%20subscribed-recipients.md)
+*destinataires abonnésDécouvrez comment joindre deux segments de données, créer un email d’alerte d’article et le personnaliser en fonction des données reçues d’une API externe.*
