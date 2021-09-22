@@ -3,9 +3,9 @@ user-guide-title: Utilisation des API SOAP de Campaign
 user-guide-description: Découvrez comment utiliser les API Adobe Campaign Soap et créer un workflow de diffusion avancé.
 breadcrumb-title: Utilisation des API SOAP de Campaign
 breadcrumb-url: /campaign-learn/using-soap-apis/introduction.html
-source-git-commit: a30d1c80a8ee3d41c7bdbdf355a4ad0227251414
+source-git-commit: 87bf30887ee6dfd08094ce4a94a7cd1cdcaa2641
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 + [Étape 1 - Prise en main des API SOAP](/help/tutorial-using-soap-apis/get-started-with-soap-apis.md)
 + [Étape 2 - Ajout de destinataires et d’articles à l’aide de la requête API SOAP](/help/tutorial-using-soap-apis/add-recipients-and-articles-using-using-soap-api-requests.md)
 + [Étape 3 - Abonner les utilisateurs via l&#39;API SOAP](/help/tutorial-using-soap-apis/subscribe-users-via-soap-api.md)
-+ Étape 4 - Créer une diffusion email &quot;alerte nouvel article&quot; pour les abonnés{#article-alert-email}
-   + [Créer une diffusion email &quot;alerte nouvel article&quot; pour les abonnés](/help/tutorial-using-soap-apis/create-article-alert-email-overview.md)
-   + [Requête sur les articles et les valeurs d&#39;abonnement des destinataires](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
-   + [Joindre des colonnes et envoyer une diffusion email](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
++ Étape 4 - Création d’une diffusion d’alerte d’article{#article-alert-email}
+   + [Création d’une diffusion d’alerte d’article](/help/tutorial-using-soap-apis/create-article-alert-delivery-overview.md)
+   + [Partie 1 - Requête sur les articles et les valeurs d&#39;abonnement des destinataires](/help/tutorial-using-soap-apis/query-articles-and-recipient-subscription-values.md)
+   + [Partie 2 - Joindre les colonnes et envoyer la diffusion email](/help/tutorial-using-soap-apis/join-columns-and-send-automated-email-delivery.md)
