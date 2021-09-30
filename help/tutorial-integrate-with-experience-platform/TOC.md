@@ -3,7 +3,7 @@ user-guide-title: Intégration à Experience Platform
 user-guide-description: Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet la communication entre les deux solutions.
 breadcrumb-title: Intégration à Experience Platform
 breadcrumb-url: /campaign-learn/integrate-with-experience-platform/introduction.html
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Intégration à Experience Platform {#experience-platform-data-integration}
 
-+ [Introduction](/help/tutorial-integrate-with-experience-platform/introduction.md)
++ [Vue d’ensemble](/help/tutorial-integrate-with-experience-platform/overview.md)
 + [Importation de données Experience Platform dans Campaign]{#import-experience-platform-data-into-campaign}
    + [Connexion de Campaign à Experience Platform en tant que destination](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
    + [Importer les données de destinataire depuis un Experience Platform et envoyer un email](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
