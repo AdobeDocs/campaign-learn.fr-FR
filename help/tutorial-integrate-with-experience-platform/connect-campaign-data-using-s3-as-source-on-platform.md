@@ -1,5 +1,5 @@
 ---
-title: Connexion des données de Campaign à l’aide d’une source sur Adobe Experience Platform
+title: Connexion des données Campaign à l’aide de S3 comme source dans Adobe Experience Platform
 description: Découvrez comment ingérer des données à l’aide d’un connecteur source dans Experience Platform pour mettre à jour les données de profil avec les logs de campagne exportés.
 feature: Data Import/Export, Data Management
 kt: 8159
@@ -9,15 +9,15 @@ activity: use
 team: TM
 role: Developer
 level: Experienced
-source-git-commit: 9a75069ee3bb9352ba7fa5350eb54e421e9427c8
+source-git-commit: c685927a01d08ae6533399ad2466967c6cd3f9fd
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 2%
 
 ---
 
 
-# Connexion des données de Campaign à l’aide d’une source sur Adobe Experience Platform
+# Connexion des données Campaign à l’aide de S3 comme source dans Adobe Experience Platform
 
 Découvrez comment ingérer des données à l’aide d’un connecteur source dans Experience Platform pour mettre à jour les données de profil avec les logs de campagne exportés.
 
