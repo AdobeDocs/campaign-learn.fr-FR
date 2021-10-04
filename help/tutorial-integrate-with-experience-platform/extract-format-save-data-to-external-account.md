@@ -1,6 +1,6 @@
 ---
 title: Créer un workflow d'export (Partie 2) - Extraction, formatage et enregistrement des données dans un compte externe
-description: Dans cette deuxième partie du tutoriel Créer un workflow d’exportation , vous apprenez à formater les données à exporter et à enregistrer les données dans un compte externe. 
+description: Dans cette deuxième partie du tutoriel Créer un workflow d’exportation , vous apprenez à formater les données à exporter et à enregistrer les données dans un compte externe.
 feature: Data Import/Export, Workflows
 kt: 8160
 thumbnail: 336391.jpg
@@ -9,13 +9,13 @@ activity: setup
 team: TM
 role: Admin
 level: Beginner, Experienced
-source-git-commit: 75131bcf23154c05621bb6b63224ad906ec96ecd
+exl-id: ac29b75c-a838-4183-8ec5-034281290725
+source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 1%
 
 ---
-
 
 # Créer un workflow d&#39;export (partie 2) : Extraction, formatage et enregistrement de données dans un compte externe
 
