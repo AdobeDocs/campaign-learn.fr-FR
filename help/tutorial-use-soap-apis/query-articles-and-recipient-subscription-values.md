@@ -1,6 +1,6 @@
 ---
-title: Requête sur les articles et les valeurs d'abonnement des destinataires
-description: Découvrez comment interroger les données à l’aide de différentes dimensions de ciblage et de filtrage, et comment joindre les sorties à l’aide d’une intersection pour le cas d’utilisation de la création d’une diffusion de condensé de contenu automatisée.
+title: Requête sur les articles et les valeurs d’abonnement des destinataires
+description: Découvrez comment interroger les données à l’aide de différentes dimensions de ciblage et de filtrage, et comment associer les sorties à l’aide d’une intersection pour le cas d’utilisation de la création d’une diffusion de synthèse de contenu automatisée.
 feature: Workflows, Targeting Activity, Query Editor
 kt: 8166
 thumbnail: 336537.jpg
@@ -9,17 +9,17 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 053a657f-e399-44a8-8c4b-17d08e82e4a9
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Requête sur les articles et les valeurs d’abonnement des destinataires
 
-# Requête sur les articles et les valeurs d&#39;abonnement des destinataires
-
-Découvrez comment interroger les données à l’aide de différentes dimensions de ciblage et de filtrage, et comment joindre les sorties à l’aide d’une intersection pour le cas d’utilisation de la création d’une diffusion de condensé de contenu automatisée.
+Découvrez comment interroger les données à l’aide de différentes dimensions de ciblage et de filtrage, et comment associer les sorties à l’aide d’une intersection pour le cas d’utilisation de la création d’une diffusion de synthèse de contenu automatisée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12)
 
