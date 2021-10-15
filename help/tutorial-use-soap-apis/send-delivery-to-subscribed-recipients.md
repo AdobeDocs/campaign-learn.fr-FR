@@ -9,16 +9,16 @@ activity: use
 team: DOC
 role: User
 level: Beginner
-source-git-commit: 059b2b5d5cec90890d640cfe8bc3711930a8a068
-workflow-type: tm+mt
+exl-id: 3280371c-b088-4da9-bc2c-f7a401719db8
+source-git-commit: f9944b896adbb7e4b023e667a6b7895a8399724a
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-
 # Envoyer une diffusion aux destinataires abonnés
 
-Découvrez comment joindre deux segments de données, créer un email d’alerte d’article et le personnaliser en fonction des données reçues d’une API externe. Nous continuerons à créer le workflow créé à l&#39;étape précédente : [Vidéo Requête sur les articles et les valeurs d’abonnement des destinataires](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
+Découvrez comment joindre deux segments de données, créer un email d’alerte d’article et le personnaliser en fonction des données reçues d’une API externe. Nous continuerons à créer le processus initié à l&#39;étape précédente : [Vidéo Requête sur les articles et les valeurs d’abonnement des destinataires](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12)
