@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutoriels sur le panneau de contrôle d’Adobe Campaign
+user-guide-title: Tutoriels sur le panneau de contrôle d'Adobe Campaign
 user-guide-description: Découvrez comment surveiller les ressources clés de vos instances Adobe Campaign et effectuer des tâches administratives dans le panneau de contrôle.
 breadcrumb-title: Tutoriels sur le panneau de contrôle
 index: true
@@ -7,14 +7,14 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: a3339f32f8ea60dbde9405271b288aafa99e984c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
 ---
 
 
-# Panneau de contrôle d’Adobe Campaign - Tutoriels {#control-panel}
+# Panneau de contrôle d&#39;Adobe Campaign - Tutoriels {#control-panel}
 
 + [Vue d’ensemble](/help/control-panel-tutorials/control-panel-overview.md)
 + [Prise en main du panneau de contrôle](/help/control-panel-tutorials/get-started.md)
