@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: bb2bf76ea1dc1750a6b3f47d2dd582064605996d
-workflow-type: ht
-source-wordcount: '338'
-ht-degree: 100%
+source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+workflow-type: tm+mt
+source-wordcount: '343'
+ht-degree: 98%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 100%
    + SMS {#sms}
       + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
-      + [Installation du canal applications mobiles (Mobile App Channel)](/help/send-messages/mobile/install-the-mobile-app.md)
+      + [Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Canal Courrier {#direct-mail}
       + [Création de diffusions courrier](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
@@ -73,6 +73,7 @@ ht-degree: 100%
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
 + Gestion des données {#data-management}
+   + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Import de profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
