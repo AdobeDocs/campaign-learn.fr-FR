@@ -2,7 +2,7 @@
 product: adobe campaign
 sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
-user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
+user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
 workflow-type: tm+mt
@@ -15,10 +15,10 @@ ht-degree: 98%
 # Tutoriels sur Adobe Campaign V8 {#tutorials}
 
 + [Vue d&#39;ensemble](/help/overview.md)
-+ [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
++ [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 + Prise en main {#getting-started}
    + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
+   + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
    + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
@@ -76,11 +76,11 @@ ht-degree: 98%
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Import de profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
-   + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
+   + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
 + Connexion à d&#39;autres solutions {#connect}
    + [Gestion des big data sur Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
    + [Intégration à Dynamics 365](/help/connect/dynamics365-integration.md)
-   + [Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
+   + [Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)

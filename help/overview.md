@@ -18,7 +18,7 @@ ht-degree: 95%
 Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign V8.
 
 >[!INFO]
-> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) !
+> Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096) !
 
 >[!NOTE]
 > Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
@@ -30,13 +30,13 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
    *Découvrez comment créer un nouveau schéma et étendre un schéma existant.*
 
-* **[Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)**
+* **[Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)**
 
-   *Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet aux deux solutions de communiquer.*
+   *Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet aux deux solutions de communiquer.*
 
-* **[Tutoriel : Utilisation des API SOAP dans les workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=fr)**
+* **[Tutoriel : Utilisation des API SOAP dans les workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=fr)**
 
-   *Découvrez comment utiliser les API Soap Adobe Campaign et créer un workflow de diffusion avancé basé sur les données reçues via l’API.*
+   *Découvrez comment utiliser les API Soap Adobe Campaign et créer un workflow de diffusion avancé basé sur les données reçues via l’API.*
 
 
 ## Suggestions du personnel

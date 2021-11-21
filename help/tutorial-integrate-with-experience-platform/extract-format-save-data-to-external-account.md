@@ -11,13 +11,13 @@ role: Admin
 level: Beginner, Experienced
 exl-id: ac29b75c-a838-4183-8ec5-034281290725
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 
 ---
 
-# Créer un workflow d’exportation (Partie 2) : Extraction, formatage et enregistrement de données dans un compte externe
+# Créer un workflow d’exportation (Partie 2) : Extraction, formatage et enregistrement de données dans un compte externe
 
 Dans cette deuxième partie du tutoriel Créer un workflow d’exportation, vous allez apprendre à formater les données à exporter et à les enregistrer dans un compte externe.
 
@@ -25,7 +25,7 @@ Dans cette deuxième partie du tutoriel Créer un workflow d’exportation, vous
 
 ## Assets
 
-JavaScript : Enregistrer la date
+JavaScript : Enregistrer la date
 
 ```java
  logInfo("=====================")

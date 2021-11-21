@@ -1,6 +1,6 @@
 ---
-title: Intégration à Experience Platform - Aperçu
-description: Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet aux deux solutions de communiquer.
+title: Intégration à Experience Platform - Aperçu
+description: Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet aux deux solutions de communiquer.
 feature: API
 kt: 9094
 thumbnail: 336643.jpg
@@ -8,15 +8,15 @@ role: Admin, Developer
 level: Experienced
 exl-id: 349532f1-92d6-4774-8e1c-c3a0f280ad3e
 source-git-commit: 649116ee1e45c8012d5850bf3e9e3c0006ae1aa2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
 ---
 
-# Intégration à Experience Platform - Aperçu
+# Intégration à Experience Platform - Aperçu
 
-Découvrez comment partager des données entre Campaign et Experience Cloud.
+Découvrez comment partager des données entre Campaign et Experience Cloud.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336643?quality=12)
 

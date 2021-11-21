@@ -1,23 +1,24 @@
 ---
 title: Panneau de contrôle - Présentation
-description: Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
-landing-page-description: Le panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
-feature: Panneau de contrôle
+description: Le Panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
+landing-page-description: Le Panneau de contrôle Adobe Campaign permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
+feature: Control Panel
 doc-type: feature video
 activity: use
 team: PM
 role: Admin
 level: Experienced
-source-git-commit: 1389cd8ac570c6f7b61133917c1e64b98e31470b
-workflow-type: ht
-source-wordcount: '216'
+exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '214'
 ht-degree: 100%
 
 ---
 
 # Panneau de contrôle - Présentation
 
-Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
+Le Panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
 
 ## Suggestions du personnel
 
@@ -29,11 +30,11 @@ Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller
     </a>
     <div>
       <a href="./get-started.md">
-    <strong>Prise en main du panneau de contrôle</strong>
+    <strong>Prise en main du Panneau de contrôle</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment accéder au panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser. </em>
+    <em>Découvrez comment accéder au Panneau de contrôle et quelles sont les conditions préalables requises pour pouvoir l’utiliser. </em>
     <p>
   </td>
   <td>
@@ -46,7 +47,7 @@ Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller
     </a>
     </div>
     <p>
-    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
+    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
     <p>
   </td>
   <td>
@@ -59,7 +60,7 @@ Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller
     </a>
     </div>
     <p>
-    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le panneau de contrôle. </em>
+    <em>Découvrez comment se connecter à un serveur SFTP à l’aide d’une application SFTP cliente, avec les clés que vous avez stockées dans le Panneau de contrôle. </em>
     <p>
   </td>
 </tr>
@@ -67,4 +68,4 @@ Le panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller
 
 ## Ressources supplémentaires
 
-* [Centre d&#39;aide relatif au panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)
+* [Centre d&#39;aide relatif au Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr)

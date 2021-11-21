@@ -1,20 +1,21 @@
 ---
 title: Gestion des clés GPG - Présentation
-description: 'Découvrez comment générer et installer des paires de clés publiques/privées sur une instance  [!DNL Campaign] spécifiée. '
-feature: Panneau de contrôle
+description: Découvrez comment générer et installer des paires de clés publiques/privées sur une instance  [!DNL Campaign] spécifiée.
+feature: Control Panel
 team: TM
 role: Admin
 level: Experienced
-source-git-commit: de84aa9791e006d5a8c8c70871b055a676883020
-workflow-type: ht
-source-wordcount: '103'
+exl-id: 42f72a8b-a33e-467d-bc7d-6211e857800c
+source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+workflow-type: tm+mt
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
 
 # Gestion des clés GPG - Présentation
 
-GPG (GnuPG) crypte les messages en utilisant des paires de clés individuelles asymétriques. Pour mettre en œuvre le chiffrement GPG avec [!DNL Campaign], les clés GPG doivent être installées et/ou générées sur une instance marketing par un administrateur directement à partir du panneau de contrôle.
+GPG (GnuPG) chiffre les messages en utilisant des paires de clés individuelles asymétriques. Pour mettre en œuvre le chiffrement GPG avec [!DNL Campaign], les clés GPG doivent être installées et/ou générées sur une instance marketing par un administrateur directement à partir du Panneau de contrôle.
 
 Découvrez comment générer et installer une paire de clés publique/privée sur une instance [!DNL Campaign] spécifiée.
 

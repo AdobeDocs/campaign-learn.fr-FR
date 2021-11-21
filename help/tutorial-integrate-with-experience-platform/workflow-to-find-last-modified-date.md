@@ -1,6 +1,6 @@
 ---
 title: Création d’un workflow d’exportation (Partie 1) - Rechercher la date de dernière modification pour une liste de destinataires
-description: Dans cette première partie du tutoriel Création d’un workflow d’exportation, apprenez à créer un workflow qui recherche la date de dernière modification pour une liste de destinataires créée à partir d’un segment Experience Platform.
+description: Dans cette première partie du tutoriel Création d’un workflow d’exportation, apprenez à créer un workflow qui recherche la date de dernière modification pour une liste de destinataires créée à partir d’un segment Experience Platform.
 feature: Data Import/Export, Workflows
 kt: 8162
 thumbnail: 336387.jpg
@@ -11,7 +11,7 @@ role: Admin
 level: Beginner, Experienced
 exl-id: 6fd70eea-3be7-4589-a608-05b0a8de93a6
 source-git-commit: 85a32e0415c02ccfff9a22021ed77872ad726bf7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 
 # Création d’un workflow d’exportation (Partie 1) - Rechercher la date de dernière modification pour une liste de destinataires
 
-Dans cette première partie du tutoriel Création d’un workflow d’exportation, apprenez à créer un workflow qui recherche la date de dernière modification pour une liste de destinataires créée à partir d’un segment Experience Platform.
+Dans cette première partie du tutoriel Création d’un workflow d’exportation, apprenez à créer un workflow qui recherche la date de dernière modification pour une liste de destinataires créée à partir d’un segment Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12)
 
 ## Assets
 
-JavaScript pour établir des périodes :
+JavaScript pour établir des périodes :
 
 ```java
  var DEFAULT_LOOKBACK_DAYS = 90;

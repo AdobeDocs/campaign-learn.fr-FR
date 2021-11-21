@@ -1,5 +1,5 @@
 ---
-title: Installation du canal applications mobiles (Mobile App Channel)
+title: Installation du canal des applications mobiles
 description: Découvrez comment vérifier si le canal application mobile (Mobile App Channel) est installé sur votre instance et comment l'installer.
 feature: Push
 kt: 7961
@@ -13,13 +13,13 @@ hide: true
 hidefromtoc: true
 exl-id: 417ef7bc-bbac-42a0-8a4f-fd04381f8b35
 source-git-commit: 02a6238163a7c8f887236e03b78673c57c836a45
-workflow-type: ht
-source-wordcount: '67'
+workflow-type: tm+mt
+source-wordcount: '66'
 ht-degree: 100%
 
 ---
 
-# Installation du canal applications mobiles (Mobile App Channel)
+# Installation du canal des applications mobiles
 
 Découvrez comment vérifier si le canal application mobile (Mobile App Channel) est installé sur votre instance et comment l&#39;installer.
 
