@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: f25e3e7553d23aacf96c0f05e1ad78ee783192ff
+source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 93%
+source-wordcount: '374'
+ht-degree: 91%
 
 ---
 
@@ -65,17 +65,22 @@ ht-degree: 93%
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
-   + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
-   + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + [Gestion des validations](/help/process-management/manage-approvals.md)
+   + Les workflows de ciblage {#targeting workflows}
+      + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
+      + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
+      + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
+   + Processus d’approbation et de validation {#create-approvals-and-validation-workflows}
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
-   + Création de workflows de validation d’approbation {#create-validation-workflows}
+      + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
+      + [Gestion des validations](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configurer les validations pour les campagnes](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
       + [Configurer les validations des diffusions](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
       + [Créer un processus d’approbation dans un workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
+   + [Gestion des validations](/help/process-management/manage-approvals.md)
+   + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
+   + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Import de profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
