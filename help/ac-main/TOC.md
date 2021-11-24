@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
+source-git-commit: 147ca0788f1df5b8f3e90e8dcfb6cbabf9efb793
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 91%
@@ -65,7 +65,7 @@ ht-degree: 91%
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + Les workflows de ciblage {#targeting workflows}
+   + Les workflows de ciblage {#targeting-workflows}
       + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -74,9 +74,9 @@ ht-degree: 91%
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
       + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gestion des validations](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Configurer les validations pour les campagnes](/help/process-management/create-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configurer les validations des diffusions](/help/process-management/create-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Créer un processus d’approbation dans un workflow](/help/process-management/create-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Configurer les validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configurer les validations des diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Créer une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
    + [Gestion des validations](/help/process-management/manage-approvals.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
