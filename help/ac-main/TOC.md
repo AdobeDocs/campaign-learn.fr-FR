@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: b0fcde90e008222c069d952099c7154856e91fef
+source-git-commit: fb36cc755154d4567a68ef8312b14e35d83d81e4
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 93%
 
 ---
@@ -76,7 +76,6 @@ ht-degree: 93%
       + [Configurer les validations des diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
       + [Créer une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
-   + [Gestion des validations](/help/process-management/manage-approvals.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
