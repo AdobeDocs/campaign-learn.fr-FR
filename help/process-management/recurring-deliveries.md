@@ -40,7 +40,7 @@ La vidéo explique comment configurer une diffusion récurrente et une activité
 
 >[!VIDEO](https://video.tv.adobe.com/v/25040?quality=12)
 
-## Comment configurer une diffusion (au fil de l’eau) {#how-to-set-up-a-continuous-delivery}
+## Comment configurer une diffusion au fil de l’eau {#how-to-set-up-a-continuous-delivery}
 
 Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
 
