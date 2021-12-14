@@ -6,10 +6,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: de86fe86e39a10ff719163081634bf13a6f83efe
+source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '388'
+ht-degree: 91%
 
 ---
 
@@ -26,6 +26,10 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
+* **[Mécanisme d’évaluation des API avec FFDA](/help/data-management/api-staging-mechanism.md)**
+
+   *Découvrez comment fonctionne le mécanisme d’évaluation de l’API avec FDA complet.*
+
 * **[Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)**
 
    *Découvrez comment créer un nouveau schéma et étendre un schéma existant.*
@@ -33,10 +37,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 * **[Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)**
 
    *Découvrez comment importer et exporter des données Campaign et Experience Cloud, ce qui permet aux deux solutions de communiquer.*
-
-* **[Tutoriel : Utilisation des API SOAP dans les workflows](https://experienceleague.adobe.com/docs/campaign-learn/using-soap-apis/introduction.html?lang=fr)**
-
-   *Découvrez comment utiliser les API Soap Adobe Campaign et créer un workflow de diffusion avancé basé sur les données reçues via l’API.*
 
 
 ## Suggestions du personnel
