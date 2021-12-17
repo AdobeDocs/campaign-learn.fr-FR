@@ -7,7 +7,7 @@ breadcrumb-title: Tutoriels
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -65,16 +65,16 @@ ht-degree: 93%
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + Les workflows de ciblage {#targeting-workflows}
+   + Workflows de ciblage {#targeting-workflows}
       + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Processus d’approbation et de validation {#create-approvals-and-validation-workflows}
+   + Validations et workflows de validation {#create-approvals-and-validation-workflows}
       + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gestion des validations](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
-      + [Configurer les validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
-      + [Configurer les validations des diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
-      + [Créer une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
+      + [Configuration des validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
+      + [Configuration des validations pour les diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md)
+      + [Création d’une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)

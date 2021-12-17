@@ -9,7 +9,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 91%
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 * **[Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)**
 
-   *Découvrez comment créer un nouveau schéma et étendre un schéma existant.*
+   *Découvrez comment créer un schéma et étendre un schéma existant.*
 
 * **[Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)**
 
