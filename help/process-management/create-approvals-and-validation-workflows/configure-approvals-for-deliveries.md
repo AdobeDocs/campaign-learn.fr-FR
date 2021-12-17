@@ -1,6 +1,6 @@
 ---
-title: Configurer les validations des diffusions
-description: Découvrez comment configurer les validations et les opérateurs validants au niveau de la diffusion.
+title: Configuration des validations pour les diffusions
+description: Découvrez comment configurer les validations et les validants au niveau de la diffusion.
 feature: Workflows, Approvals
 kt: 9339
 thumbnail: 338828.jpg
@@ -8,17 +8,17 @@ doc-type: feature video
 activity: use
 role: User
 level: Beginner
-source-git-commit: 806ecfd0c9377b82eef68e1f9499becfe67704eb
-workflow-type: tm+mt
+exl-id: 3ec4074e-8829-4969-aa87-2f5a8fdefa3c
+source-git-commit: 5a51d60b9483962690234931fe500864dd82a66f
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Configuration des validations pour les diffusions
 
-# Configurer les validations des diffusions
-
-Découvrez comment configurer les validations et les opérateurs validants au niveau de la diffusion.  
+Découvrez comment configurer les validations et les validants au niveau de la diffusion. 
 
 Configurez les validations au niveau de la diffusion, si les étapes de validation et les validants diffèrent entre les diffusions.
 
