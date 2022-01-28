@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 22338566-1ee9-4459-976e-0d67a779d2ef
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 100%
+source-wordcount: '59'
+ht-degree: 88%
 
 ---
 
@@ -23,7 +23,4 @@ Découvrez comment générer et installer une paire de clés publique/privée su
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
-## Ressources supplémentaires
-
-* [Gestion des clés GPG (vidéos)](./gpg-key-management-overview.md)
-* [Gestion des clés GPG (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=fr)
+Voir [documentation du produit)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=fr) pour plus d’informations.

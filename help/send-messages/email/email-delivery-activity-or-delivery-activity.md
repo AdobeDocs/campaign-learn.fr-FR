@@ -6,9 +6,9 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 88f4a8b0c7cee415c6f34d51daeb980535dfc0e5
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '61'
 ht-degree: 100%
 
 ---
@@ -21,10 +21,3 @@ Une [!UICONTROL activité de type Diffusion] vous permet de créer une action de
 Cette vidéo montre comment déployer un modèle de diffusion email. Elle explique la différence entre une diffusion email et un workflow de diffusion.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
-
-## Ressources supplémentaires {#additional-resources}
-
-* [À propos des modèles](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [Créer un modèle de diffusion](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [Choisir un mapping de ciblage](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [Créer une diffusion depuis un modèle](https://docs.adobe.com/content/help/fr-FR/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)

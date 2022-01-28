@@ -8,10 +8,11 @@ doc-type: feature video
 team: TM
 role: Admin, Developer
 level: Beginner
-source-git-commit: f5d454b9fd8c502f7f3653fe6fff28741c2e1581
+exl-id: f61a1d00-694a-4727-8a24-959cb0258046
+source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '78'
+ht-degree: 0%
 
 ---
 
@@ -20,8 +21,3 @@ ht-degree: 2%
 Découvrez comment fonctionne le mécanisme d’évaluation de l’API avec FDA complet. Découvrez pourquoi l’évaluation est utilisée, les principes principaux de l’évaluation dans la campagne Adobe et comment activer le mécanisme d’évaluation pour une table personnalisée.
 
 >[!VIDEO](https://video.tv.adobe.com/v/339276?quality=12)
-
-## Ressources supplémentaires
-
-* [Réplication des données (vidéo)](/help/data-management/data-replication.md)
-* [Mécanisme d’évaluation de l’API Campaign (documentation)](https://experienceleague.adobe.com/docs/campaign/campaign-v8/architecture/api/staging.html?lang=en)
