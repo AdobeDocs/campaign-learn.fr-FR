@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: dcf19cb34050855ca622e724f8d1468005a11152
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Modification de la source de données](/help/data-management/change-data-source.md)**
+* **[Modifier la source de données](/help/data-management/change-data-source.md)**
 
-   *Découvrez comment modifier la source de données d’une table de travail de workflow à l’aide de l’activité Modifier la source de données pour gérer de manière flexible les données de différentes sources de données, telles que FDA, FFDA et base de données locale.*
+   *Découvrez comment modifier la source de données d’une table de travail de workflows à l’aide de l’activité Modifier la source de données pour gérer de manière flexible les données provenant de différentes sources de données, telles que la FDA, la FFDA et la base de données locale.*
 
 * **[Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)**
 
-   *Découvrez les dimensions de ciblage et les tables de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.*
+   *Découvrez ce que sont les dimensions de ciblage et les tables de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.*
 
-* **[Mécanisme d’évaluation des API avec FFDA](/help/data-management/api-staging-mechanism.md)**
+* **[Mécanisme d’évaluation des API avec la FFDA](/help/data-management/api-staging-mechanism.md)**
 
-   *Découvrez comment fonctionne le mécanisme d’évaluation de l’API avec FDA complet.*
+   *Découvrez comment fonctionne le mécanisme d’évaluation des API avec la Full FDA.*
 
 ## Suggestions du personnel
 
