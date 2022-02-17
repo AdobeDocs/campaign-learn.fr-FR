@@ -5,9 +5,9 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 97%
 + Orchestration des campagnes {#campaign-orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Présentation des campagnes multicanal et cross-canal](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Création de campagnes multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
+   + [Créer des campagnes multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
    + [Création de campagnes cross-canal](/help/orchestrate-campaigns/cross-channel-campaigns.md)
 + Création de contenu {#content-creation}
    + E-mail {#email}
@@ -77,13 +77,13 @@ ht-degree: 97%
       + [Création d’une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
    + [Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)
-   + [Modification de la source de données](/help/data-management/change-data-source.md)
+   + [Modifier la source de données](/help/data-management/change-data-source.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Import de profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
-   + [Mécanisme d&#39;évaluation des API](/help/data-management/api-staging-mechanism.md)
+   + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
 + Connexion à d&#39;autres solutions {#connect}
    + [Gestion des big data sur Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
