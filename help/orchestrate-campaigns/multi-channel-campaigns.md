@@ -1,5 +1,5 @@
 ---
-title: Création de campagnes multicanal
+title: Créer des campagnes multicanal
 description: Découvrez comment créer une campagne multicanal à l'aide d'une diffusion e-mail, SMS et courrier, selon le canal préféré du destinataire.
 feature: Workflows
 kt: 7794
@@ -11,13 +11,13 @@ role: User
 level: Beginner
 exl-id: f8f8fd28-9adc-4993-a7ea-bfd01ac0fdf1
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
 ---
 
-# Création de campagnes multicanal
+# Créer des campagnes multicanal
 
 Dans une campagne multicanal, une communication marketing unique utilise plusieurs canaux pour atteindre une audience cible plus large. Les canaux sont indépendants, sans aucune connexion entre eux, ce qui signifie que les clients restent dans un canal au sein d’un même workflow.
 
