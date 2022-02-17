@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
 source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '226'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -55,4 +55,4 @@ La vidéo ci-dessous explique comment ajouter un administrateur à une instance 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-Visitez le [Centre d’aide pour les Panneaux de Contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
+Visitez le [Centre d’aide pour les panneaux de contrôle](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
