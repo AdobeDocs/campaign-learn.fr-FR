@@ -2,19 +2,19 @@
 user-guide-title: Intégration avec Experience Manager
 user-guide-description: Découvrez comment connecter Adobe Campaign V8 à Adobe Experience Manager pour vous permettre de gérer des modèles de diffusion d’emails, des ressources et des formulaires dans Experience Manager.
 breadcrumb-title: Intégration avec Experience Manager
-source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+source-git-commit: 8b9cc241435de3009f942587073659af256f29cc
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '67'
 ht-degree: 1%
 
 ---
 
 
-# Intégration avec Experience Manager {#integrate-with-experience-Manager}
+# Intégration avec Experience Manager {#integrate-with-experience-manager}
 
-+ [Vue d’ensemble](/help/tutorial-integrate-with-experience-Manager/overview.md)
++ [Vue d’ensemble](/help/tutorial-integrate-with-experience-manager/overview.md)
 + [Configuration de Campaign pour l’intégration de Experience Manager](/help/tutorial-integrate-with-experience-manager/configure-campaign-for-aem-integration.md)
-+ Créez une diffusion Campaign avec du contenu de l’AEM {create-a-campaign-delivery-with-content-from-aem}
-   + [Publication de ressources dans AEM vers Campaign](/help/tutorial-integrate-with-experience-manager/publish-assets-in-aem-to-campaign.md)
++ Création d’une diffusion Campaign avec du contenu d’AEM {#create-a-campaign-delivery-with-content-from-aem}
+   + [Approbation et publication d’une page de Experience Manager dans Campaign](/help/tutorial-integrate-with-experience-manager/approve-and-publish-aem-page-to-campaign.md)
    + [Synchroniser et envoyer la diffusion dans Campaign](/help/tutorial-integrate-with-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.md)
 
