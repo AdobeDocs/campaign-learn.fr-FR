@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 7d998bc996a0123b051e7b9a5397cfd49e734eb2
-workflow-type: ht
-source-wordcount: '375'
-ht-degree: 100%
+source-git-commit: 9ba0862edca7be243e9b26d5b0b99d2b5b5900b0
+workflow-type: tm+mt
+source-wordcount: '374'
+ht-degree: 98%
 
 ---
 
@@ -86,9 +86,9 @@ ht-degree: 100%
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
 + Connexion à d&#39;autres solutions {#connect}
-   + [Gestion des big data sur Snowflake](/help/connect/big-data-segmentation-on-snowflake.md)
-   + [Intégration avec Dynamics 365](/help/connect/dynamics365-integration.md)
    + [Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
+   + Intégration avec Experience Manager {#AEM}
+   + [Intégration avec Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
