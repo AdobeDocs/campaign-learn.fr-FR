@@ -5,9 +5,9 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 4f8599d375d98195b56bbb5d99e65243dbcdca94
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '382'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -85,8 +85,8 @@ ht-degree: 96%
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
-+ Connexion à d&#39;autres solutions {#connect}
-   + [Intégration avec Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)
++ Se connecter à dʼautres solutions {#connect}
+   + [Intégration à Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
    + [Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
    + [Intégration avec Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
