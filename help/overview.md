@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '432'
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration avec Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)**
+* **[Intégration à Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)**
 
-   *Découvrez comment connecter Adobe Campaign à Adobe Experience Manager pour vous permettre de gérer des modèles de diffusion d’emails, des ressources et des formulaires dans Experience Manager.*
+   *Découvrez comment connecter Adobe Campaign à Adobe Experience Manager afin de gérer les modèles de diffusion d’e-mails, les ressources et les formulaires dans Experience Manager.*
 
 * **[Modifier la source de données](/help/data-management/change-data-source.md)**
 
