@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 95%
@@ -27,7 +27,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration à Adobe Target](/help/connect/target-integration.md)
+* **[Intégration à Adobe Target](/help/connect/target-integration.md)**
 
    *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
 
@@ -65,7 +65,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
       <a href="./content-creation/create-and-design-email-deliveries.md">
     <strong>Création et conception de diffusions e-mail</strong>
     </a>
-    </div> 
+    </div>
     <p>
     <em>Maîtrisez le processus de création d’une diffusion e-mail et apprenez à concevoir et à personnaliser du contenu d’e-mail.
 </em>
