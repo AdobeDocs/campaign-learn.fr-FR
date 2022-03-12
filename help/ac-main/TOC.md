@@ -4,10 +4,10 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 4f8599d375d98195b56bbb5d99e65243dbcdca94
-workflow-type: ht
-source-wordcount: '382'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '389'
+ht-degree: 95%
 
 ---
 
@@ -86,9 +86,10 @@ ht-degree: 100%
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
 + Se connecter à dʼautres solutions {#connect}
-   + [Intégration à Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
-   + [Intégration à Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
-   + [Intégration avec Dynamics 365](/help/connect/dynamics365-integration.md)
+   + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
+   + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
+   + [Intégration à Adobe Target](/help/connect/target-integration.md)
+   + [Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)

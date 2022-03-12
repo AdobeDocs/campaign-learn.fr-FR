@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: f5e7f795924fc5dad20b9fb56eede82cf42920c3
-workflow-type: ht
-source-wordcount: '432'
-ht-degree: 100%
+source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+workflow-type: tm+mt
+source-wordcount: '475'
+ht-degree: 95%
 
 ---
 
@@ -27,17 +27,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration à Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)**
+* **[Intégration à Adobe Target](/help/connect/target-integration.md)
+
+   *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
+
+* **[Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)**
 
    *Découvrez comment connecter Adobe Campaign à Adobe Experience Manager afin de gérer les modèles de diffusion d’e-mails, les ressources et les formulaires dans Experience Manager.*
 
 * **[Modifier la source de données](/help/data-management/change-data-source.md)**
 
    *Découvrez comment modifier la source de données d’une table de travail de workflows à l’aide de l’activité Modifier la source de données pour gérer de manière flexible les données provenant de différentes sources de données, telles que la FDA, la FFDA et la base de données locale.*
-
-* **[Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)**
-
-   *Découvrez ce que sont les dimensions de ciblage et les tables de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.*
 
 
 ## Suggestions du personnel
@@ -100,7 +100,33 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
     <em>Découvrez comment générer un rapport d'analyse descriptive à partir d'un workflow.</em>
     <p>
   </td>
-
+  <td>
+   <a href="./data-management/data-management-fundamentals.md">
+      <img alt="Principes fondamentaux de la gestion des données avec les workflows" src="./assets/339992.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/data-management-fundamentals.md">
+    <strong>Principes fondamentaux de la gestion des données avec les workflows</strong>
+    </a>
+    </div>
+    <p>
+    <em>Découvrez ce que sont les dimensions de ciblage et les tables de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.</em>
+    <p>
+  </td>
+  <td>
+   <a href="./data-management/api-staging-mechanism.md">
+      <img alt="Mécanisme d’évaluation des API avec la FFDA" src="./assets/339276.jpg" />
+    </a>
+     <div>
+      <a href="./data-management/api-staging-mechanism.md">
+    <strong>Mécanisme d’évaluation des API avec la FFDA</strong>
+    </a>
+    </div>
+    <p>
+    <em>Découvrez comment fonctionne le mécanisme d’évaluation des API avec la Full FDA.</em>
+    <p>
+  </td>
+</tr>
 </table>
 
 Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) pour plus d’informations sur cette fonctionnalité.
