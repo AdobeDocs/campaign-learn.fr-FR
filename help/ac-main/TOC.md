@@ -4,9 +4,9 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: 210782e41d7bfff28cb8729387da54965e97fcfe
+source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '392'
 ht-degree: 95%
 
 ---
@@ -25,6 +25,7 @@ ht-degree: 95%
    + [Création de campagnes déclenchées par un événement](/help/get-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
    + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
+   + [Import de profils](/help/profile-management/import-profiles.md)
    + [Ciblage de profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orchestration des campagnes {#campaign-orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrate-campaigns/execute-a-campaign.md)
@@ -66,7 +67,7 @@ ht-degree: 95%
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
    + Workflows de ciblage {#targeting-workflows}
-      + [Création de workflows de ciblage](/help/process-management/create-a-targeting-workflow.md)
+      + [Création d&#39;un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Validations et workflows de validation {#create-approvals-and-validation-workflows}
