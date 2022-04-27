@@ -13,10 +13,10 @@ ht-degree: 100%
 # Intégration à Experience Platform {#integrate-with-experience-platform}
 
 + [Vue d’ensemble](/help/tutorial-integrate-with-experience-platform/overview.md)
-+ Importer des données Experience Platform dans Campaign{#import-experience-platform-data-into-campaign}
++ Importation de données Experience Platform dans Campaign{#import-experience-platform-data-into-campaign}
    + [Connexion de Campaign à Experience Platform en tant que destination](/help/tutorial-integrate-with-experience-platform/connect-campaign-to-experience-platform-as-destination.md)
-   + [Importer les données de destinataire depuis Experience Platform et envoyer un email](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
-+ Exporter les journaux de Campaign dans Experience Platform{#export-campaign-logs-into-experience-platform}
+   + [Importation des données de destinataire depuis Experience Platform et envoi d’un e-mail](/help/tutorial-integrate-with-experience-platform/import-recipient-data-from-platform.md)
++ Exportation de journaux Campaign dans Experience Platform{#export-campaign-logs-into-experience-platform}
    + [Création d’un workflow d’exportation (Partie 1)](/help/tutorial-integrate-with-experience-platform/workflow-to-find-last-modified-date.md)
    + [Création d’un workflow d’exportation (Partie 2)](/help/tutorial-integrate-with-experience-platform/extract-format-save-data-to-external-account.md)
    + [Création d’un schéma et d’un jeu de données de journaux Campaign dans Adobe Experience Platform](/help/tutorial-integrate-with-experience-platform/create-a-campaign-logs-schema-and-dataset-in-experience-platform.md)

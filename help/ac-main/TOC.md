@@ -78,7 +78,7 @@ ht-degree: 95%
       + [Création d’une activité de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md)
 + Gestion des données {#data-management}
    + [Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)
-   + [Modifier la source de données](/help/data-management/change-data-source.md)
+   + [Modification de la source de données](/help/data-management/change-data-source.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
@@ -86,7 +86,7 @@ ht-degree: 95%
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
-+ Se connecter à dʼautres solutions {#connect}
++ Connexion à dʼautres solutions {#connect}
    + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
    + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
    + [Intégration à Adobe Target](/help/connect/target-integration.md)
