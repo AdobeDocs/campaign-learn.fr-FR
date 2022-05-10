@@ -5,9 +5,9 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: 461770e8f308780b0d4d4e0d5fe7ac422020f196
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '392'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 95%
    + [Création d&#39;un plan marketing, de programmes et de campagnes](/help/get-started/create-a-marketing-plan-programs-and-campaigns.md)
    + [Création de campagnes déclenchées par un événement](/help/get-started/create-event-triggered-campaigns.md)
 + Gestion des profils {#profile-management}
-   + [Création et gestion des profils](/help/profile-management/create-and-manage-profiles.md)
-   + [Import de profils](/help/profile-management/import-profiles.md)
-   + [Ciblage de profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
+   + [Créer et gérer des profils](/help/profile-management/create-and-manage-profiles.md)
+   + [Importer des profils](/help/profile-management/import-profiles.md)
+   + [Cibler des profils dans un workflow](/help/profile-management/target-profiles-in-a-workflow.md)
 + Orchestration des campagnes {#campaign-orchestration}
    + [Exécution d&#39;une campagne](/help/orchestrate-campaigns/execute-a-campaign.md)
    + [Présentation des campagnes multicanal et cross-canal](/help/orchestrate-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
@@ -67,7 +67,7 @@ ht-degree: 95%
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
    + Workflows de ciblage {#targeting-workflows}
-      + [Création d&#39;un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
+      + [Créer un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
    + Validations et workflows de validation {#create-approvals-and-validation-workflows}
@@ -82,15 +82,15 @@ ht-degree: 95%
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
-   + [Import de profils](/help/data-management/import-profiles.md)
+   + [Importer des profils](/help/data-management/import-profiles.md)
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
 + Connexion à dʼautres solutions {#connect}
-   + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
-   + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
-   + [Intégration à Adobe Target](/help/connect/target-integration.md)
-   + [Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+   + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
+   + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
+   + [Intégration à Adobe Target](/help/connect/target-integration.md)
+   + [Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
