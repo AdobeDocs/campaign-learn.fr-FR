@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: a094cd44-c891-468a-82f6-3f8f50a32640
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 93%
 
 ---
 
@@ -42,9 +42,9 @@ Pour accéder au Panneau de contrôle, rendez-vous sur la page d’accueil Exper
 
 Avant de commencer, remplissez les conditions préalables suivantes :
 
-### Confirmer [!DNL IMS Org ID]
+### Confirmation de l’ID de votre organisation
 
-La vidéo ci-dessous montre où vous pouvez trouver l&#39;[!DNL IMS org ID] de votre instance.
+La vidéo suivante explique où vous pouvez rechercher l’ID de votre organisation.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 

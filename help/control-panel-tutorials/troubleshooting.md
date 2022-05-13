@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 0dca4676-2d5e-411b-9fdf-fbfd1081cb0e
-source-git-commit: f7cb6c57d9cd6b00def9f0a4ccbcc94267f0d593
+source-git-commit: 28e209b6c9dad98a649b0b49eee7bb886c3d8431
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -24,8 +24,8 @@ Découvrez comment résoudre les problèmes liés au Panneau de contrôle.
 
 ### Symptôme : impossible de se connecter à Experience Cloud
 
-**Solution :**
-L&#39;utilisateur doit rechercher l&#39;ID d&#39;organisation IMS (xxx). L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
+**Que faire :**
+L’utilisateur doit localiser l’ID d’organisation (xxx). L&#39;administrateur doit ajouter l&#39;utilisateur au profil de produit « Campaign-xxx-Admins » pour chaque instance qu&#39;il souhaite gérer. Si l&#39;utilisateur est un administrateur de toutes les instances, il doit s&#39;ajouter en tant qu&#39;utilisateur.
 
 ### Symptôme : dans la page d’accueil Experience Cloud, les liens permettant d’accéder au [!UICONTROL Panneau de contrôle] ne sont pas visibles pour un utilisateur.
 
@@ -47,7 +47,7 @@ l’administrateur doit ajouter l’utilisateur au profil de produit _Campaign-x
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Vérification de l&#39;ID org. IMS (00:26 min)*
+*Vérification de l’ID de votre organisation (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
