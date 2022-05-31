@@ -10,16 +10,18 @@ role: Admin
 level: Experienced
 recommendations: noDisplay
 exl-id: 67b35ad4-bd46-441a-a3e3-402937678770
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
-workflow-type: ht
-source-wordcount: '214'
-ht-degree: 100%
+source-git-commit: ea5b7f4f7cd54f7f01acc98e57eac0164dc3981d
+workflow-type: tm+mt
+source-wordcount: '230'
+ht-degree: 95%
 
 ---
 
 # Panneau de contrôle - Présentation
 
 Le Panneau de contrôle permet aux administrateurs Adobe Campaign de surveiller les ressources essentielles et d’effectuer des tâches administratives, comme gérer la capacité de stockage SFTP par instance, ajouter des adresses IP aux listes autorisées ou gérer les clés GPG.
+
+Voir [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=fr) informations sur les dernières versions du produit.
 
 ## Suggestions du personnel
 
