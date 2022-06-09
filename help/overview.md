@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: beab5d11367a6f2f8c92a2d9f8667d664744e08e
-workflow-type: ht
-source-wordcount: '475'
-ht-degree: 100%
+source-git-commit: 42cb3f32f931a3612481f5170d70ec964a8769c4
+workflow-type: tm+mt
+source-wordcount: '510'
+ht-degree: 75%
 
 ---
 
@@ -27,18 +27,20 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
-* **[Intégration à Adobe Target](/help/connect/target-integration.md)**
+* **[Présentation des SMS](/help/tutorial-sms/introduction-to-sms.md)**:
+   *Découvrez le fonctionnement des SMS et comment Adobe Campaign envoie des SMS*
 
-   *Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.*
+* **[Configuration d&#39;un compte SMS pour un fournisseur SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-* **[Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)**
+   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
 
-   *Découvrez comment connecter Adobe Campaign à Adobe Experience Manager afin de gérer les modèles de diffusion d’e-mails, les ressources et les formulaires dans Experience Manager.*
+* **[Adapter le connecteur SMS à votre fournisseur SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-* **[Modification de la source de données](/help/data-management/change-data-source.md)**
+   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
 
-   *Découvrez comment modifier la source de données d’une table de travail de workflows à l’aide de l’activité Modifier la source de données pour gérer de manière flexible les données provenant de différentes sources de données, telles que la FDA, la FFDA et la base de données locale.*
+* **[Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.](/help/strategy/campaign-maximize-email-best-practices.md)**
 
+   *Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
 
 ## Suggestions du personnel
 
