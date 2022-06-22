@@ -1,11 +1,12 @@
 ---
-title: Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.
-description: 'Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail. '
+title: Optimisez le RSI des e-mails et découvrez les bonnes pratiques pour le réengagement des abonnés
+description: Découvrez comment optimiser le RSI des e-mails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.
 solution: Campaign
-source-git-commit: 405305ad210f64a358caa240dd0c5a3f2e5b68b6
+exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
+source-git-commit: 2fa177e03dfbff9d1af1f210556bb7193285dd07
 workflow-type: tm+mt
-source-wordcount: '1453'
-ht-degree: 0%
+source-wordcount: '1471'
+ht-degree: 3%
 
 ---
 
@@ -135,3 +136,5 @@ Ventilez ce processus en deux zones d’intérêt : a) modèles d’envoi d’em
 * **Tester et apprendre** - un bon plan de test est important pour vous assurer que vos efforts ont l’effet escompté. Découvrez ce qui fonctionne et ce qui ne fonctionne pas et itérez en conséquence.
 
 Pour un résumé de cet article et une démonstration en direct de la mise en oeuvre des stratégies de réengagement, regardez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
+
+Pour en savoir plus sur la stratégie et le leadership de la pensée, voir [Succès des clients](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) hub.
