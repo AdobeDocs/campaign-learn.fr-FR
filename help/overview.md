@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 99904d75300064381bdac3245b290de82990d300
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '510'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -33,15 +33,15 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 * **[Configuration d&#39;un compte SMS pour un fournisseur SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
 
-   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
+   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le chiffrement avec TLS.*
 
 * **[Adapter le connecteur SMS à votre fournisseur SMPP](/help/tutorial-sms/adapt-sms-connector-to-smpp-provider.md)**
 
-   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le cryptage avec TLS.*
+   *Découvrez comment affiner les paramètres de vos SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le chiffrement avec TLS.*
 
-* **[Optimisez votre retour sur investissement dans les emails et découvrez les bonnes pratiques pour le réengagement des abonnés.](/help/strategy/campaign-maximize-email-best-practices.md)**
+* **[Optimiser le ROI des e-mails et découvrir les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)**
 
-   *Découvrez comment optimiser le ROI des emails et découvrir les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
+   *Découvrez comment optimiser le ROI des e-mails et apprenez les bonnes pratiques pour le réengagement des abonnés. Découvrez les stratégies pour améliorer l’engagement de vos abonnés et comprendre le succès global de vos campagnes par e-mail.*
 
 ## Suggestions du personnel
 
