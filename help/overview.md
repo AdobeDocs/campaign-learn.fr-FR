@@ -8,9 +8,9 @@ level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
 source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '505'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -28,13 +28,13 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 ## Nouveautés
 
 
-* **[Panneau de Contrôle - Surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
 
-   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflow pour éviter des problèmes de base de données ou de workflow sur votre instance.*
+   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
 
-* **[Panneau de Contrôle - Surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
 
-   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance de campagne.*
+   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
 
 * **[Présentation des SMS](/help/tutorial-sms/introduction-to-sms.md)**
 
