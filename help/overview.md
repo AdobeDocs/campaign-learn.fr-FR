@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 066c6e95eb5dee4330b80495bececcba076dd5c1
-workflow-type: ht
-source-wordcount: '505'
-ht-degree: 100%
+source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
+workflow-type: tm+mt
+source-wordcount: '480'
+ht-degree: 93%
 
 ---
 
@@ -27,6 +27,9 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
 ## Nouveautés
 
+* **[Exploration et dépannage détaillés du protocole SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
 
 * **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
 
@@ -35,14 +38,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 * **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
-
-* **[Présentation des SMS](/help/tutorial-sms/introduction-to-sms.md)**
-
-   *Découvrez le fonctionnement des SMS et comment Adobe Campaign envoie des SMS*
-
-* **[Configuration d&#39;un compte SMS pour un fournisseur SMPP standard](/help/tutorial-sms/set-up-account-for-standard-smpp-provider.md)**
-
-   *Découvrez comment adapter le connecteur SMS à votre fournisseur SMPP. Ajustez les paramètres SMS pour gérer les limites de connexion, configurer le débit maximal, la fenêtre d’envoi et le chiffrement avec TLS.*
 
 ## Suggestions du personnel
 

@@ -4,7 +4,7 @@ sub-product: Campaign V8
 user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
-source-git-commit: d1ba1a3c22b4a95dca19418f3d490872257b93cd
+source-git-commit: 36e9a53ab0276840eea09c2dffe55562591e54b0
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 100%
@@ -48,7 +48,6 @@ ht-degree: 100%
       + [Résolution des problèmes de diffusion e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Conception d&#39;e-mails pour la délivrabilité](/help/send-messages/email/design-emails-for-deliverability.md)
    + SMS {#sms}
-      + [Configuration de SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
       + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
       + [Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
@@ -98,6 +97,7 @@ ht-degree: 100%
    + [Journal d&#39;audit](/help/monitoring/audit-trail.md)
 + Administration {#administration}
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target=&quot;_blank&quot;}
+   + [Configuration de SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
 + Leadership en matière de stratégie et de pensée{#strategy}
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
