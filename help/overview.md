@@ -1,29 +1,30 @@
 ---
 title: Tutoriels Adobe Campaign V8 - Vue d'ensemble
-description: Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l'orchestration visuelle de campagnes, la gestion d'interactions en temps réel et l'exécution cross-canal. Ce guide de l'utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d'Adobe Campaign Standard.
+description: Adobe Campaign offre une plateforme pour la conception d’expériences client cross-canal et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d’Adobe Campaign Standard.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 73a9f32d11a9843afcfd126c9565b137b815ceef
-workflow-type: ht
-source-wordcount: '480'
-ht-degree: 100%
+source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+workflow-type: tm+mt
+source-wordcount: '464'
+ht-degree: 79%
 
 ---
 
 # Tutoriels Adobe Campaign V8 - Vue d&#39;ensemble
 
-Adobe Campaign offre une plateforme pour concevoir des expériences client cross-canal et propose un environnement pour l&#39;orchestration visuelle de campagnes, la gestion d&#39;interactions en temps réel et l&#39;exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign V8.
+Adobe Campaign offre une plateforme pour la conception d’expériences client cross-canal et fournit un environnement pour l’orchestration visuelle des campagnes, la gestion des interactions en temps réel et l’exécution cross-canal. Ce guide de l&#39;utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités d&#39;Adobe Campaign V8.
 
 >[!INFO]
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 
 >[!NOTE]
-> Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration depuis un environnement Campaign Classic v7 existant n&#39;est pas encore disponible.
->Pour plus d&#39;informations sur les différences entre les deux versions, consultez la [documentation du produit Classic v7 à V8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/capability-matrix.html?lang=fr). Voir aussi la section [Tutoriels Campaign Classic V7](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) pour des vidéos pratiques.
+> Actuellement, Campaign v8 n&#39;est disponible qu&#39;en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration automatisée depuis un environnement Campaign Classic v7 existant n’est pas encore disponible.
+>
+>Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html) pour plus d’informations sur la transition de Classic v7 vers V8.
 
 ## Nouveautés
 
@@ -31,11 +32,11 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
    *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
 
-* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
 
-* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
 
