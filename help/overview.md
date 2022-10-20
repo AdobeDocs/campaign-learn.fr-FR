@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 recommendations: noDisplay, noCatalog
-source-git-commit: 84d754f4ab022ed982b151942e72b891c7eeeb22
+source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
 workflow-type: ht
 source-wordcount: '464'
 ht-degree: 100%
@@ -26,6 +26,8 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 >
 >Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr) pour plus d’informations sur la transition de Classic v7 vers V8.
 
+<div id="whats-new-section">
+
 ## Nouveautés
 
 * **[Exploration et dépannage détaillés du protocole SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=fr)**
@@ -39,6 +41,17 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 * **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
 
    *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
+
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Suggestions du personnel
 
@@ -128,5 +141,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
   </td>
 </tr>
 </table>
+
+</div>
 
 Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=fr) pour plus d&#39;informations sur cette fonctionnalité.
