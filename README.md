@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '0'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Contribution aux articles
@@ -15,13 +15,13 @@ Ce projet respecte le [Code de conduite d’Adobe Open Source](code-of-conduct.m
 
 ## À propos de vos contributions au contenu Adobe
 
-Consultez le [Guide des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Consultez le [Guide des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
 Votre contribution dépend de votre rôle et du type de modifications que vous souhaitez apporter :
 
 ### Modifications mineures
 
-Si vous contribuez à des mises à jour mineures de façon bénévole, consultez l’article et cliquez sur le lien **Edit** (Modifier) qu’il contient pour accéder à la source GitHub de celui-ci. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d’informations, consultez le [guide général des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Si vous contribuez à des mises à jour mineures de façon bénévole, consultez l’article et cliquez sur le lien **Edit** (Modifier) qu’il contient pour accéder à la source GitHub de celui-ci. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d’informations, consultez le [guide général des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
 Les corrections ou clarifications mineures que vous soumettez pour la documentation et les exemples de code dans ce référentiel sont couvertes par les conditions d’utilisation d’Adobe.
 
@@ -43,7 +43,7 @@ Si vous êtes rédacteur technique, responsable de programme ou développeur de 
 
 Les contributeurs de la communauté peuvent utiliser l’interface utilisateur GitHub pour effectuer des modifications de base ou apporter des contributions majeures.
 
-Pour plus d’informations, consultez le [Guide des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Pour plus d’informations, consultez le [Guide des contributeurs aux documents Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
 ## Utilisation des balises pour mettre en forme votre rubrique
 
