@@ -99,7 +99,7 @@ ht-degree: 97%
 + Administration {#administration}
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
    + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
-+ Leadership en matière de stratégie et de pensée{#strategy}
++ Stratégie et leadership{#strategy}
    + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
