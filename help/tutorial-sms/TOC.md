@@ -3,7 +3,7 @@ user-guide-title: Configuration de SMS pour Adobe Campaign
 user-guide-description: Apprenez comment configurer un compte SMS pour les fournisseurs SMTP. Découvrez aussi comment Adobe Campaign gère les SMS et comment analyser et résoudre les problèmes de configuration. 
 breadcrumb-title: Configuration de SMS
 source-git-commit: 2c285a9e5f2b5e48adbb5272f0c95bcd7d2ad052
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
 
