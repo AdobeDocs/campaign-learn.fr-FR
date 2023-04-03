@@ -6,7 +6,7 @@ kt: 3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '61'
 ht-degree: 100%
@@ -20,4 +20,4 @@ Une [!UICONTROL activité de type Diffusion] vous permet de créer une action de
 
 Cette vidéo montre comment déployer un modèle de diffusion email. Elle explique la différence entre une diffusion email et un workflow de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)
