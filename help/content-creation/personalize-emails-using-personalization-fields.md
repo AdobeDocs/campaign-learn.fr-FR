@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 0ff643b8-013e-4192-831f-aa88dcc1eec1
-source-git-commit: ca13bdbd7d95e6646aff88af595e866bd3666bb2
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
 workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
@@ -23,4 +23,4 @@ Les champs de personnalisation sont utilisés pour la personnalisation de premie
 
 Découvrez comment ajouter un champ de personnalisation à la ligne d&#39;objet et au contenu d&#39;une diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
