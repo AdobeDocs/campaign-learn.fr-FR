@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
-source-git-commit: 36fc9fa4f2e8e20b633d2f5df18b3a4d634535c8
-workflow-type: tm+mt
+source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,10 +26,10 @@ Un modèle peut systématiquement inclure :
 * Typologies
 * Adresses d&#39;expéditeur et destinataire
 * Blocs de personnalisation de base
-* Liens vers les pages miroir et désinscription links
+* Liens vers les pages miroir et désinscription liens
 * Contenu, logo d&#39;une entreprise ou signature
 * Autres propriétés de diffusion, telles que la validité des ressources, les quantités de lots, etc.
 
 La vidéo suivante montre comment configurer un modèle pour une diffusion ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on)
