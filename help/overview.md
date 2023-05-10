@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 843475fb33a5d95cbcb2c2e767a8a347cebf0738
-workflow-type: ht
-source-wordcount: '463'
+workflow-type: tm+mt
+source-wordcount: '459'
 ht-degree: 100%
 
 ---
@@ -33,11 +33,11 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 
    *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
 
-* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=fr){target="_blank"}**
 
    *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
 
-* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target=&quot;_blank&quot;}**
+* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target="_blank"}**
 
    *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
 

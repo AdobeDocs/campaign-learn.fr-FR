@@ -109,7 +109,7 @@ Voici un tableau simple pour vous aider lors de votre audit :
 
 Si, par exemple, vous envoyez un e-mail quotidien à des clients, ils doivent avoir interagi avec l’un de ces e-mails au cours du dernier mois pour être considérés comme actifs et engagés. À l’inverse, si vous envoyez un e-mail aux clients tous les mois et qu’ils n’ont pas interagi dans les 9 à 14 mois, ils peuvent être considérés comme inactifs.
 
-Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans une fenêtre contextuelle de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
+Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans un pop-up de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
 
 ### 3. Mettre en œuvre des stratégies de réengagement
 
