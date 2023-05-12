@@ -5,9 +5,9 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '434'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 97%
       + [Création d&#39;une newsletter multilingue à l&#39;aide de contenu conditionnel](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
       + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configuration des landing pages](/help/content-creation/configure-landingpages.md)
-   + [Créer un questionnaire](/help/content-creation/create-a-survey.md)
+   + [Créer une enquête](/help/content-creation/create-a-survey.md)
 + Envoi de messages{#sending-messages}
    + E-mail {#email}
       + [Envoi et validation des BAT pour une diffusion e-mail](/help/send-messages/email/send-and-validate-proofs.md)
@@ -101,6 +101,6 @@ ht-degree: 97%
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
    + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
-   + [Dix bonnes pratiques pour le succès d’Adobe Campaign pour les marketeurs](/help/strategy/10-best-practices-for-marketers.md)
+   + [Dix bonnes pratiques destinées aux spécialistes du marketing qui souhaitent réussir avec Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
