@@ -2,7 +2,7 @@
 title: Définition des propriétés du modèle de diffusion
 description: Découvrez comment configurer les propriétés du modèle de diffusion.
 feature: Delivery Templates
-kt: 7964
+jira: KT-7964
 thumbnail: 338969.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 25ec67b4-62a5-4bcc-8bd0-8655e463366a
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '29'
 ht-degree: 100%
