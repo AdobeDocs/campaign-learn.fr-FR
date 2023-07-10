@@ -2,7 +2,7 @@
 title: Configuration des landing pages
 description: Découvrez comment naviguer dans l'éditeur d'application Web en créant un centre de préférences.
 feature: Landing Pages
-kt: 7945
+jira: KT-7945
 thumbnail: 333629.jpg
 doc-type: feature video
 activity: setup
@@ -10,7 +10,7 @@ team: DOC
 role: Developer, Admin
 level: Beginner
 exl-id: 81dfe17d-e87a-4579-8106-663ba9fe13fc
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '57'
 ht-degree: 100%
