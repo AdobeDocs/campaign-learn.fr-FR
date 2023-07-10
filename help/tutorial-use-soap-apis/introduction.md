@@ -2,13 +2,13 @@
 title: Utilisation des API SOAP dans les workflows - Introduction
 description: Découvrez comment utiliser les API Soap Adobe Campaign et créer un workflow de diffusion avancé basé sur les données reçues via l’API.
 feature: API
-kt: 7772
+jira: KT-7772
 thumbnail: 336639.jpg
 role: Admin, Developer
 level: Experienced
 recommendations: noDisplay
 exl-id: ad2e46b7-d5d1-4530-b126-62b8446d7e31
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '66'
 ht-degree: 100%
