@@ -4,10 +4,10 @@ description: Découvrez les dix bonnes pratiques pour aider les utilisateurs et 
 doc-type: article
 role: User
 level: Beginner
-kt: 11778
+jira: KT-11778
 last-substantial-update: 2023-01-30T00:00:00Z
 exl-id: a4191cfb-991a-4cd5-97b5-c24c6c93566b
-source-git-commit: 08b6121b5a4cdf9eff023b664c727cceec180f9d
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '1279'
 ht-degree: 100%
@@ -43,7 +43,7 @@ Si, par exemple, vos client(e)s consultent leur téléphone le matin à la reche
 
 ## 4. Utiliser la personnalisation là où ça compte
 
-De nos jours, les consommateurs et consommatrices s’attendent à un certain niveau de personnalisation dans les messages qu’ils reçoivent. [80 % des client(e)s sont plus susceptibles d’acheter auprès d’une marque qui fournit des expériences personnalisées](https://us.epsilon.com/power-of-me). Leur nom dans le sujet est attrayant. Cependant, la personnalisation peut aller beaucoup plus loin. Vous pouvez inclure les produits qu’ils ont parcourus, les connecter à des produits similaires ou continuer à renforcer la cohésion de l’expérience et l’aspect de votre marque. Chaque détail compte et favorise l’engagement et les taux d’ouverture de vos messages.
+De nos jours, les consommateurs et consommatrices s’attendent à un certain niveau de personnalisation dans les messages qu’ils reçoivent. [80 % des client(e)s sont plus susceptibles d’acheter auprès d’une marque qui fournit des expériences personnalisées](https://us.epsilon.com/power-of-me). Leur nom dans la ligne d’objet est attrayant. Cependant, la personnalisation peut aller beaucoup plus loin. Vous pouvez inclure les produits qu’ils ont parcourus, les connecter à des produits similaires ou continuer à renforcer la cohésion de l’expérience et l’aspect de votre marque. Chaque détail compte et favorise l’engagement et les taux d’ouverture de vos messages.
 
 ## 5. Posséder un inventaire sain de ressources de création
 
