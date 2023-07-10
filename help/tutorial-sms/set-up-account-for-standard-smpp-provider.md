@@ -3,10 +3,10 @@ title: Configuration d'un compte SMS pour un fournisseur SMPP standard
 description: Découvrez comment configurer un compte SMPP avec Adobe Campaign. Apprenez aussi comment analyser les résultats des diffusions SMS et personnaliser le traitement du SR selon les spécifications de votre fournisseur SMPP. 
 feature: SMS
 thumbnail: 343607.jpg
-kt: 9742
+jira: KT-9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: b1b8d8a99a551239c445fb588cbd126b66a53c9b
+source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
 workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
