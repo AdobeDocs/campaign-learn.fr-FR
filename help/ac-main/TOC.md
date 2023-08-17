@@ -5,7 +5,7 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Adobe Campaign permet aux spécialistes du marketing de concevoir des expériences client sur plusieurs canaux et fournit un environnement pour l'orchestration visuelle des campagnes, la gestion des interactions en temps réel et l'exécution sur plusieurs canaux.
 breadcrumb-title: Tutoriels
 source-git-commit: e0df9e93cf0421e687e77b99f5ef2bc93712c99f
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '434'
 ht-degree: 100%
 
@@ -81,7 +81,7 @@ ht-degree: 100%
    + [Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)
    + [Modification de la source de données](/help/data-management/change-data-source.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
-   + [Configuration d&#39;activités d&#39;enrichissement](/help/process-management/enrichment-activity.md)
+   + [Configuration d’activités d’enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)

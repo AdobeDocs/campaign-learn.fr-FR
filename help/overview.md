@@ -30,16 +30,13 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 ## Nouveautés
 
 * **[Exploration et dépannage détaillés du protocole SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=fr)**
-
-   *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
+  *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
 
 * **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=fr){target="_blank"}**
-
-   *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
+  *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
 
 * **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target="_blank"}**
-
-   *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
+  *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
 
 </div>
 
@@ -101,7 +98,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="Génération d'un rapport d'analyse descriptive" src="./assets/333994.jpg" />
+      <img alt="Génération d&apos;un rapport d&apos;analyse descriptive" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
@@ -127,7 +124,7 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
   </td>
   <td>
    <a href="./data-management/api-staging-mechanism.md">
-      <img alt="Mécanisme d'évaluation des API avec FFDA" src="./assets/339276.jpg" />
+      <img alt="Mécanisme d&apos;évaluation des API avec FFDA" src="./assets/339276.jpg" />
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">

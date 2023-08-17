@@ -1,6 +1,6 @@
 ---
-title: Bonnes pratiques relatives aux workflows pour les professionnels du marketing de LoyaltyOne
-description: Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les professionnels du marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
+title: Bonnes pratiques relatives aux workflows pour les spécialistes marketing de LoyaltyOne
+description: Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les spécialistes marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
 feature: Workflows
 jira: KT-11423
 thumbnail: 3410837.jpg
@@ -18,8 +18,8 @@ ht-degree: 100%
 
 ---
 
-# Bonnes pratiques relatives aux workflows pour les professionnels du marketing de LoyaltyOne
+# Bonnes pratiques relatives aux workflows pour les spécialistes marketing de LoyaltyOne
 
-Workflows, une puissante fonctionnalité d’Adobe Campaign, vous permet de gérer les campagnes et de joindre vos clients plus facilement. Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les professionnels du marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
+Workflows, une puissante fonctionnalité d’Adobe Campaign, vous permet de gérer les campagnes et de joindre vos clients plus facilement. Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les spécialistes marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on)
