@@ -6,10 +6,10 @@ thumbnail: 343607.jpg
 jira: KT-9742
 last-substantial-update: 2022-08-24T00:00:00Z
 exl-id: c057d743-ca6a-44c7-a93a-d6652dba8e7b
-source-git-commit: 05b49ca012d0d505b117a2fb6b12ff41b51be63e
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+workflow-type: tm+mt
+source-wordcount: '117'
+ht-degree: 98%
 
 ---
 
@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez comment configurer un compte SMPP avec Adobe Campaign. Apprenez aussi comment analyser les résultats des diffusions SMS et personnaliser le traitement du SR selon les spécifications de votre fournisseur SMPP.
 
->[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343607?quality=12&learn=on){transcript=true}
 
 Voir [Protocole et paramètres du connecteur SMS](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-messages-on-mobiles/sms-protocol.html?lang=fr#sending-messages) pour obtenir plus d’informations sur le protocole SMPP, les détails des paramètres de compte externe ou la résolution des problèmes les plus courants.
