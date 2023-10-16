@@ -11,9 +11,9 @@ level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '319'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ Avant de pouvoir commencer, vous devez disposer des éléments suivants :
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Présentation du tutoriel
+## Vue d’ensemble du tutoriel
 
 L&#39;objectif consiste à envoyer une notification promotionnelle personnalisée [!DNL push] aux abonnés de l&#39;application mobile [!DNL Neotrip] [!DNL Android™]. L&#39;application [!DNL Neotrip] est configurée avec la balise [!DNL Campaign SDK] et la balise [!DNL Mobile App channel] est activée sur l&#39;instance [!DNL Campaign].
 
