@@ -8,9 +8,9 @@ role: Admin, Developer
 level: Experienced
 exl-id: 6bd2f88a-9da4-43ea-8b18-b51a4024ea2a
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -20,4 +20,4 @@ Découvrez comment créer un service de newsletter et abonner un destinataire en
 
 >[!VIDEO](https://video.tv.adobe.com/v/336538?quality=12&learn=on){transcript=true}
 
-Passer à : [Étape 4 - Créer un condensé de contenu avec un processus](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
+Passer à : [Étape 4 - Créer un condensé de contenu avec un workflow](/help/tutorial-use-soap-apis/create-article-alert-delivery-overview.md)
