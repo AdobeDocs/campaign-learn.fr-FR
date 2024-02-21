@@ -6,9 +6,9 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 52c41223e6f3c155bcace3ea3427d3030ebfeb01
+source-git-commit: 1ba89be839ba4ee1440377697db7da12451758ea
 workflow-type: ht
-source-wordcount: '443'
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -24,21 +24,6 @@ Adobe Campaign offre une plateforme pour concevoir des expériences client cros
 > Actuellement, Campaign v8 n’est disponible qu’en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration automatisée depuis un environnement Campaign Classic v7 existant n’est pas encore disponible.
 >
 >Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr) pour plus d’informations sur la transition de Classic v7 vers V8.
-
-<div id="whats-new-section">
-
-## Nouveautés
-
-* **[Exploration et dépannage détaillés du protocole SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html?lang=fr)**
-  *Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.*
-
-* **[Panneau de contrôle - surveiller les workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=fr){target="_blank"}**
-  *Découvrez comment surveiller l’utilisation de l’espace de stockage temporaire de vos workflows et où configurer les paramètres de workflows pour éviter des problèmes liés aux bases de données ou aux workflows sur votre instance.*
-
-* **[Panneau de contrôle - surveiller les débits et la latence](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=fr){target="_blank"}**
-  *Découvrez comment surveiller les débits de diffusion et les latences des messages transactionnels de votre instance Campaign.*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
