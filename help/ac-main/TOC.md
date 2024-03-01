@@ -5,10 +5,10 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités de la console cliente Adobe Campaign V8.
 breadcrumb-title: Console cliente – Tutoriels
 auto-video-transcripts: true
-source-git-commit: cadb9deda9b442d1c241d432ef9ce095e57806f6
+source-git-commit: 096ea99b585d4430ed5c588d910e7c6614f7fc31
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '394'
+ht-degree: 98%
 
 ---
 
@@ -105,3 +105,4 @@ ht-degree: 100%
    + [Dix bonnes pratiques destinées aux spécialistes du marketing qui souhaitent réussir avec Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
    + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
++ [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html)
