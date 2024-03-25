@@ -1,20 +1,21 @@
 ---
-title: Tutorials de la console cliente Adobe Campaign v8
-description: Adobe Campaign offre une plateforme pour concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités de la console cliente Adobe Campaign V8.
+title: Tutoriels sur la console cliente Adobe Campaign v8
+description: Adobe Campaign offre une plateforme permettant de concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal (Cross-channel Execution). Ce guide contient des vidéos et des tutoriels sur les nombreuses fonctionnalités de la console cliente Adobe Campaign v8.
 sub-product: Campaign V8
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 2dfee4f1efe870815fd7cbf9023838c1c9c367a8
-workflow-type: tm+mt
+exl-id: ec352448-e40b-4d22-b566-d25783e74b63
+source-git-commit: f4fb362adce9b576e3fc815cce775c52bfcc80f3
+workflow-type: ht
 source-wordcount: '368'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# Tutorials de la console cliente Adobe Campaign v8
+# Tutoriels sur la console cliente Adobe Campaign v8
 
-Adobe Campaign offre une plateforme pour concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal. Ce guide de l’utilisateur contient des vidéos et des tutoriels sur les nombreuses fonctionnalités de la console cliente Adobe Campaign V8.
+Adobe Campaign offre une plateforme permettant de concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal (Cross-channel Execution). Ce guide contient des vidéos et des tutoriels sur les nombreuses fonctionnalités de la console cliente Adobe Campaign v8.
 
 Voir
 
@@ -22,12 +23,12 @@ Voir
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 > 
 > Vous ne trouvez pas ce que vous voulez dans ces tutoriels ?
-> Voir [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html) pour des conseils sur l&#39;utilisation de l&#39;interface utilisateur web de Campaign.
+> Voir [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr) pour des conseils sur l’utilisation de l’interface utilisateur web de Campaign.
 
 >[!NOTE]
 > Actuellement, Campaign v8 n’est disponible qu’en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration automatisée depuis un environnement Campaign Classic v7 existant n’est pas encore disponible.
 >
->Voir [documentation du produit](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr) pour plus d’informations sur la transition de Classic v7 vers V8.
+>Veuillez consulter la [documentation du produit](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/v7-to-v8.html?lang=fr) pour plus d’informations sur la transition de Classic v7 vers v8.
 
 
 <div id="recs-overview-body-1"></div>
