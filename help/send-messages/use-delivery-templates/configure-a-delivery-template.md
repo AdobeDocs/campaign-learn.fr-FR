@@ -11,9 +11,9 @@ role: Admin
 level: Beginner
 exl-id: fb82b30d-7781-4aaf-a19a-c9810be5f87d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -26,7 +26,7 @@ Un modèle peut systématiquement inclure :
 * Typologies
 * Adresses d&#39;expéditeur et destinataire
 * Blocs de personnalisation de base
-* Liens vers les pages miroir et désinscription liens
+* Liens vers les pages miroir et liens de désinscription
 * Contenu, logo d&#39;une entreprise ou signature
 * Autres propriétés de diffusion, telles que la validité des ressources, les quantités de lots, etc.
 
