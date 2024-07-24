@@ -5,7 +5,7 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités de la console cliente Adobe Campaign V8.
 breadcrumb-title: Console cliente - Tutoriels
 auto-video-transcripts: true
-source-git-commit: e40954c92b4d217411349a48b3299f3beeabd53b
+source-git-commit: 1a4c03a96bb1002cf4e936e8d413af3ac1957252
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -49,6 +49,8 @@ ht-degree: 100%
       + [Utilisation des populations témoins](/help/send-messages/email/use-control-groups.md)
       + [Résolution des problèmes de diffusion e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
       + [Conception d&#39;e-mails pour la délivrabilité](/help/send-messages/email/design-emails-for-deliverability.md)
+      + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
+      + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
    + SMS {#sms}
       + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Push {#push}
@@ -103,6 +105,4 @@ ht-degree: 100%
    + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
    + [Dix bonnes pratiques destinées aux spécialistes du marketing qui souhaitent réussir avec Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
 + [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr)
