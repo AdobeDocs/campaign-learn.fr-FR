@@ -6,9 +6,9 @@ user-guide-description: Découvrez comment utiliser les fonctionnalités de la c
 breadcrumb-title: Console cliente - Tutoriels
 auto-video-transcripts: true
 source-git-commit: ebca0bb940fbcd5b8e3505d30f1e4caa339853bf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 97%
 + [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 + Prise en main {#getting-started}
    + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Prise en main d’Adobe Campaign v8 après la migration depuis Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Commencer avec Adobe Campaign v8 après la migration depuis Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=fr)
    + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
@@ -106,4 +106,4 @@ ht-degree: 97%
    + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
    + [Dix bonnes pratiques destinées aux spécialistes du marketing qui souhaitent réussir avec Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-+ [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr)
++ [Tutoriels sur l’interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr)
