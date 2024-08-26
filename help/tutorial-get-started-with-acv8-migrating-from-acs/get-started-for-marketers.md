@@ -5,7 +5,7 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 source-git-commit: 93a68053823fe4aefbd6a755b957b4eea8d6a163
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '849'
 ht-degree: 100%
 
