@@ -5,10 +5,10 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités de la console cliente Adobe Campaign V8.
 breadcrumb-title: Console cliente - Tutoriels
 auto-video-transcripts: true
-source-git-commit: e10b192da04774d44652e6771c17b6d823a74636
+source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 98%
+source-wordcount: '408'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 + [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 + Prise en main {#getting-started}
    + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
-   + [Guide de l’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
    + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
    + [Gestion des campagnes marketing](/help/get-started/manage-marketing-campaigns.md)
@@ -102,6 +102,7 @@ ht-degree: 98%
    + [Carte thermique des workflows](/help/monitoring/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring/audit-trail.md)
 + Administration {#administration}
+   + [Gérer les autorisations utilisateur](/help/administration/manage-user-permissions.md)
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
    + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
 + Stratégie et leadership{#strategy}
