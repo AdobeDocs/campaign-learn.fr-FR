@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer une diffusion SMS.
 
->[!VIDEO](https://video.tv.adobe.com/v/335706?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441806?quality=12&learn=on&captions=fre_fr){transcript=true}

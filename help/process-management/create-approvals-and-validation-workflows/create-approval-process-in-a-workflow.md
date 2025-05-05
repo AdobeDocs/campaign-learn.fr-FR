@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment créer un processus de validation dans un workflow pour permettre la révision et la validation de la logique de sélection du ciblage avant le lancement de la diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/338830?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3442036?quality=12&learn=on&captions=fre_fr){transcript=true}

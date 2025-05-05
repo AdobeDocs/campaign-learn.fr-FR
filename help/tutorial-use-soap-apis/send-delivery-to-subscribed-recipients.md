@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment joindre deux segments de données, créer un email d’alerte d’article et le personnaliser en fonction des données reçues d’une API externe. Nous continuerons à créer le processus initié à l&#39;étape précédente : [Vidéo Requête sur les articles et les valeurs d’abonnement des destinataires](/help/tutorial-use-soap-apis/query-articles-and-recipient-subscription-values.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/336904?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449566?quality=12&learn=on&captions=fre_fr){transcript=true}

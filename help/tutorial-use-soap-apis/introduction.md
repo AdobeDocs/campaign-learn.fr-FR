@@ -19,6 +19,6 @@ ht-degree: 100%
 
 Découvrez comment utiliser les API Soap Adobe Campaign et créer un workflow de diffusion avancé basé sur les données reçues via l’API.
 
->[!VIDEO](https://video.tv.adobe.com/v/336639?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3438336?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Vidéo suivante à regarder : [Étape 1 : prise en main des API SOAP](/help/tutorial-use-soap-apis/get-started-with-soap-apis.md)

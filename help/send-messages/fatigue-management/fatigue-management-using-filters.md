@@ -22,4 +22,4 @@ ht-degree: 100%
 La gestion de la lassitude contrôle la fréquence et le nombre des messages afin d&#39;éviter une sollicitation excessive des destinataires.
 Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l&#39;aide de filtres.
 
->[!VIDEO](https://video.tv.adobe.com/v/333778?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444602?quality=12&learn=on&captions=fre_fr){transcript=true}

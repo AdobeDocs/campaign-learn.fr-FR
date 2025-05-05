@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez le processus de création d’une diffusion email et apprenez à concevoir et à personnaliser du contenu d’email.
 
->[!VIDEO](https://video.tv.adobe.com/v/333476?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444311?quality=12&learn=on&captions=fre_fr){transcript=true}

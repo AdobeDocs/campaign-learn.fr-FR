@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment configurer l’intégration entre Experience Manager et Campaign, y compris les paramètres importants à prendre en compte et les pièges potentiels à éviter.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445898?quality=12&learn=on&captions=fre_fr){transcript=true}

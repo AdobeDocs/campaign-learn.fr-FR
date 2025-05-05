@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Dans cette première partie du tutoriel Création d’un workflow d’exportation, apprenez à créer un workflow qui recherche la date de dernière modification pour une liste de destinataires créée à partir d’un segment Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/336387?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450049?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Assets
 

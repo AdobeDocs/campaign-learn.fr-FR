@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment ingérer des données à l’aide d’un connecteur source dans Experience Platform pour mettre à jour les données de profil avec les journaux Campaign exportés.
 
->[!VIDEO](https://video.tv.adobe.com/v/336642?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452027?quality=12&learn=on&captions=fre_fr){transcript=true}

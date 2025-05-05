@@ -39,10 +39,10 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
 La vidéo explique comment configurer une diffusion récurrente et une activité Planificateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446876?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Comment configurer une diffusion au fil de l’eau {#how-to-set-up-a-continuous-delivery}
 
 Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
 
->[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444569?quality=12&learn=on&captions=fre_fr){transcript=true}

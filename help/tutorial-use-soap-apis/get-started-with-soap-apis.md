@@ -18,6 +18,6 @@ ht-degree: 100%
 
 Découvrez comment générer un jeton de session à l’aide de Postman en vue de l’utiliser dans les demandes d’API.
 
->[!VIDEO](https://video.tv.adobe.com/v/336536?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449477?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Vidéo suivante à regarder : [Étape 2 - Ajout de destinataires et d’articles à l’aide de la requête API SOAP](/help/tutorial-use-soap-apis/add-recipients-and-articles-using-soap-api-requests.md)

@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Cette vidéo explique comment déployer un modèle de diffusion e-mail ad hoc. Elle explique aussi la différence entre une diffusion e-mail et un workflow de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/338965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444959?quality=12&learn=on&captions=fre_fr){transcript=true}

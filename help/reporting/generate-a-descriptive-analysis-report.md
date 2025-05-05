@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment générer un [!UICONTROL rapport d&#39;analyse descriptive] à partir d&#39;un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/333994?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448831?quality=12&learn=on&captions=fre_fr){transcript=true}

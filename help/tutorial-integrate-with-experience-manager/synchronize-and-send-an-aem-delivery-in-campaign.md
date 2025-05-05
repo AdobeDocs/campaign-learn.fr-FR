@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment tester et envoyer une newsletter, créée à lʼorigine dans Experience Manager, dans Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444750?quality=12&learn=on&captions=fre_fr){transcript=true}

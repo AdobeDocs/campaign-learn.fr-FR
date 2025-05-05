@@ -23,4 +23,4 @@ Dans une campagne cross-canal, une communication marketing unique utilise diffé
 
 Découvrez comment créer une campagne cross-canal à l&#39;aide de diffusions e-mail et courrier, basées sur l&#39;interaction du client avec la première diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/335607?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426512?quality=12&learn=on&captions=fre_fr){transcript=true}

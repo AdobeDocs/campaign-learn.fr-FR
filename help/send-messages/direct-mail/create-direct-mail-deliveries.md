@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez le fonctionnement du [!UICONTROL courrier] dans [!UICONTROL Adobe Campaign] et comment créer, formater et exécuter une diffusion [!UICONTROL courrier].
 
->[!VIDEO](https://video.tv.adobe.com/v/333401?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3414037?quality=12&learn=on&captions=fre_fr){transcript=true}

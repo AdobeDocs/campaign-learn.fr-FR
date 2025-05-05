@@ -23,4 +23,4 @@ Adobe Campaign vous permet de concevoir et d&#39;héberger différentes landing
 
 Cette vidéo explique comment naviguer dans l&#39;éditeur d&#39;application Web d&#39;Adobe Campaign en créant un centre de préférences.
 
->[!VIDEO](https://video.tv.adobe.com/v/333629?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450216?quality=12&learn=on&captions=fre_fr){transcript=true}

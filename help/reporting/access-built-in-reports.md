@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Comprenez les rapports et analyses intégrés dans Adobe Campaign et découvrez comment générer un rapport de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/334965?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448285?quality=12&learn=on&captions=fre_fr){transcript=true}

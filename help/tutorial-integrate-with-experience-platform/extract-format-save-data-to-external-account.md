@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Dans cette deuxième partie du tutoriel Créer un workflow d’exportation, vous allez apprendre à formater les données à exporter et à les enregistrer dans un compte externe.
 
->[!VIDEO](https://video.tv.adobe.com/v/336391?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449901?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 ## Assets
 

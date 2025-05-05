@@ -23,4 +23,4 @@ Les validations permettent à des opérateurs de prendre des décisions à certa
 
 Découvrez comment configurer les validations et une campagne et comment différencier les validations de diffusion et de workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334479?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426628?quality=12&learn=on&captions=fre_fr){transcript=true}

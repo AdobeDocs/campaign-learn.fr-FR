@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Découvrez comment interroger les données à l’aide de différentes dimensions de ciblage et de filtrage, et comment associer les sorties à l’aide d’une intersection pour le cas d’utilisation de la création d’une diffusion de synthèse de contenu automatisée.
 
->[!VIDEO](https://video.tv.adobe.com/v/336537?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452892?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 Étape suivante : [Envoyer une diffusion aux destinataires abonnés](/help/tutorial-use-soap-apis/send-delivery-to-subscribed-recipients.md)

@@ -23,4 +23,4 @@ Dans une campagne multicanal, une communication marketing unique utilise plusieu
 
 Découvrez comment créer une campagne multicanal à l&#39;aide d&#39;une diffusion e-mail, SMS et courrier, selon le canal préféré du destinataire.
 
->[!VIDEO](https://video.tv.adobe.com/v/335440?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452505?quality=12&learn=on&captions=fre_fr){transcript=true}

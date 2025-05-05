@@ -24,4 +24,4 @@ Adobe Campaign utilise des workflows pour réaliser des campagnes de ciblage, c
 
 Découvrez comment définir plusieurs cibles de diffusion à l&#39;aide d&#39;un workflow de ciblage.
 
->[!VIDEO](https://video.tv.adobe.com/v/342083?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450190?quality=12&learn=on&captions=fre_fr){transcript=true}

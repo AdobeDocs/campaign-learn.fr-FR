@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment créer une campagne déclenchée par un événement et comprenez son utilité.
 
->[!VIDEO](https://video.tv.adobe.com/v/334478?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426636?quality=12&learn=on&captions=fre_fr){transcript=true}

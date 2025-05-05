@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez comment affiner votre cible en appliquant une exclusion standard à un workflow. Découvrez comment créer des filtres prédéfinis et résoudre les problèmes liés à votre workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/335609?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452925?quality=12&learn=on&captions=fre_fr){transcript=true}

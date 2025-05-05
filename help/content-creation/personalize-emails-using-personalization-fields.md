@@ -23,4 +23,4 @@ Les champs de personnalisation sont utilisés pour la personnalisation de premie
 
 Découvrez comment ajouter un champ de personnalisation à la ligne d&#39;objet et au contenu d&#39;une diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30950?quality=12&learn=on&captions=fre_fr){transcript=true}

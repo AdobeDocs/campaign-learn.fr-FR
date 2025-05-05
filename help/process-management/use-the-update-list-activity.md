@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Découvrez le concept des listes dans Adobe Campaign et apprenez comment créer une liste à l&#39;aide de l&#39;activité de mise à jour de liste dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334909?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3426459?quality=12&learn=on&captions=fre_fr){transcript=true}

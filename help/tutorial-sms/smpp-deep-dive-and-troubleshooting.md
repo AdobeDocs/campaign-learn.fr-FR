@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment les connexions SMPP sont établies et comment SMPP échange des données par le biais de PDU. Découvrez comment résoudre les problèmes de connexion.
 
->[!VIDEO](https://video.tv.adobe.com/v/346489?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453413?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -23,7 +23,7 @@ Vous pouvez accéder à Adobe Campaign v8 à partir de la console cliente ou d
 
 ## Accéder à l’interface d’utilisation de Campaign Web et l’explorer
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453424?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 1. [Découvrir l’interface](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/start/user-interface)
 2. [Parcourir et filtrer la liste](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/start/list-filters)
@@ -40,13 +40,13 @@ Le concept général de création et de gestion des audiences dans Campaign v8 
 
 1. Découvrez comment accéder aux profils, les gérer et les explorer à l’aide de l’interface d’utilisation de Campaign Web.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3448366?quality=12&learn=on&captions=fre_fr){transcript=true}
 
    Pour plus d’informations, voir [Commencer avec les profils](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"}.
 
 2. Découvrez comment créer et gérer des audiences, comment sélectionner des audiences pour une diffusion et définir des populations témoins.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453204?quality=12&learn=on&captions=fre_fr){transcript=true}
 
    Pour plus d’informations, voir [Commencer avec les audiences](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"}.
 
@@ -99,7 +99,7 @@ Utilisez Adobe Campaign Web pour gérer et créer vos services tels que les ne
 
 1. Découvrez le fonctionnement des workflows et comment créer un workflow de ciblage.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453972?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 1. [Utiliser les activités de workflow](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Mécanismes de sécurisation et limitations des workflows](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -110,23 +110,23 @@ Utilisez Adobe Campaign Web pour gérer et créer vos services tels que les ne
 
 Découvrez comment créer entièrement une diffusion par e-mail, définir l’audience, concevoir le contenu, simuler l’aperçu et envoyer un BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454007?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 1. **Concevoir et définir du contenu**
 
    Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment structurer et concevoir entièrement un e-mail, et personnaliser et tester votre e-mail.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453566?quality=12&learn=on&captions=fre_fr){transcript=true}
 
    Découvrez comment créer un e-mail en chargeant un fichier HTML, le rendre compatible avec le concepteur d’e-mail et le convertir en modèle.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3447034?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 2. **Prévisualiser et tester**
 
    Découvrez comment prévisualiser le contenu et la personnalisation des e-mails, envoyer des diffusions de test (BAT), ou encore vérifier le rendu des e-mails dans les clients populaires de bureau, mobiles et web.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3450339?quality=12&learn=on&captions=fre_fr){transcript=true}
 
 3. **Envoyer un e-mail et consulter les journaux**
 

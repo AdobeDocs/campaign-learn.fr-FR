@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Découvrez comment importer des profils dans Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/342085?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344566?quality=12&learn=on&captions=fre_fr){transcript=true}

@@ -32,4 +32,4 @@ Un modèle peut systématiquement inclure :
 
 La vidéo suivante montre comment configurer un modèle pour une diffusion ad hoc.
 
->[!VIDEO](https://video.tv.adobe.com/v/342082?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409245?quality=12&learn=on&captions=fre_fr){transcript=true}

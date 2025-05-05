@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Découvrez comment créer une enquête dans Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448075/?learn=on&captions=fre_fr){transcript=true}
 
 >[!NOTE]
 >La vidéo est enregistrée dans l’interface utilisateur de Campaign Classic V7, mais elle est également valide pour Campaign V8.

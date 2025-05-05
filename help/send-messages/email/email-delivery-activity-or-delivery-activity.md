@@ -20,4 +20,4 @@ Une [!UICONTROL activité de type Diffusion] vous permet de créer une action de
 
 Cette vidéo montre comment déployer un modèle de diffusion email. Elle explique la différence entre une diffusion email et un workflow de diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27448?quality=12&learn=on&captions=fre_fr){transcript=true}

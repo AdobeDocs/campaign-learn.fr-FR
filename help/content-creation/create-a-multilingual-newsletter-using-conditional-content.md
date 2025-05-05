@@ -23,4 +23,4 @@ Le paramétrage de champs de contenu conditionnel permet d&#39;atteindre un nive
 
 Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446713?quality=12&learn=on&captions=fre_fr){transcript=true}
