@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
 workflow-type: tm+mt
 source-wordcount: '408'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 + [Tutoriels sur la console cliente Adobe Campaign v8](/help/overview.md)
 + [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
-+ Prise en main {#getting-started}
++ Commencer {#getting-started}
    + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
    + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
    + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
@@ -44,7 +44,7 @@ ht-degree: 100%
       + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configuration des landing pages](/help/content-creation/configure-landingpages.md)
    + [Créer une enquête](/help/content-creation/create-a-survey.md)
-+ Envoi de messages{#sending-messages}
++ Envoyer des messages{#sending-messages}
    + E-mail {#email}
       + [Envoi et validation des BAT pour une diffusion e-mail](/help/send-messages/email/send-and-validate-proofs.md)
       + [Utilisation des populations témoins](/help/send-messages/email/use-control-groups.md)
@@ -54,23 +54,23 @@ ht-degree: 100%
       + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
    + SMS {#sms}
       + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
-   + Push {#push}
+   + Notifications push {#push}
       + [Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + Canal Courrier {#direct-mail}
+   + Courrier {#direct-mail}
       + [Création de diffusions courrier](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
-   + Utilisation de modèles de diffusion{#using-delivery-templates}
+   + Utiliser des modèles de diffusion{#using-delivery-templates}
       + [Création d&#39;un modèle de diffusion](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
       + [Définition des propriétés du modèle de diffusion](/help/send-messages/use-delivery-templates/set-delivery-template-properties.md)
       + [Déploiement d&#39;un modèle de diffusion e-mail ad hoc](/help/send-messages/use-delivery-templates/deploy-ad-hoc-email-delivery-template.md)
-   + Gestion de la lassitude{#fatigue-management}
+   + Gestion de la fatigue{#fatigue-management}
       + [Règles de typologie](/help/send-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Filtres prédéfinis](/help/send-messages/fatigue-management/fatigue-management-using-filters.md)
    + [Configuration et gestion des services d&#39;abonnement](/help/send-messages/configure-and-manage-subscription-services.md)
 + Gestion et automatisation des processus{#process-management}
    + [Création d&#39;un workflow](/help/process-management/create-a-workflow.md)
    + [Création de diffusions récurrentes et au fil de l&#39;eau](/help/process-management/recurring-deliveries.md)
-   + Workflows de ciblage {#targeting-workflows}
+   + Les workflows de ciblage {#targeting-workflows}
       + [Créer un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
@@ -90,7 +90,7 @@ ht-degree: 100%
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
    + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
-+ Connexion à dʼautres solutions {#connect}
++ Connexion à d&#39;autres solutions {#connect}
    + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
    + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
    + [Intégration à Adobe Target](/help/connect/target-integration.md)
@@ -98,7 +98,7 @@ ht-degree: 100%
 + Reporting {#reporting}
    + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
    + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Surveillance {#monitoring}
++ Contrôle  {#monitoring}
    + [Carte thermique des workflows](/help/monitoring/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring/audit-trail.md)
 + Administration {#administration}
