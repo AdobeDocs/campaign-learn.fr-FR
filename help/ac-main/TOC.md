@@ -18,7 +18,7 @@ ht-degree: 96%
 + [Tutoriels sur la console cliente Adobe Campaign v8](/help/overview.md)
 + [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 + Commencer {#getting-started}
-   + [Présentation d&#39;Adobe Campaign ](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Présentation d&#39;Adobe Campaign &#x200B;](/help/get-started/introduction-to-adobe-campaign.md)
    + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
    + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
