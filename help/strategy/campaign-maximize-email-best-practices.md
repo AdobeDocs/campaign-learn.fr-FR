@@ -140,5 +140,5 @@ Décomposez ce processus en deux domaines d’intervention : a) modèles d’en
 
 Pour un résumé de cet article et une démonstration en direct de la mise en œuvre des stratégies de réengagement, regardez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
 
-Pour en savoir plus sur la stratégie et le leadership, consultez le hub [Succès client](https://experienceleague.adobe.com/en/docs/customer-success/customer-success/overview) hub.
+Pour en savoir plus sur la stratégie et le leadership, consultez le hub [Succès client](https://experienceleague.adobe.com/fr/docs/customer-success/customer-success/overview) hub.
 
