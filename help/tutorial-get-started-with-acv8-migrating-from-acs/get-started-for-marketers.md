@@ -138,9 +138,9 @@ Découvrez comment prévisualiser le contenu et la personnalisation des e-mails,
 #### &#x200B;3. Envoi d’e-mails et vérification des journaux
 
 <!-- CARDS
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/prepare-send
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs
  -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -149,7 +149,7 @@ Découvrez comment prévisualiser le contenu et la personnalisation des e-mails,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Planifier l’envoi d’une diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planifier l’envoi d’une diffusion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planifier l’envoi d’une diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -172,7 +172,7 @@ Découvrez comment prévisualiser le contenu et la personnalisation des e-mails,
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs" title="Surveiller les logs de diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Surveiller les logs de diffusion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Surveiller les logs de diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -299,11 +299,11 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
 ## Gestion de contenu
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -311,8 +311,8 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" title="Personnaliser votre contenu dans Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personnaliser votre contenu dans Campaign"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize" title="Personnaliser votre contenu dans Campaign" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personnaliser votre contenu dans Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -320,11 +320,11 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Personnaliser votre contenu dans Campaign">Personnaliser votre contenu dans Campaign</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" title="Personnaliser votre contenu dans Campaign">Personnaliser votre contenu dans Campaign</a>
                     </p>
                     <p class="is-size-6">Découvrir comment personnaliser votre contenu dans Adobe Campaign Web</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -334,8 +334,8 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" title="Créer du contenu conditionnel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Créer du contenu conditionnel"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions" title="Créer du contenu conditionnel" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Créer du contenu conditionnel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -343,11 +343,11 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" title="Créer du contenu conditionnel">Créer du contenu conditionnel</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" title="Créer du contenu conditionnel">Créer du contenu conditionnel</a>
                     </p>
                     <p class="is-size-6">Découvrir comment personnaliser votre contenu dans Adobe Campaign Web</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -357,8 +357,8 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="Utiliser des modèles de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Utiliser des modèles de contenu"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="Utiliser des modèles de contenu" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Utiliser des modèles de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -366,11 +366,11 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" title="Utiliser des modèles de contenu">Utiliser des modèles de contenu</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" title="Utiliser des modèles de contenu">Utiliser des modèles de contenu</a>
                     </p>
                     <p class="is-size-6">Découvrez comment créer des modèles pour réutiliser du contenu dans les e-mails Adobe Campaign</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -381,7 +381,7 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments" title="Commencer avec les fragments de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Commencer avec les fragments de contenu"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Commencer avec les fragments de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -404,7 +404,7 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers" title="Ajouter des offres à vos messages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Ajouter des offres à vos messages"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Ajouter des offres à vos messages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -433,16 +433,16 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
 
 ## Reporting
 
-Adobe Campaign propose trois types différents de [rapports standard](https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/gs-reports) :
+Adobe Campaign propose trois types différents de [rapports standard](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/gs-reports) :
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
 {title = Campaign Reports}
 {description = Provide detailed information on the performance, effectiveness, and outcomes of your individual deliveries, providing you with a comprehensive overview.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
 {title = Global Reports}
 {description = Offer a consolidated overall summary of traffic and engagement metrics for each channel within your Campaign instance. These reports consist of various widgets, each offering a distinct perspective on your campaign or delivery performance.}
 -->
@@ -452,8 +452,8 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="Rapports de diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Rapports de diffusion"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="Rapports de diffusion" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Rapports de diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -461,11 +461,11 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" title="Rapports de diffusion">Rapports de diffusion</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" title="Rapports de diffusion">Rapports de diffusion</a>
                     </p>
                     <p class="is-size-6">Ils offrent une analyse approfondie des performances de chaque diffusion, pour chaque canal : taux de succès, engagement de l’audience et autres mesures essentielles. Ils vous permettent d’évaluer l’efficacité globale et l’impact de votre campagne.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -475,8 +475,8 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="Rapports de campagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Rapports de campagne"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="Rapports de campagne" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Rapports de campagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -484,11 +484,11 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" title="Rapports de campagne">Rapports de campagne</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" title="Rapports de campagne">Rapports de campagne</a>
                     </p>
                     <p class="is-size-6">Ils fournissent des informations détaillées sur les performances, l’efficacité et les résultats de vos diffusions individuelles, ce qui vous permet d’obtenir une vue d’ensemble complète.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -498,8 +498,8 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="Rapports globaux" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Rapports globaux"
+                    <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="Rapports globaux" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Rapports globaux"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -507,11 +507,11 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="Rapports globaux">Rapports globaux</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" title="Rapports globaux">Rapports globaux</a>
                     </p>
                     <p class="is-size-6">Ils offrent un résumé global consolidé des mesures de trafic et d’engagement pour chaque canal de votre instance Campaign. Ces rapports se composent de différents widgets, chacun offrant une perspective différente des performances de vos campagnes ou diffusions.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> En savoir plus </span>
                 </a>
             </div>
@@ -525,8 +525,8 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
 ### Adobe Experience Manager
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -535,7 +535,7 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets" title="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -558,7 +558,7 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content" title="Gérer les ressources avec Adobe Experience Manager as a Cloud service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager as a Cloud service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager as a Cloud service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -585,10 +585,10 @@ Adobe Campaign propose trois types différents de [rapports standard](https://ex
 Les intégrations suivantes sont disponibles dans la console cliente Adobe Campaign, mais pas encore dans l’interface d’utilisation de Campaign Web. Sélectionnez les liens fournis pour parcourir la documentation de Campaign v8 (console cliente) et en savoir plus sur ces intégrations :
 
 <!-- CARDS
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
-* https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa
+* https://experienceleague.adobe.com/fr/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-triggers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -597,7 +597,7 @@ Les intégrations suivantes sont disponibles dans la console cliente Adobe Camp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa" title="Utilisation de Campaign et Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -643,7 +643,7 @@ Les intégrations suivantes sont disponibles dans la console cliente Adobe Camp
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at" title="Utilisation de Campaign et Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Target"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
