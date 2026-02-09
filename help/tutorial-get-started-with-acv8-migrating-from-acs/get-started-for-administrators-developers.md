@@ -18,7 +18,7 @@ Ce tutoriel offre une vue d’ensemble des principales fonctionnalités administ
 
 ## Découvrir l’architecture de Campaign v8
 
-Voir [Prise en main de l’architecture de Campaign](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} pour comprendre l’architecture de Campaign avant de commencer à structurer et organiser votre instance.
+Voir [Prise en main de l’architecture de Campaign](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/architecture/general-architecture){target="_blank"} pour comprendre l’architecture de Campaign avant de commencer à structurer et organiser votre instance.
 
 
 ## Installer la console cliente
@@ -31,7 +31,7 @@ Pour plus d’informations, consulez [Se connecter à Campaign avec la console c
 
 ## Configurer et gérer l’accès
 
-1. **[Prise en main des autorisations dans Campaign v8.](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
+1. **[Prise en main des autorisations dans Campaign v8.](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/permissions/gs-permissions){target="_blank"}**
 Découvrez le modèle d’autorisation global : opérateurs, groupes d’opérateurs (rôles), droits nommés et autorisations de dossiers.
 
 2. Découvrez comment gérer les autorisations utilisateur dans la console cliente. Découvrez comment
@@ -43,7 +43,7 @@ Découvrez le modèle d’autorisation global : opérateurs, groupes d’opérat
 
 >[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
 
-Voir la [documentation du produit](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} pour obtenir un guide détaillé et écrit.
+Voir la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} pour obtenir un guide détaillé et écrit.
 
 ## Configurer votre instance
 
