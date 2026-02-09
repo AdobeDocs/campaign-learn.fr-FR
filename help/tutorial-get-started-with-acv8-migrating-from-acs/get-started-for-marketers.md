@@ -23,7 +23,7 @@ Vous pouvez accéder à Adobe Campaign v8 à partir de la console cliente ou d
 
 ## Accéder à l’interface d’utilisation de Campaign Web et l’explorer
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453424?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 * [Découvrir l’interface](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/start/user-interface)
 * [Parcourir et filtrer la liste](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/start/list-filters)
@@ -42,7 +42,7 @@ Le concept général de création et de gestion des audiences dans Campaign v8 
 
 Découvrez comment accéder aux profils, les gérer et les explorer à l’aide de l’interface d’utilisation de Campaign Web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448366?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Consultez [Prise en main des profils](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients){target="_blank"} pour plus d’informations.
 
@@ -50,7 +50,7 @@ Consultez [Prise en main des profils](https://experienceleague.adobe.com/fr/docs
 
 Découvrez comment créer et gérer des audiences, comment sélectionner des audiences pour une diffusion et définir des populations témoins.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453204?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Consultez [Prise en main des audiences](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/audiences/audiences/manage-audience){target="_blank"} pour plus d’informations.
 
@@ -106,7 +106,7 @@ Voir la documentation du produit pour obtenir des [campagnes](https://experience
 
 1. Découvrez le fonctionnement des workflows et comment créer un workflow de ciblage.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3425873?quality=12&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3453972?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 1. [Utiliser les activités de workflow](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/design-workflows/about-activities){target="_blank"}
 1. [Mécanismes de sécurisation et limitations des workflows](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/wf/guardrails){target="_blank"}
@@ -117,23 +117,23 @@ Voir la documentation du produit pour obtenir des [campagnes](https://experience
 
 Découvrez comment créer entièrement une diffusion par e-mail, définir l’audience, concevoir le contenu, simuler l’aperçu et envoyer un BAT.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454007?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 #### &#x200B;1. Concevoir et définir du contenu
 
 Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment structurer et concevoir entièrement un e-mail, et personnaliser et tester votre e-mail.
 
-[!VIDEO](https://video.tv.adobe.com/v/3425867?quality=12&learn=on){transcript=true}
+[!VIDEO](https://video.tv.adobe.com/v/3453566?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Découvrez comment créer un e-mail en chargeant un fichier HTML, le rendre compatible avec le concepteur d’e-mail et le convertir en modèle.
 
-[!VIDEO](https://video.tv.adobe.com/v/3427633?quality=12&learn=on){transcript=true}
+[!VIDEO](https://video.tv.adobe.com/v/3447034?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 #### &#x200B;2. Prévisualisation et test
 
 Découvrez comment prévisualiser le contenu et la personnalisation des e-mails, envoyer des diffusions de test (BAT), ou encore vérifier le rendu des e-mails dans les clients populaires de bureau, mobiles et web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450339?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 #### &#x200B;3. Envoi d’e-mails et vérification des journaux
 
