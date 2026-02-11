@@ -6,10 +6,10 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-source-git-commit: 2ffcd562088eeb47b72fe4f79b4b4ce0210edf16
+source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
 workflow-type: tm+mt
-source-wordcount: '1480'
-ht-degree: 91%
+source-wordcount: '1461'
+ht-degree: 90%
 
 ---
 
@@ -138,7 +138,4 @@ Décomposez ce processus en deux domaines d’intervention : a) modèles d’en
 
 * **Testez et apprenez** - Un bon plan de test est important pour vous assurer que vos efforts ont l’effet escompté. Déterminez ce qui fonctionne et ce qui ne fonctionne pas et tirez des enseignements.
 
-Pour un résumé de cet article et une démonstration en direct de la mise en œuvre des stratégies de réengagement, regardez notre [webinaire](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/).
-
-Pour en savoir plus sur la stratégie et le leadership, consultez le hub [Succès client](https://experienceleague.adobe.com/fr/docs/customer-success/customer-success/overview) hub.
-
+Pour en savoir plus sur la stratégie et le leadership de la pensée, consultez le hub [Perspectives](https://experienceleague.adobe.com/en/perspectives).
