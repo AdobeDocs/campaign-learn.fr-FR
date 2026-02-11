@@ -138,4 +138,4 @@ Décomposez ce processus en deux domaines d’intervention : a) modèles d’en
 
 * **Testez et apprenez** - Un bon plan de test est important pour vous assurer que vos efforts ont l’effet escompté. Déterminez ce qui fonctionne et ce qui ne fonctionne pas et tirez des enseignements.
 
-Pour en savoir plus sur la stratégie et le leadership de la pensée, consultez le hub [Perspectives](https://experienceleague.adobe.com/en/perspectives).
+Pour en savoir plus sur la stratégie et le leadership de la pensée, consultez le hub [Perspectives](https://experienceleague.adobe.com/fr/perspectives).
