@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Découvrez comment modifier la source de données d’une table de travail de workflows à l’aide de l’activité Modifier la source de données pour gérer de manière flexible les données de différentes sources de données, telles que la FDA, la FFDA et la base de données locale.
 
->[!VIDEO](https://video.tv.adobe.com/v/340064?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449532?captions=fre_fr&quality=12&learn=on){transcript=true}

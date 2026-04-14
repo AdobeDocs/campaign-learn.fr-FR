@@ -27,6 +27,6 @@ Le [!UICONTROL journal d’audit] capture en temps réel la liste complète des 
 
 Découvrez comment accéder aux logs des journaux d&#39;audit et quels paramètres peuvent être configurés.
 
->[!VIDEO](https://video.tv.adobe.com/v/342081?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444236?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 Pour plus d&#39;informations, consultez la [documentation relative au journal d&#39;audit](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=fr).
