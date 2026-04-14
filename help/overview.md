@@ -7,8 +7,8 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
 source-git-commit: 5c1d1d039b331d031f33e55c1202632dab1ad2a7
-workflow-type: tm+mt
-source-wordcount: '368'
+workflow-type: ht
+source-wordcount: '406'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,7 @@ Voir
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 > 
 > Vous ne trouvez pas ce que vous voulez dans ces tutoriels ?
-> Voir [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr) pour des conseils sur l’utilisation de l’interface utilisateur web de Campaign.
+> Consultez [Tutoriels sur l’interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr) pour des conseils sur l’utilisation de l’interface d’utilisation de Campaign Web.
 
 >[!NOTE]
 > Actuellement, Campaign v8 n’est disponible qu’en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration automatisée depuis un environnement Campaign Classic v7 existant n’est pas encore disponible.
@@ -50,7 +50,7 @@ Voir
     </a>
     <div>
       <a href="/help/get-started/create-a-marketing-plan-programs-and-campaigns.md">
-    <strong>Création d’un plan marketing</strong>
+    <strong>Créer un plan marketing</strong>
     </a>
     </div>
     <p>
@@ -59,29 +59,29 @@ Voir
   </td>
    <td>
     <a href="./content-creation/create-and-design-email-deliveries.md">
-      <img alt="Création et conception de diffusions e-mail (vidéo)" src="./assets/333476.jpg" />
+      <img alt="Créer et concevoir des diffusions e-mail (vidéo)" src="./assets/333476.jpg" />
     </a>
     <div>
       <a href="./content-creation/create-and-design-email-deliveries.md">
-    <strong>Création et conception de diffusions e-mail</strong>
+    <strong>Créer et concevoir des diffusions e-mail</strong>
     </a>
     </div>
     <p>
-    <em>Maîtrisez le processus de création d’une diffusion e-mail et apprenez à concevoir et à personnaliser du contenu d’e-mail.
+    <em>Découvrez le processus de création d’une diffusion e-mail et apprenez à concevoir et à personnaliser du contenu d’e-mail.
 </em>
     <p>
   </td>
   <td>
     <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-      <img alt="Gestion de la lassitude à l’aide de règles de typologie (vidéo)" src="./assets/333787.jpg" />
+      <img alt="Gérer la lassitude à l’aide de règles de typologie (vidéo)" src="./assets/333787.jpg" />
     </a>
     <div>
       <a href="./send-messages/fatigue-management/typology-rules-for-fatigue-management.md">
-    <strong>Gestion de la lassitude à l’aide de règles de typologie</strong>
+    <strong>Gérer la lassitude à l’aide de règles de typologie</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l'aide de règles de typologie. </em>
+    <em>Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l’aide de règles de typologie. </em>
     <p>
   </td>
 </tr>
@@ -89,15 +89,15 @@ Voir
 </td>
   <td>
     <a href="./reporting/generate-a-descriptive-analysis-report.md">
-      <img alt="Génération d&apos;un rapport d&apos;analyse descriptive" src="./assets/333994.jpg" />
+      <img alt="Générer un rapport d’analyse descriptive" src="./assets/333994.jpg" />
     </a>
     <div>
       <a href="./reporting/generate-a-descriptive-analysis-report.md">
-    <strong>Génération d'un rapport d'analyse descriptive</strong>
+    <strong>Générer un rapport d’analyse descriptive</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment générer un rapport d'analyse descriptive à partir d'un workflow.</em>
+    <em>Découvrez comment générer un rapport d’analyse descriptive à partir d’un workflow.</em>
     <p>
   </td>
   <td>
@@ -106,24 +106,24 @@ Voir
     </a>
      <div>
       <a href="./data-management/data-management-fundamentals.md">
-    <strong>Principes fondamentaux de la gestion des données avec les workflows</strong>
-    </a>
+    <strong>Principes fondamentaux de la gestion des données avec les workflows</strong>
+    </a>
     </div>
     <p>
-    <em>Découvrez ce que sont les dimensions de ciblage et les tables de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.</em>
+    <em>Découvrez ce que sont les dimensions de ciblage et les tableaux de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.</em>
     <p>
   </td>
   <td>
    <a href="./data-management/api-staging-mechanism.md">
-      <img alt="Mécanisme d&apos;évaluation des API avec FFDA" src="./assets/339276.jpg" />
+      <img alt="Mécanisme d’évaluation des API avec la FFDA" src="./assets/339276.jpg" />
     </a>
      <div>
       <a href="./data-management/api-staging-mechanism.md">
-    <strong>Mécanisme d'évaluation des API avec FFDA</strong>
+    <strong>Mécanisme d’évaluation des API avec FFDA</strong>
     </a>
     </div>
     <p>
-    <em>Découvrez comment fonctionne le mécanisme d'évaluation des API avec Full FDA.</em>
+<em>Découvrez comment fonctionne le mécanisme d’évaluation des API avec Full FDA.</em>
     <p>
   </td>
 </tr>

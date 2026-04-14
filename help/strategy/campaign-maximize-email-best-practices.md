@@ -7,15 +7,15 @@ level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
 source-git-commit: 2008e34f40bf87bff00a6cdbe5ce759e1ddea454
-workflow-type: tm+mt
-source-wordcount: '1461'
-ht-degree: 90%
+workflow-type: ht
+source-wordcount: '1474'
+ht-degree: 100%
 
 ---
 
 # ROI des e-mails et bonnes pratiques pour le réengagement des abonnés
 
-Le marketing par e-mail est un outil précieux pour développer la fidélité à la marque et augmenter les ventes. Cependant, compte tenu du grand nombre d’e-mails reçus par jour, sans parler des autres contenus numériques consommés, il est important que votre contenu se distingue des autres. Il est aussi important qu&#39;il réponde aux besoins uniques de votre audience.
+Le marketing par e-mail est un outil précieux pour développer la fidélité à la marque et augmenter les ventes. Cependant, en raison du grand nombre d’e-mails reçus par jour, sans parler des autres contenus numériques consommés, il est important que votre contenu se distingue des autres.Il est aussi important qu&#39;il réponde aux besoins uniques de votre audience.
 
 Dans cet article, nous passerons en revue quatre stratégies pour améliorer l’engagement de vos abonnés et le succès global de vos campagnes par e-mail. Nous discuterons également de la fatigue des e-mails, de la manière de l’identifier au sein de vos audiences, ainsi que des étapes simples à suivre pour améliorer l’expérience de vos abonnés.
 
@@ -27,7 +27,7 @@ Dans quelle mesure votre organisation suit-elle la délivrabilité de vos campag
 
 ## Filtrage du spam
 
-Avant de passer à la stratégie, il est important de connaître les problèmes de filtre anti-spam les plus courants qui peuvent avoir un impact sur les résultats de votre campagne. Si vous continuez à envoyer des e-mails aux abonnés inactifs qui ne les ouvrent pas pendant plus d’un an, voici ce que vous pouvez rencontrer :
+Avant de passer à la stratégie, il est important de connaître les problèmes de filtre anti-spam les plus courants qui peuvent avoir un impact sur les résultats de votre campagne. Si vous continuez à envoyer des e-mails aux personnes abonnées inactives qui ne les ouvrent pas, voici ce que vous pouvez rencontrer au bout d’un an :
 
 * Listes bloquées et listes autorisées
 * Filtres de contenu
@@ -38,13 +38,13 @@ Avant de passer à la stratégie, il est important de connaître les problèmes 
 
 ## Optimisation du ROI des e-mails
 
-Saviez-vous qu&#39;en seulement une minute sur Internet, il y a plus d&#39;un million de vues vidéo, deux millions de requêtes de recherche Google, six millions de vues Facebook et 200 millions d&#39;emails envoyés ? Avec tant de choses qui se passent, il est important de s&#39;assurer que votre contenu ne se perde au milieu de tout cela. En particulier si vous créez une campagne pendant les vacances, il est encore plus difficile d’envoyer vos e-mails aux clients potentiels et récurrents.
+Saviez-vous qu’en seulement une minute sur Internet, il y a plus d’un million de vues vidéo, deux millions de requêtes de recherche Google, six millions de vues Facebook et 200 millions d’e-mails envoyés ?Avec tant de choses qui se passent, il est important de s&#39;assurer que votre contenu ne se perde au milieu de tout cela. En particulier si vous créez une campagne pendant les vacances, il est encore plus difficile d’envoyer vos e-mails aux clients potentiels et récurrents.
 
 De novembre à début janvier, le volume des e-mails marketing envoyés augmente de manière significative. Les FAI connaissent beaucoup plus de trafic sur leurs serveurs qu&#39;au cours du reste de l&#39;année et sont donc encore plus vigilants quant à la protection de leurs clients (vos abonnés).
 
 Voici quatre stratégies clés pour optimiser votre ROI :
 
-### &#x200B;1. Préparez votre calendrier de contenu
+### 1.Préparer votre calendrier de contenu
 
 * Les FAI effectuent le suivi de votre moyenne d’envoi à partir d’une adresse IP ; distribuez donc le volume autant que possible pour éviter de créer une alerte et d’envoyer votre contenu vers le dossier des spams.
 * Mettez en place votre calendrier de contenu à l’avance et préparez les auteurs de contenu à une augmentation du volume d’envoi.
@@ -53,14 +53,14 @@ Voici quatre stratégies clés pour optimiser votre ROI :
    * Planifier stratégiquement les envois en fonction des heures de la journée où les personnes reçoivent une grosse quantité d’e-mails (8 heures à 10 heures).
    * Si vous ne pouvez pas répartir les envois sur plusieurs jours, essayez sur plusieurs heures.
 
-### 2. Infrastructure
+### 2.Infrastructure
 
 * Assurez-vous que l’authentification des e-mails est correctement configurée en effectuant un test avec votre propre adresse e-mail.
 * Familiarisez-vous avec la gestion des rebonds et vérifiez les performances sur tous vos FAI.
    * Existe-t-il des problèmes ou des blocages potentiels avec un FAI spécifique ?
    * Connaître vos problèmes avant de commencer à envoyer un volume élevé afin d’éviter les mauvaises surprises et les mauvaises performances de la campagne
 
-### &#x200B;3. Données
+### 3.Données
 
 * Identifiez toutes les techniques d’acquisition, en particulier vos processus d’inscription et le RGPD.
 * Soyez aussi transparent que possible avec vos abonnés lorsque vous demandez leur adresse e-mail :
@@ -68,10 +68,10 @@ Voici quatre stratégies clés pour optimiser votre ROI :
    * Combien d&#39;e-mails allez-vous envoyer (quotidien, hebdomadaire, mensuel) ?
 
 * Envoyez un e-mail de bienvenue aux nouveaux abonnés :
-   * Les e-mails de bienvenue permettent de s’assurer que les abonnés ne sont pas ignorés par le nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
+   * Les e-mails de bienvenue permettent de s’assurer que les personnes abonnées ne sont pas prises au dépourvu par du nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
    * Les e-mails de bienvenue constituent également un bon indicateur de performances. S&#39;ils ne sont pas diffusés avec succès ou si les abonnés n’interagissent pas avec eux, vous savez que c&#39;est un signe de mauvaises performances ou de mauvaise collecte de données.
 
-### &#x200B;4. Gestion des e-mails
+### 4.Gestion des e-mails
 
 * Segmenter vos abonnés et surveiller où ils se trouvent dans le cycle de vie de votre marque
 * Utiliser des stratégies de personnalisation du contenu pour améliorer la pertinence de vos e-mails
@@ -86,11 +86,11 @@ Les mesures clés à surveiller sont les suivantes :
 * Taux de clics inférieurs
 * Taux de désabonnement plus élevés
 
-Malheureusement, la plupart des abonnés lassés par vos e-mails ne vous faciliteront pas la tâche. Ils ne se désabonneront pas eux-mêmes, ce qui indique clairement qu&#39;ils ne sont pas satisfaits du contenu. Nombre d’entre eux suppriment simplement vos e-mails ou les ignorent, de sorte que vous pouvez toujours voir les ouvertures d’abonnés qui ne sont pas engagés. Si vous ne réagissez pas aux changements d&#39;habitudes de vos abonnés, cela peut nuire à votre réputation en tant qu’expéditeur et donc à votre succès global.
+Malheureusement, la plupart des abonnés lassés par vos e-mails ne vous faciliteront pas la tâche. Les personnes abonnées ne se désabonneront pas par elles-mêmes, ce qui indique clairement qu’elles ne sont pas satisfaites du contenu.Nombre d’entre eux suppriment simplement vos e-mails ou les ignorent, de sorte que vous pouvez toujours voir les ouvertures d’abonnés qui ne sont pas engagés. Si vous ne réagissez pas aux changements d&#39;habitudes de vos abonnés, cela peut nuire à votre réputation en tant qu’expéditeur et donc à votre succès global.
 
 Vous trouverez ci-dessous quelques bonnes pratiques pour maintenir l’engagement des profils abonnés et anticiper le type de contenu qu’ils souhaitent recevoir, afin d’éviter les désabonnements et les audiences inactives.
 
-### &#x200B;1. Créer une stratégie pour la fréquence des e-mails
+### 1.Créer une stratégie pour la fréquence des e-mails
 
 Il n’existe malheureusement pas de réponse quant au nombre d&#39;e-mails à envoyer par semaine. Pour déterminer le bon nombre, tenez compte des éléments suivants :
 
@@ -102,7 +102,7 @@ Il n’existe malheureusement pas de réponse quant au nombre d&#39;e-mails à e
 * Quelle est la capacité de votre client à recevoir du contenu de votre marque ?
 * Quelles sont les préférences saisonnières de vos clients ?
 
-### &#x200B;2. Identifier le statut de vos abonnés
+### 2.Identifier le statut de vos personnes abonnées
 
 Le statut de vos abonnés (actif, obsolète ou inactif) dépend de la fréquence à laquelle vous leur envoyez du contenu. De là, vous pouvez déterminer leur engagement.
 
@@ -114,7 +114,7 @@ Si, par exemple, vous envoyez un e-mail quotidien à des clients, ils doivent av
 
 Pour les utilisateurs obsolètes ou inactifs, pensez à regarder la date à laquelle ils se sont abonnés afin de déterminer leur niveau d’engagement Par exemple, ont-ils souscrit à la date d&#39;un concours ou d&#39;une autre campagne marketing ? Se sont-ils inscrits dans un pop-up de site web avec une offre de réduction ? Une fois que vous avez identifié vos utilisateurs inactifs, il est important de modifier votre stratégie afin d’améliorer leur satisfaction et de les transformer en des abonnés actifs.
 
-### &#x200B;3. Mettre en œuvre des stratégies de réengagement
+### 3.Mettre en œuvre des stratégies de réengagement
 
 Décomposez ce processus en deux domaines d’intervention : a) modèles d’envoi des e-mails et b) contenu créatif des e-mails. Voici un aperçu plus détaillé de chacun de ces domaines :
 
@@ -138,4 +138,4 @@ Décomposez ce processus en deux domaines d’intervention : a) modèles d’en
 
 * **Testez et apprenez** - Un bon plan de test est important pour vous assurer que vos efforts ont l’effet escompté. Déterminez ce qui fonctionne et ce qui ne fonctionne pas et tirez des enseignements.
 
-Pour en savoir plus sur la stratégie et le leadership de la pensée, consultez le hub [Perspectives](https://experienceleague.adobe.com/fr/perspectives).
+Pour en savoir plus sur la stratégie et le leadership éclairé, consultez le hub [Perspectives](https://experienceleague.adobe.com/fr/perspectives).

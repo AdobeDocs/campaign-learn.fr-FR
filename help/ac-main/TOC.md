@@ -6,9 +6,9 @@ user-guide-description: Découvrez comment utiliser les fonctionnalités de la c
 breadcrumb-title: Console cliente - Tutoriels
 auto-video-transcripts: true
 source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: tm+mt
-source-wordcount: '408'
-ht-degree: 96%
+workflow-type: ht
+source-wordcount: '496'
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
 + [Tutoriels sur la console cliente Adobe Campaign v8](/help/overview.md)
 + [Fonctionnalités clés de Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=fr)
 + Commencer {#getting-started}
-   + [Présentation d&#39;Adobe Campaign &#x200B;](/help/get-started/introduction-to-adobe-campaign.md)
+   + [Présentation d&#39;Adobe Campaign](/help/get-started/introduction-to-adobe-campaign.md)
    + [Guide d’adoption d’Adobe Campaign v8](https://experienceleague.adobe.com/fr/docs/campaign-web/acs-to-ac/home)
    + [Installation et configuration de la console cliente Adobe Campaign](/help/get-started/install-and-set-up-the-adobe-campaign-client-console.md)
    + [Exploration de l&#39;interface utilisateur d&#39;Adobe Campaign](/help/get-started/explore-the-adobe-campaign-user-interface.md)
@@ -35,7 +35,7 @@ ht-degree: 96%
    + [Créer des campagnes multicanal](/help/orchestrate-campaigns/multi-channel-campaigns.md)
    + [Création de campagnes cross-canal](/help/orchestrate-campaigns/cross-channel-campaigns.md)
 + Création de contenu {#content-creation}
-   + E-mail {#email}
+   + Email {#email}
       + [Création et conception de diffusions e-mail](/help/content-creation/create-and-design-email-deliveries.md)
       + [Configuration du contenu dynamique](/help/content-creation/configure-dynamic-content.md)
       + [Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique](/help/content-creation/personalize-using-dynamic-content-blocks.md)
@@ -45,7 +45,7 @@ ht-degree: 96%
    + [Configuration des landing pages](/help/content-creation/configure-landingpages.md)
    + [Créer une enquête](/help/content-creation/create-a-survey.md)
 + Envoyer des messages{#sending-messages}
-   + E-mail {#email}
+   + Email {#email}
       + [Envoi et validation des BAT pour une diffusion e-mail](/help/send-messages/email/send-and-validate-proofs.md)
       + [Utilisation des populations témoins](/help/send-messages/email/use-control-groups.md)
       + [Résolution des problèmes de diffusion e-mail](/help/send-messages/email/troubleshoot-email-delivery-issues.md)
@@ -53,11 +53,11 @@ ht-degree: 96%
       + [Optimiser le ROI des e-mails et les bonnes pratiques pour le réengagement des abonnés](/help/strategy/campaign-maximize-email-best-practices.md)
       + [Guide des bonnes pratiques en matière de délivrabilité](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=fr)
    + SMS {#sms}
-      + [Création d’une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
+      + [Créer une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Notifications push {#push}
       + [Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
       + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
-   + Courrier {#direct-mail}
+   + Canal Courrier {#direct-mail}
       + [Création de diffusions courrier](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Utiliser des modèles de diffusion{#using-delivery-templates}
       + [Création d&#39;un modèle de diffusion](/help/send-messages/use-delivery-templates/configure-a-delivery-template.md)
@@ -74,7 +74,7 @@ ht-degree: 96%
       + [Créer un workflow de ciblage](/help/process-management/create-a-targeting-workflow.md)
       + [Affinage des cibles en combinant les résultats des requêtes](/help/process-management/refine-targets-by-combining-query-results.md)
       + [Affinage des cibles en excluant les résultats des requêtes](/help/process-management/refine-targets-by-excluding-query-results.md)
-   + Validations et workflows de validation {#create-approvals-and-validation-workflows}
+   + Approbations et workflows de validation {#create-approvals-and-validation-workflows}
       + [Introduction](/help/process-management/create-approvals-and-validation-workflows/create-approvals-and-validation-workflows-introduction.md)
       + [Gestion des validations](/help/process-management/create-approvals-and-validation-workflows/manage-approvals.md)
       + [Configuration des validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md)
@@ -83,28 +83,28 @@ ht-degree: 96%
    + [Apprenez de vos pairs - bonnes pratiques relatives aux workflows](/help/process-management/workflow-best-practices-for-marketers.md)
 + Gestion des données {#data-management}
    + [Principes fondamentaux de la gestion des données avec les workflows](/help/data-management/data-management-fundamentals.md)
-   + [Modification de la source de données](/help/data-management/change-data-source.md)
+   + [Modifier la source de données](/help/data-management/change-data-source.md)
    + [Utilisation de l’activité de mise à jour de liste](/help/process-management/use-the-update-list-activity.md)
    + [Configuration d’activités d’enrichissement](/help/process-management/enrichment-activity.md)
    + [Création et extension d’un schéma](/help/data-management/create-and-extend-a-schema.md)
    + [Réplication des données](/help/data-management/data-replication.md)
    + [Mécanisme d’évaluation des API](/help/data-management/api-staging-mechanism.md)
-   + [Tutoriel : Utilisation des API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
-+ Connexion à d&#39;autres solutions {#connect}
-   + [Intégration à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
-   + [Intégration à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
+   + [Tutoriel : utiliser les API SOAP](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=fr)
++ Se connecter à d’autres solutions {#connect}
+   + [Intégrer à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
+   + [Intégrer à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
    + [Intégration à Adobe Target](/help/connect/target-integration.md)
    + [Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
-   + [Accès aux rapports natifs](/help/reporting/access-built-in-reports.md)
-   + [Génération d&#39;un rapport d&#39;analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
-+ Contrôle  {#monitoring}
+   + [Accéder aux rapports intégrés](/help/reporting/access-built-in-reports.md)
+   + [Générer un rapport d’analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
++ Contrôle {#monitoring}
    + [Carte thermique des workflows](/help/monitoring/workflow-heatmap.md)
    + [Journal d&#39;audit](/help/monitoring/audit-trail.md)
 + Administration {#administration}
    + [Gérer les autorisations utilisateur](/help/administration/manage-user-permissions.md)
    + [Panneau de contrôle](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=fr){target="_blank"}
-   + [Configurer des SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
-+ Stratégie et leadership{#strategy}
+   + [Configuration de SMS pour Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=fr)
++ Leadership en matière de stratégie et de pensée{#strategy}
    + [Dix bonnes pratiques destinées aux spécialistes du marketing qui souhaitent réussir avec Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
 + [Tutoriels sur l’interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr)

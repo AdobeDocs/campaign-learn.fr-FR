@@ -19,8 +19,8 @@ ht-degree: 100%
 
 # Création d&#39;une newsletter multilingue à l&#39;aide de contenu conditionnel
 
-Le paramétrage de champs de contenu conditionnel permet d&#39;atteindre un niveau de personnalisation avancé. Des blocs complets de texte et/ou des images sont remplacés lorsqu&#39;une condition particulière est remplie.
+En configurant des champs de contenu conditionnel, vous pouvez créer une personnalisation avancée. Des blocs de texte complets et/ou des images sont remplacés lorsqu’une condition particulière est remplie.
 
 Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446713?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}

@@ -11,8 +11,8 @@ level: Experienced
 recommendations: noCatalog
 exl-id: 91ff4bae-8598-4227-b4c9-4e436ce7400d
 source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
-workflow-type: tm+mt
-source-wordcount: '316'
+workflow-type: ht
+source-wordcount: '331'
 ht-degree: 100%
 
 ---
@@ -31,15 +31,15 @@ Avant de pouvoir commencer, vous devez disposer des éléments suivants :
 
    Vous trouverez une description détaillée des étapes requises dans la documentation du produit :
 
-   [Intégrer le SDK Campaign dans l&#39;application mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=fr)
+   [Intégrer le SDK Campaign dans l’application mobile](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/integrating-campaign-sdk-into-the-mobile-application.html?lang=fr)
 
 2) Package **[!DNL Mobile App channel]installé**
 
-   Le package [!DNL Mobile App channel] doit être installé sur votre instance [!DNL Campaign]. La vidéo suivante explique comment vérifier si [!DNL Mobile App channel] est installé sur votre instance et, dans le cas contraire, comment l&#39;installer.
+   Le package [!DNL Mobile App channel] doit être installé sur votre instance [!DNL Campaign]. La vidéo suivante explique comment vérifier si [!DNL Mobile App channel] est installé sur votre instance et, dans le cas contraire, comment l’installer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on){transcript=true}
 
-## Vue d’ensemble du tutoriel
+## Présentation du tutoriel
 
 L&#39;objectif consiste à envoyer une notification promotionnelle personnalisée [!DNL push] aux abonnés de l&#39;application mobile [!DNL Neotrip] [!DNL Android™]. L&#39;application [!DNL Neotrip] est configurée avec la balise [!DNL Campaign SDK] et la balise [!DNL Mobile App channel] est activée sur l&#39;instance [!DNL Campaign].
 
