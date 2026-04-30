@@ -5,10 +5,10 @@ user-guide-title: Tutoriels sur Adobe Campaign
 user-guide-description: Découvrez comment utiliser les fonctionnalités de la console cliente Adobe Campaign V8.
 breadcrumb-title: Console cliente - Tutoriels
 auto-video-transcripts: true
-source-git-commit: f7ee403f7889bb2627024725d92d544b30e93b80
-workflow-type: ht
+source-git-commit: ffa7a6da16e67856b96fdd0795f2d6990968ab22
+workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 100%
       + [Personnalisation des e-mails à l&#39;aide de blocs de contenu dynamique](/help/content-creation/personalize-using-dynamic-content-blocks.md)
       + [Personnalisation des e-mails à l&#39;aide d&#39;un champ de personnalisation](/help/content-creation/personalize-emails-using-personalization-fields.md)
       + [Création d&#39;une newsletter multilingue à l&#39;aide de contenu conditionnel](/help/content-creation/create-a-multilingual-newsletter-using-conditional-content.md)
-      + [Définition du contenu d&#39;e-mail interactif avec AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
+      + {hide-from-toc}[Définition du contenu d’e-mail interactif avec AMP](/help/content-creation/design-interactive-email-content-with-amp.md)
    + [Configuration des landing pages](/help/content-creation/configure-landingpages.md)
    + [Créer une enquête](/help/content-creation/create-a-survey.md)
 + Envoyer des messages{#sending-messages}
@@ -55,8 +55,8 @@ ht-degree: 100%
    + SMS {#sms}
       + [Créer une diffusion SMS](/help/send-messages/mobile/create-an-sms-delivery.md)
    + Notifications push {#push}
-      + [Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
-      + [Configuration du canal push à l&#39;aide du SDK Mobile Experience Platform](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
+      + {hide-from-toc}[Installation du canal des applications mobiles](/help/send-messages/mobile/install-the-mobile-app.md)
+      + {hide-from-toc}[Configuration du canal push à l&#39;aide d&#39;Experience Platform Mobile SDK](/help/send-messages/mobile/configure-push-using-aep-mobile-sdk.md)
    + Canal Courrier {#direct-mail}
       + [Création de diffusions courrier](/help/send-messages/direct-mail/create-direct-mail-deliveries.md)
    + Utiliser des modèles de diffusion{#using-delivery-templates}
@@ -94,7 +94,7 @@ ht-degree: 100%
    + [Intégrer à Adobe Experience Manager](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=fr)
    + [Intégrer à Adobe Experience Platform](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=fr)
    + [Intégration à Adobe Target](/help/connect/target-integration.md)
-   + [Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
+   + {hide-from-toc}[Intégration à Microsoft Dynamics 365](/help/connect/dynamics365-integration.md)
 + Reporting {#reporting}
    + [Accéder aux rapports intégrés](/help/reporting/access-built-in-reports.md)
    + [Générer un rapport d’analyse descriptive](/help/reporting/generate-a-descriptive-analysis-report.md)
