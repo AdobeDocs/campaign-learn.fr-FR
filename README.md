@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b2ca4943cd9b1785b84493007102d51d1d9898
-workflow-type: ht
-source-wordcount: '440'
+workflow-type: tm+mt
+source-wordcount: '413'
 ht-degree: 100%
 
 ---
@@ -11,7 +11,7 @@ Nous acceptons les contributions de notre communauté ainsi que celles du person
 
 ## Code de conduite Adobe Open Source
 
-Ce projet a adopté le [Code de conduite d’Adobe Open Source](code-of-conduct.md) ou le [Code de conduite de .NET Foundation](https://dotnetfoundation.org/code-of-conduct).Pour plus d’informations, consultez l’article [Contribution](contributing.md).
+Ce projet a adopté le [Code de conduite d’Adobe Open Source](code-of-conduct.md) ou le [Code de conduite de .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Pour plus d’informations, consultez l’article [Contribution](contributing.md).
 
 ## À propos de vos contributions au contenu d’Adobe
 
@@ -21,13 +21,13 @@ La façon dont vous contribuez dépend de qui vous êtes et du type de modificat
 
 ### Modifications mineures
 
-Si vous apportez des modifications mineures de bon cœur, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article.Ensuite, utilisez simplement l’interface d’utilisation GitHub pour effectuer vos mises à jour.Pour plus d’informations, consultez le [guide général en matière de contribution pour la documentation Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
+Si vous apportez des modifications mineures de bon cœur, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article. Ensuite, utilisez simplement l’interface d’utilisation GitHub pour effectuer vos mises à jour. Pour plus d’informations, consultez le [guide général en matière de contribution pour la documentation Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
 
 Les modifications ou précisions mineures que vous apportez à la documentation et aux exemples de code dans ce référentiel sont soumises aux conditions d’utilisation d’Adobe.
 
 ### Modifications majeures ou nouveaux articles des membres de la communauté
 
-Si vous faites partie de la communauté Adobe et que vous souhaitez rédiger un nouvel article ou apporter des modifications majeures, utilisez l’onglet Problèmes du référentiel Git pour soumettre un problème et commencer une conversation avec l’équipe de documentation.Une fois que vous avez accepté un plan, vous devez travailler avec une personne membre du personnel pour vous aider à introduire ce nouveau contenu en utilisant à la fois les référentiels publics et privés.
+Si vous faites partie de la communauté Adobe et que vous souhaitez rédiger un nouvel article ou apporter des modifications majeures, utilisez l’onglet Problèmes du référentiel Git pour soumettre un problème et commencer une conversation avec l’équipe de documentation. Une fois que vous avez accepté un plan, vous devez travailler avec une personne membre du personnel pour vous aider à introduire ce nouveau contenu en utilisant à la fois les référentiels publics et privés.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
@@ -47,7 +47,7 @@ Pour plus d’informations, consultez le [guide de contribution pour la document
 
 ## Comment utiliser Markdown pour mettre en forme votre rubrique
 
-Tous les articles de ce référentiel utilisent le langage Markdown adapté de GitHub.Si vous ne maîtrisez pas Markdown, consultez :
+Tous les articles de ce référentiel utilisent le langage Markdown adapté de GitHub. Si vous ne maîtrisez pas Markdown, consultez :
 
 * [Concepts de base de Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
 * [Aide-mémoire Markdown imprimable](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
