@@ -10,9 +10,16 @@ team: TM
 role: User
 level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
-source-git-commit: 4d21755204c22fbeb4ac3a2916e9ee68cd2e0f9a
-workflow-type: ht
-source-wordcount: '233'
+TQID: https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 233
 ht-degree: 100%
 
 ---
@@ -29,7 +36,7 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
   Une diffusion au fil de l&#39;eau crée une diffusion et des logs de diffusion UNIQUES (broadLog) et des logs de tracking qui font référence à l&#39;ajout d&#39;une diffusion chaque fois qu&#39;elle s&#39;exécute.
 
-![Diffusion au fil de l&#39;eau](/help/assets/delivery_continuous.jpg)
+![Diffusion continue](/help/assets/delivery_continuous.jpg)
 
 * Une **diffusion récurrente** crée une instance de diffusion chaque fois qu&#39;elle s&#39;exécute. Par exemple, si le workflow est planifié pour s&#39;exécuter une fois par semaine, 52 diffusions seront créées en une année. Cela signifie également que le broadlog et les logs de tracking sont séparés par instance de diffusion.
 
@@ -39,10 +46,10 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
 La vidéo explique comment configurer une diffusion récurrente et une activité Planificateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446876?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446876?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 ## Comment configurer une diffusion au fil de l’eau {#how-to-set-up-a-continuous-delivery}
 
-Cette vidéo montre comment configurer une diffusion au fil de l&#39;eau avec une requête incrémentale.
+Cette vidéo montre comment configurer une diffusion en continu avec une requête incrémentale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444569?quality=12&learn=on&captions=fre_fr){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444569?captions=fre_fr&quality=12&learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: Création d’un schéma et d’un jeu de données de journaux Campaign dans Adobe Experience Platform
-description: Découvrez comment créer un schéma et un jeu de données dans Adobe Experience Platform qui peuvent être utilisés pour ingérer des données de journaux Campaign dans Platform.
+title: Création d’un schéma et d’un jeu de données de logs de campagne dans Adobe Experience Platform
+description: Découvrez comment créer un schéma et un jeu de données dans Adobe Experience Platform qui peuvent être utilisés pour ingérer des données de logs de campagne dans Platform.
 feature: Data Management
 jira: KT-8161
 thumbnail: 336903.jpg
@@ -10,15 +10,22 @@ team: TM
 role: Developer
 level: Experienced
 exl-id: f10c7a18-8ba3-4527-a92b-bc95403042c8
-source-git-commit: 116a24a8aa123f615e08fa4ebd187b3c4c460ba2
+TQID: https://experienceleague.adobe.com/K5z01Go-6WK4Cr4iKmct-uxwZT6aQ1LaTLkEajdHTGY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: 68
 ht-degree: 100%
 
 ---
 
-# Création d’un schéma et d’un jeu de données de journaux Campaign dans Adobe Experience Platform
+# Création d’un schéma et d’un jeu de données de logs de campagne dans Adobe Experience Platform
 
-Découvrez comment créer un schéma et un jeu de données dans Adobe Experience Platform qui peuvent être utilisés pour ingérer des données de journaux Campaign dans Platform.
+Découvrez comment créer un schéma et un jeu de données dans Adobe Experience Platform qui peuvent être utilisés pour ingérer des données de logs de campagne dans Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336903?quality=12&learn=on){transcript=true}

@@ -5,9 +5,25 @@ role: User
 level: Beginner, Experienced
 jira: KT-15788
 exl-id: 0d11eeed-414b-47a1-9c30-41d91a0e5900
-source-git-commit: 06103a19174734f33761f05c19fd080ae5a9ca96
-workflow-type: ht
-source-wordcount: '2242'
+TQID: https://experienceleague.adobe.com/IPKTwihpRvIqbVyEwKVprAtOLT711jqKdHAScQGnT-U
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2:
+  - id: a075b2c1-7748-4328-b7f6-343aa314616a
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+subfeature_v2:
+  - id: b1fd1501-3105-4d6b-b4d4-9af53126df75
+  - id: c3bf7e1e-1db5-4c72-9293-e2f0b1ab73d0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+workflow-type: tm+mt
+source-wordcount: 2242
 ht-degree: 100%
 
 ---
@@ -119,7 +135,7 @@ Découvrez comment créer entièrement une diffusion par e-mail, définir l’au
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454007?captions=fre_fr&quality=12&learn=on){transcript=true}
 
-#### 1.Concevoir et définir du contenu
+#### &#x200B;1. Concevoir et définir du contenu
 
 Découvrez comment naviguer dans le Concepteur d’e-mail. Découvrez comment structurer et concevoir entièrement un e-mail, et personnaliser et tester votre e-mail.
 
@@ -129,13 +145,13 @@ Découvrez comment créer un e-mail en chargeant un fichier HTML, le rendre com
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447034?captions=fre_fr&quality=12&learn=on){transcript=true}
 
-#### 2.Prévisualiser et tester
+#### &#x200B;2. Prévisualiser et tester
 
 Découvrez comment prévisualiser le contenu et la personnalisation des e-mails, envoyer des diffusions de test (BAT), ou encore vérifier le rendu des e-mails dans les clients populaires de bureau, mobiles et web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450339?captions=fre_fr&quality=12&learn=on){transcript=true}
 
-#### 3.Envoyer un e-mail et consulter les logs
+#### &#x200B;3. Envoyer un e-mail et consulter les logs
 
 <!--
 CARDS
