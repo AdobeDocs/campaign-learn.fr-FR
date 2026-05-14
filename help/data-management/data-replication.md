@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Identifiez les bases de données utilisées par Adobe Campaign V8, les raisons de la réplication des données, les données qui sont répliquées et le fonctionnement du processus de réplication.
 
->[!VIDEO](https://video.tv.adobe.com/v/334460?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3416865?captions=fre_fr&quality=12&learn=on){transcript=true}

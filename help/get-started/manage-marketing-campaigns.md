@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Maîtrisez les concepts clés d’[!UICONTROL Adobe Campaign] afin de planifier, d’exécuter et de mesurer efficacement les campagnes marketing cross-canal.
 
->[!VIDEO](https://video.tv.adobe.com/v/335608?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449646?captions=fre_fr&quality=12&learn=on){transcript=true}

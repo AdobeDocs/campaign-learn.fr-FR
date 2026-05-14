@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Découvrez comment envoyer et valider un BAT pour une diffusion e-mail.
 
->[!VIDEO](https://video.tv.adobe.com/v/333404?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447001?captions=fre_fr&quality=12&learn=on){transcript=true}

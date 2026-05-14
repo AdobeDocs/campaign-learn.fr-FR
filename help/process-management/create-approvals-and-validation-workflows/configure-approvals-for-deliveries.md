@@ -31,4 +31,4 @@ Découvrez comment configurer les validations et les validants au niveau de la d
 
 Configurez les validations au niveau de la diffusion, si les étapes de validation et les validants diffèrent entre les diffusions.
 
->[!VIDEO](https://video.tv.adobe.com/v/338828?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437647?captions=fre_fr&quality=12&learn=on){transcript=true}

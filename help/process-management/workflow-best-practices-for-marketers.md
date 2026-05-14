@@ -36,4 +36,4 @@ ht-degree: 100%
 
 Workflows, une puissante fonctionnalité d’Adobe Campaign, vous permet de gérer les campagnes et de joindre vos clients plus facilement. Découvrez et appliquez cinq bonnes pratiques essentielles relatives aux workflows pour les spécialistes marketing par Adam Wilson, directeur adjoint du service marketing, chez LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448122?captions=fre_fr&quality=12&learn=on){transcript=true}

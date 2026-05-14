@@ -30,7 +30,7 @@ ht-degree: 100%
 
 Découvrez comment étendre le schéma d&#39;[!UICONTROL abonnement de l&#39;application] afin de stocker les valeurs de personnalisation [!DNL Campaign] reçues d&#39;une application mobile.
 
->[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445554?captions=fre_fr&quality=12&learn=on){transcript=true}
 
 **Étape suivante**
 

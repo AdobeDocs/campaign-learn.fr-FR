@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Découvrez comment affiner votre cible à l’aide d’activités d’intersection ou d’union pour combiner les résultats des requêtes dans un workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/334304?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3429338?captions=fre_fr&quality=12&learn=on){transcript=true}

@@ -32,4 +32,4 @@ ht-degree: 100%
 
 Découvrez ce que sont les dimensions de ciblage et les tableaux de travail, ainsi que la manière dont Adobe Campaign gère les données provenant de différentes sources de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/339992?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452593?captions=fre_fr&quality=12&learn=on){transcript=true}

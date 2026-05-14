@@ -30,4 +30,4 @@ ht-degree: 100%
 
 Découvrez comment surveiller la charge sur l&#39;instance et planifier les plannings de workflow en conséquence.
 
->[!VIDEO](https://video.tv.adobe.com/v/342084?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445399?captions=fre_fr&quality=12&learn=on){transcript=true}

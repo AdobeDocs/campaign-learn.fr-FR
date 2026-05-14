@@ -27,4 +27,4 @@ ht-degree: 100%
 
 Découvrez comment personnaliser une diffusion avec du contenu dynamique diffusé à partir d&#39;Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453259?captions=fre_fr&quality=12&learn=on){transcript=true}

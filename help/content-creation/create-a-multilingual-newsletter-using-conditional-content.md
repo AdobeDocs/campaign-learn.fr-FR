@@ -32,4 +32,4 @@ En configurant des champs de contenu conditionnel, vous pouvez créer une person
 
 Découvrez comment ajouter du contenu conditionnel à une diffusion en prenant pour exemple une newsletter multilingue.
 
->[!VIDEO](https://video.tv.adobe.com/v/335682?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446713?captions=fre_fr&quality=12&learn=on){transcript=true}
