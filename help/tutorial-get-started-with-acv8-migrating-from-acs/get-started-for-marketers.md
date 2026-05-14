@@ -155,9 +155,9 @@ Découvrez comment prévisualiser le contenu et la personnalisation des e-mails,
 
 <!--
 CARDS
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/prepare-send
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending
-   * https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/prepare-send
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending
+   * https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -166,7 +166,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending" title="Planifier l’envoi d’une diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planifier l’envoi d’une diffusion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/schedule-sending./media_1d94ae6d7d3ea28ea41314ef4629959b108def4f5.png?width=400&format=png&optimize=medium" alt="Planifier l’envoi d’une diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -189,7 +189,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs" title="Surveiller les logs de diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Surveiller les logs de diffusion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/email/monitor/delivery-logs./media_137d3bd4aa636d469b951f7d658ff24249d058218.png?width=400&format=png&optimize=medium" alt="Surveiller les logs de diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -317,11 +317,11 @@ Adobe Campaign v8 prend en charge le canal de notification push Android™ et 
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -330,7 +330,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize" title="Personnaliser votre contenu dans Campaign" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personnaliser votre contenu dans Campaign"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/personalize./media_12f19278a25e98883be1218a564ba7f046bb34d40.png?width=400&format=png&optimize=medium" alt="Personnaliser votre contenu dans Campaign"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -353,7 +353,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions" title="Créer du contenu conditionnel" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Créer du contenu conditionnel"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/dynamic-content/conditions./media_1ce24cc4936895252dfddd44820f778e666bdb3b8.png?width=400&format=png&optimize=medium" alt="Créer du contenu conditionnel"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -376,7 +376,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates" title="Utiliser des modèles de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Utiliser des modèles de contenu"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/content-templates/create-email-templates./media_159392b3df68ef802cfe776fdeec81a1441a44571.png?width=400&format=png&optimize=medium" alt="Utiliser des modèles de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -399,7 +399,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments" title="Commencer avec les fragments de contenu" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Commencer avec les fragments de contenu"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/content/manage-reusable-content/fragments/fragments./media_1710a103fc90af7ee4bd7dd9cc8954a6cadd33042.png?width=400&format=png&optimize=medium" alt="Commencer avec les fragments de contenu"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -422,7 +422,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers" title="Ajouter des offres à vos messages" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Ajouter des offres à vos messages"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/msg/offers./media_1007fce0f51861b591751feda18759a4054cfac77.png?width=400&format=png&optimize=medium" alt="Ajouter des offres à vos messages"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -455,13 +455,13 @@ Adobe Campaign propose trois types de [rapports standard](https://experiencele
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports
 {title = Delivery Reports}
 {description = Offer a thorough analysis of each delivery's performance, per channel: success rates, audience engagement, and other essential metrics. They allow you to evaluate the overall effectiveness and impact of your campaign.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports
 {title = Campaign Reports}
 {description = Provide detailed information on the performance, effectiveness, and outcomes of your individual deliveries, providing you with a comprehensive overview.}
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports
 {title = Global Reports}
 {description = Offer a consolidated overall summary of traffic and engagement metrics for each channel within your Campaign instance. These reports consist of various widgets, each offering a distinct perspective on your campaign or delivery performance.}
 -->
@@ -472,7 +472,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports" title="Rapports de diffusion" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Rapports de diffusion"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/delivery-report/delivery-reports./media_1cffb8e35bc7db2ef8a0f3126a2980df463807c2c.png?width=400&format=png&optimize=medium" alt="Rapports de diffusion"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -495,7 +495,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports" title="Rapports de campagne" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Rapports de campagne"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/campaign-report/campaign-reports./media_1f0d073b24318b6cfae4094273be6035dfa63026e.png?width=400&format=png&optimize=medium" alt="Rapports de campagne"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -518,7 +518,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports" title="Rapports globaux" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Rapports globaux"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/reports/standard-reports/global-report/global-reports./media_1e3aefd7c07e641a8fc0b20ca46dfbb886e5a003b.png?width=400&format=png&optimize=medium" alt="Rapports globaux"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -545,8 +545,8 @@ CARDS
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets
-* https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets
+* https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -555,7 +555,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets" title="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-assets./media_1ea8e5cd848d37cef0717acdd54909200646ea4b2.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager Assets as a Cloud Service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -578,7 +578,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content" title="Gérer les ressources avec Adobe Experience Manager as a Cloud service" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager as a Cloud service"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign-web/v8/integrations/aem-content./media_12fb0d2d1cbd464cc906709dc5456f118b9fdcb4c.png?width=400&format=png&optimize=medium" alt="Gérer les ressources avec Adobe Experience Manager as a Cloud service"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -606,10 +606,10 @@ Les intégrations suivantes sont disponibles dans la console cliente Adobe Camp
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa
-* https://experienceleague.adobe.com/en/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at
-* https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-triggers
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa
+* https://experienceleague.adobe.com/fr/docs/campaign-classic/using/integrating-with-adobe-experience-cloud/audience-sharing/sharing-audiences-with-adobe-experience-cloud
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at
+* https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-triggers
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -618,7 +618,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa" title="Utilisation de Campaign et Adobe Analytics" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Analytics"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-aa./media_1f07d7a8263e7fa563d2c1ee77e7469c91d3950e7.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Analytics"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -664,7 +664,7 @@ CARDS
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at" title="Utilisation de Campaign et Adobe Target" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Target"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/connect/ac-at./media_1f00f91acd6755164526f838fa5c078c6331cc18a.png?width=400&format=png&optimize=medium" alt="Utilisation de Campaign et Adobe Target"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
