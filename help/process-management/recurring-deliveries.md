@@ -11,12 +11,9 @@ role: User
 level: Intermediate
 exl-id: 469aecd7-4774-42c6-b07f-82792dfdc9c2
 TQID: https://experienceleague.adobe.com/pdYTRO3rBq3BdS-WUGcx3POKjD6V4lH1dco4W9L6FwM
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
 workflow-type: tm+mt
 source-wordcount: 233
@@ -46,10 +43,10 @@ Les diffusions récurrentes et au fil de l&#39;eau diffèrent dans la façon don
 
 La vidéo explique comment configurer une diffusion récurrente et une activité Planificateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446876?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342638?quality=12&learn=on){transcript=true}
 
 ## Comment configurer une diffusion au fil de l’eau {#how-to-set-up-a-continuous-delivery}
 
 Cette vidéo montre comment configurer une diffusion en continu avec une requête incrémentale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444569?captions=fre_fr&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/342637?quality=12&learn=on){transcript=true}
