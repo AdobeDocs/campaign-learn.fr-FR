@@ -3,7 +3,7 @@ user-guide-title: Utilisation des API SOAP
 user-guide-description: Découvrez comment utiliser les API Soap Adobe Campaign et créer un processus de diffusion avancé.
 breadcrumb-title: Utilisation des API SOAP
 source-git-commit: 20c0036a74e3693af9f9fd1ac92365fb9bd6b8d3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
