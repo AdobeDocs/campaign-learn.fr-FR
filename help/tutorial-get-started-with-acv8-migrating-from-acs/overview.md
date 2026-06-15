@@ -18,9 +18,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
-source-wordcount: 180
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: 176
+ht-degree: 100%
 
 ---
 
@@ -52,12 +52,12 @@ Ce guide de référence a été conçu pour les utilisateurs et utilisatrices qu
   <tr>
     <td>
     <a href="get-started-for-marketers.md">
-    <strong>Professionnel du marketing</strong>
+    <strong>Personne spécialiste du marketing</strong>
     </a>
     </td>
     <td>
       <a href="get-started-for-administrators-developers.md">
-      <strong>Administrateur ou développeur</strong>
+      <strong>Administrateur ou administratrice ou développeur ou développeuse</strong>
       </a>
     </td>
   </tr>
