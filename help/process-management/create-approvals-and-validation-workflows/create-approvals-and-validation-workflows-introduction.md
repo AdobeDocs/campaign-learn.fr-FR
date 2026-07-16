@@ -19,9 +19,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 267
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,11 +38,10 @@ Avant d&#39;activer les étapes de validation, l&#39;équipe marketing doit déf
 
 ## Configuration des validations {#configuring-approvals}
 
-1. [Configuration des validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md) :
+1. [Configurer des validations pour les campagnes](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-campaigns.md) :
 Si vous disposez du même jeu de validants pour toutes les diffusions de votre workflow de campagne, appliquez la fonctionnalité de validation de la campagne, en configurant les validations et les validants au niveau de la campagne. Les tâches de validation et les validants sont redirigés vers chaque activité de diffusion de votre workflow une fois celui-ci exécuté.
-2. [Configuration des validations pour les diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md) :
+2. [Configurer des validations pour les diffusions](/help/process-management/create-approvals-and-validation-workflows/configure-approvals-for-deliveries.md) :
 Vous pouvez également configurer les validations au niveau de la diffusion. Si les étapes de validation et les validants des diffusions diffèrent de ceux de la campagne, les paramètres de la diffusion remplacent ceux de la campagne.
-3. [Création d&#39;un processus de validation dans un workflow](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md) :
-L’activité Validation permet la création d’un processus de validation au sein d’un workflow. Ainsi, la logique de sélection du ciblage peut être validée avant le lancement de la diffusion. Cela permet également la validation à plusieurs niveaux dans le workflow, si nécessaire.
+3. [Créer un processus de validation dans un workflow ](/help/process-management/create-approvals-and-validation-workflows/create-approval-process-in-a-workflow.md):L’activité de validation permet la création d’un processus de validation au sein d’un workflow.Ainsi, la logique de sélection du ciblage peut être validée avant le lancement de la diffusion. Cela permet également la validation à plusieurs niveaux dans le workflow, si nécessaire.
 
 Pour plus d’informations, consultez la [documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html?lang=fr).
