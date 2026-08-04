@@ -28,4 +28,4 @@ ht-degree: 100%
 
 Maîtrisez le concept de populations témoins et apprenez à en utiliser une pour votre diffusion.
 
->[!VIDEO](https://video.tv.adobe.com/v/335606?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446920?captions=fre_fr&quality=12&learn=on){transcript=true}
