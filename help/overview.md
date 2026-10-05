@@ -6,29 +6,44 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 exl-id: ec352448-e40b-4d22-b566-d25783e74b63
-TQID: https://experienceleague.adobe.com/GAu66q2WgwmhB6M2TMq5i17lBUpejBmsV02u2sW7zQ4
+TQID: 'https://experienceleague.adobe.com/GAu66q2WgwmhB6M2TMq5i17lBUpejBmsV02u2sW7zQ4'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: d0e9f0b2-1f2b-4134-9844-49cd4e950f27
+    internal-label: Campaign v8
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
   - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: e8d937ec-9046-41b5-834b-d22a624e0d37
+    internal-label: Campaign overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Data management
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 406
+source-wordcount: '473'
 ht-degree: 100%
-
 ---
-
 # Tutoriels sur la console cliente Adobe Campaign v8
 
 Adobe Campaign offre une plateforme permettant de concevoir des expériences cross-canal pour les clientes et clients et propose un environnement pour l’orchestration visuelle des campagnes, la gestion d’interactions en temps réel et l’exécution cross-canal (Cross-channel Execution). Ce guide contient des vidéos et des tutoriels sur les nombreuses fonctionnalités de la console cliente Adobe Campaign v8.
@@ -39,7 +54,7 @@ Voir
 > Avez-vous des questions ? Voulez-vous partager votre expérience ou échanger des idées avec vos pairs ? Ou avez-vous à formuler des commentaires concernant le contenu de formation pour l&#39;équipe d&#39;Adobe ? Rejoignez la conversation dans le [thread de la communauté d’apprentissage Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096) !
 > 
 > Vous ne trouvez pas ce que vous voulez dans ces tutoriels ?
-> Consultez [Tutoriels sur l’interface d’utilisation d’Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr) pour des conseils sur l’utilisation de l’interface d’utilisation de Campaign Web.
+> Voir [Tutoriels sur l’interface utilisateur web d’Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/overview.html?lang=fr) pour des conseils sur l’utilisation de l’interface utilisateur web de Campaign.
 
 >[!NOTE]
 > Actuellement, Campaign v8 n’est disponible qu’en tant que Cloud Service géré et ne peut pas être déployé dans des environnements On-premise ou hybrides. La migration automatisée depuis un environnement Campaign Classic v7 existant n’est pas encore disponible.
@@ -97,7 +112,7 @@ Voir
     </a>
     </div>
     <p>
-    <em>Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l’aide de règles de typologie. </em>
+    <em>Découvrez comment implémenter la gestion de la lassitude dans Adobe Campaign à l'aide de règles de typologie. </em>
     <p>
   </td>
 </tr>
@@ -113,7 +128,7 @@ Voir
     </a>
     </div>
     <p>
-    <em>Découvrez comment générer un rapport d’analyse descriptive à partir d’un workflow.</em>
+    <em>Découvrez comment générer un rapport d'analyse descriptive à partir d'un workflow.</em>
     <p>
   </td>
   <td>
@@ -126,7 +141,7 @@ Voir
     </a>
     </div>
     <p>
-    <em>Découvrez ce que sont les dimensions de ciblage et les tableaux de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.</em>
+    <em>Découvrez ce que sont les dimensions de ciblage et les tableaux de travail, ainsi que la manière dont Adobe Campaign gère les données entre différentes sources de données.</em>
     <p>
   </td>
   <td>
@@ -139,7 +154,7 @@ Voir
     </a>
     </div>
     <p>
-    <em>Découvrez comment fonctionne le mécanisme d’évaluation des API avec Full FDA.</em>
+    <em>Découvrez comment fonctionne le mécanisme d'évaluation des API avec Full FDA.</em>
     <p>
   </td>
 </tr>
