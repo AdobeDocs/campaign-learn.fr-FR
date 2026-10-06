@@ -6,28 +6,39 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 324590c9-0381-42ea-ac51-8cb47ba6813d
-TQID: https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc
+TQID: 'https://experienceleague.adobe.com/gN3c6c8m-9p6c1BmdHju2BJC5KXX75UyJk97hPcqaZc'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 1f6ccc9f0e59ce16a4e781d2d366cf0257b1c8aa
+    internal-label: Personalization
+source-git-commit: 369f9c3691b6326e521ebc9139aac1d2ee7c3ce2
 workflow-type: tm+mt
-source-wordcount: 1474
+source-wordcount: '1474'
 ht-degree: 100%
-
 ---
-
 # ROI des e-mails et bonnes pratiques pour le réengagement des abonnés
 
 Le marketing par e-mail est un outil précieux pour développer la fidélité à la marque et augmenter les ventes. Cependant, en raison du grand nombre d’e-mails reçus par jour, sans parler des autres contenus numériques consommés, il est important que votre contenu se distingue des autres. Il est aussi important qu&#39;il réponde aux besoins uniques de votre audience.
@@ -64,27 +75,27 @@ Voici quatre stratégies clés pour optimiser votre ROI :
 * Les FAI effectuent le suivi de votre moyenne d’envoi à partir d’une adresse IP ; distribuez donc le volume autant que possible pour éviter de créer une alerte et d’envoyer votre contenu vers le dossier des spams.
 * Mettez en place votre calendrier de contenu à l’avance et préparez les auteurs de contenu à une augmentation du volume d’envoi.
 * Pensez à la façon dont vous planifiez vos e-mails et évitez un pic de volume d’envoi. Adoptez quelques tactiques, telles que :
-   * Ne pas envoyer une grosse quantité d’e-mails au même moment, mais répartir plutôt l’envoi sur quelques jours
-   * Planifier stratégiquement les envois en fonction des heures de la journée où les personnes reçoivent une grosse quantité d’e-mails (8 heures à 10 heures).
-   * Si vous ne pouvez pas répartir les envois sur plusieurs jours, essayez sur plusieurs heures.
+  * Ne pas envoyer une grosse quantité d’e-mails au même moment, mais répartir plutôt l’envoi sur quelques jours
+  * Planifier stratégiquement les envois en fonction des heures de la journée où les personnes reçoivent une grosse quantité d’e-mails (8 heures à 10 heures).
+  * Si vous ne pouvez pas répartir les envois sur plusieurs jours, essayez sur plusieurs heures.
 
 ### 2. Infrastructure
 
 * Assurez-vous que l’authentification des e-mails est correctement configurée en effectuant un test avec votre propre adresse e-mail.
 * Familiarisez-vous avec la gestion des rebonds et vérifiez les performances sur tous vos FAI.
-   * Existe-t-il des problèmes ou des blocages potentiels avec un FAI spécifique ?
-   * Connaître vos problèmes avant de commencer à envoyer un volume élevé afin d’éviter les mauvaises surprises et les mauvaises performances de la campagne
+  * Existe-t-il des problèmes ou des blocages potentiels avec un FAI spécifique ?
+  * Connaître vos problèmes avant de commencer à envoyer un volume élevé afin d’éviter les mauvaises surprises et les mauvaises performances de la campagne
 
 ### &#x200B;3. Données
 
 * Identifiez toutes les techniques d’acquisition, en particulier vos processus d’inscription et le RGPD.
 * Soyez aussi transparent que possible avec vos abonnés lorsque vous demandez leur adresse e-mail :
-   * Quel contenu allez-vous envoyer (newsletter, promotions, événements) ?
-   * Combien d&#39;e-mails allez-vous envoyer (quotidien, hebdomadaire, mensuel) ?
+  * Quel contenu allez-vous envoyer (newsletter, promotions, événements) ?
+  * Combien d&#39;e-mails allez-vous envoyer (quotidien, hebdomadaire, mensuel) ?
 
 * Envoyez un e-mail de bienvenue aux nouveaux abonnés :
-   * Les e-mails de bienvenue permettent de s’assurer que les personnes abonnées ne sont pas prises au dépourvu par du nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
-   * Les e-mails de bienvenue constituent également un bon indicateur de performances. S&#39;ils ne sont pas diffusés avec succès ou si les abonnés n’interagissent pas avec eux, vous savez que c&#39;est un signe de mauvaises performances ou de mauvaise collecte de données.
+  * Les e-mails de bienvenue permettent de s’assurer que les personnes abonnées ne sont pas prises au dépourvu par du nouveau contenu et ne se désabonnent pas ou ne le signalent pas comme spam.
+  * Les e-mails de bienvenue constituent également un bon indicateur de performances. S&#39;ils ne sont pas diffusés avec succès ou si les abonnés n’interagissent pas avec eux, vous savez que c&#39;est un signe de mauvaises performances ou de mauvaise collecte de données.
 
 ### &#x200B;4. Gestion des e-mails
 
@@ -111,9 +122,9 @@ Il n’existe malheureusement pas de réponse quant au nombre d&#39;e-mails à e
 
 * Où se trouve votre client dans le cycle de vie du client ?
 * À quel point vos e-mails sont-ils interactifs ?
-   * Abandon de panier par e-mail ou newsletter
-   * E-mail de réactivation/lancement de vente
-   * E-mail d’abandon de panier par rapport au lancement d’un nouveau produit
+  * Abandon de panier par e-mail ou newsletter
+  * E-mail de réactivation/lancement de vente
+  * E-mail d’abandon de panier par rapport au lancement d’un nouveau produit
 * Quelle est la capacité de votre client à recevoir du contenu de votre marque ?
 * Quelles sont les préférences saisonnières de vos clients ?
 
