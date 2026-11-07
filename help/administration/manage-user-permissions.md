@@ -46,4 +46,4 @@ Découvrez comment configurer et gérer les autorisations d’utilisation pour C
 * Droits nommés
 * Ajouter des autorisations au niveau des dossiers
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505212/?captions=fre_fr&learn=on)
