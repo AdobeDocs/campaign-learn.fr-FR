@@ -70,7 +70,7 @@ Découvrez le modèle d’autorisation global : opérateurs, groupes d’opéra
    * Créer des groupes d’opérateurs et attribuer des droits nommés
    * Mapper des profils de produit ⇄ des groupes d’opérateurs
 
->[!VIDEO](https://video.tv.adobe.com/v/3438198/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505212/?captions=fre_fr&learn=on)
 
 Consultez la [documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/permissions/manage-permissions){target="_blank"} pour obtenir un guide détaillé et écrit.
 
